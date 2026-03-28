@@ -115,6 +115,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-on-amazon/</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://msbayunes.github.io/smartpicksai/home/best-affordable-home-kitchen-on-amazon/</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://msbayunes.github.io/smartpicksai/home/best-affordable-home-kitchen-products-on-amazon/</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,6 +170,12 @@
   </url>
   <url>
     <loc>https://msbayunes.github.io/smartpicksai/sports/best-affordable-sporting-goods-on-amazon/</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-on-amazon/</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
