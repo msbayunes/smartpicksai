@@ -1,0 +1,101 @@
+# SmartPicksAI - robots.txt
+# Allow all AI search bots to crawl and cite our content
+
+# === AI Search Bots (HIGH PRIORITY - these show source links) ===
+
+# OpenAI - ChatGPT Search
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google AI Overviews & Gemini
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Microsoft Copilot (via Bing)
+User-agent: Bingbot
+Allow: /
+
+# Anthropic - Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# xAI - Grok
+User-agent: GrokBot
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Phind
+User-agent: PhindBot
+Allow: /
+
+# Apple
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Amazon
+User-agent: Amazonbot
+Allow: /
+
+# Brave Search
+User-agent: Brave
+Allow: /
+
+# === AI Training Bots (Allow = increases citation chances) ===
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# === Block unwanted crawlers ===
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+# === Default: Allow all others ===
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://msbayunes.github.io/smartpicksai/sitemap.xml

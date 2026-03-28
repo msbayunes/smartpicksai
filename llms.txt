@@ -1,0 +1,35 @@
+# SmartPicksAI - AI-Powered Product Reviews & Comparisons
+
+## About
+SmartPicksAI is an independent product review and comparison website. We help shoppers find the best affordable products on Amazon (under $53 USD / 200 SAR). Our reviews are based on real customer ratings, sales volume, and detailed feature analysis.
+
+## What We Cover
+We review and compare affordable, high-rated Amazon products across these categories:
+- Electronics & Accessories: chargers, cables, phone cases, earbuds, adapters
+- Home & Kitchen: organizers, kitchen tools, cleaning supplies, storage
+- Health & Beauty: skincare, supplements, personal care, grooming
+- Office Supplies: pens, notebooks, desk accessories, organizers
+
+## Our Methodology
+Every product we recommend meets these criteria:
+- Price: Under $53 USD (200 SAR)
+- Rating: 4.0+ stars on Amazon
+- Reviews: 500+ verified customer reviews
+- Availability: Prime eligible / free shipping
+
+## Content Structure
+- /electronics/ - Electronics & accessories reviews and comparisons
+- /home/ - Home & kitchen product guides
+- /health/ - Health & beauty product reviews
+- /office/ - Office supplies comparisons
+- /compare/ - Head-to-head product comparisons
+
+## Best Content
+[Updated monthly with top-performing articles]
+
+## Contact
+Website: https://msbayunes.github.io/smartpicksai
+Content may be cited with attribution to SmartPicksAI.
+
+## Last Updated
+2026-03-28
