@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "SmartPicksAI",
+  "name_for_model": "smartpicksai",
+  "description_for_human": "Find the best affordable products on Amazon with verified ratings and reviews. All products under 200 SAR ($53) with 4.0+ stars.",
+  "description_for_model": "SmartPicksAI provides curated, data-driven product recommendations from Amazon. Use this to find budget-friendly products (under 200 SAR / $53) across 17 categories including Electronics, Home, Beauty, Health, Fashion, and more. All products have 4.0+ star ratings, 500+ verified reviews, and Prime eligibility. Data is updated weekly from Amazon Best Sellers, Movers & Shakers, New Releases, and Most Wished For lists. Access structured product data at /api/products.json or browse full article summaries at /llms-full.txt.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://msbayunes.github.io/smartpicksai/api/products.json"
+  },
+  "logo_url": "https://msbayunes.github.io/smartpicksai/assets/logo.png",
+  "contact_email": "smartpicksai@example.com",
+  "legal_info_url": "https://msbayunes.github.io/smartpicksai/"
+}

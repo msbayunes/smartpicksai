@@ -1,0 +1,670 @@
+{
+  "name": "SmartPicksAI",
+  "description": "Best affordable products on Amazon with verified ratings",
+  "last_updated": "2026-03-30",
+  "criteria": {
+    "min_rating": 4.0,
+    "min_reviews": 500,
+    "max_price_sar": 200,
+    "max_price_usd": 53,
+    "prime_eligible": true
+  },
+  "total_products": 867,
+  "total_articles": 51,
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "product_count": 59,
+      "url": "https://msbayunes.github.io/smartpicksai/electronics/"
+    },
+    {
+      "id": "home",
+      "name": "Home & Kitchen",
+      "product_count": 57,
+      "url": "https://msbayunes.github.io/smartpicksai/home/"
+    },
+    {
+      "id": "beauty",
+      "name": "Beauty",
+      "product_count": 44,
+      "url": "https://msbayunes.github.io/smartpicksai/beauty/"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "product_count": 94,
+      "url": "https://msbayunes.github.io/smartpicksai/health/"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "product_count": 60,
+      "url": "https://msbayunes.github.io/smartpicksai/fashion/"
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "product_count": 44,
+      "url": "https://msbayunes.github.io/smartpicksai/grocery/"
+    },
+    {
+      "id": "baby",
+      "name": "Baby Products",
+      "product_count": 61,
+      "url": "https://msbayunes.github.io/smartpicksai/baby/"
+    },
+    {
+      "id": "toys",
+      "name": "Toys",
+      "product_count": 65,
+      "url": "https://msbayunes.github.io/smartpicksai/toys/"
+    },
+    {
+      "id": "sports",
+      "name": "Sporting Goods",
+      "product_count": 48,
+      "url": "https://msbayunes.github.io/smartpicksai/sports/"
+    },
+    {
+      "id": "office",
+      "name": "Office Products",
+      "product_count": 56,
+      "url": "https://msbayunes.github.io/smartpicksai/office/"
+    },
+    {
+      "id": "automotive",
+      "name": "Automotive",
+      "product_count": 53,
+      "url": "https://msbayunes.github.io/smartpicksai/automotive/"
+    },
+    {
+      "id": "garden",
+      "name": "Patio, Lawn & Garden",
+      "product_count": 41,
+      "url": "https://msbayunes.github.io/smartpicksai/garden/"
+    },
+    {
+      "id": "pets",
+      "name": "Pet Supplies",
+      "product_count": 55,
+      "url": "https://msbayunes.github.io/smartpicksai/pets/"
+    },
+    {
+      "id": "tools",
+      "name": "DIY & Tools",
+      "product_count": 53,
+      "url": "https://msbayunes.github.io/smartpicksai/tools/"
+    },
+    {
+      "id": "videogames",
+      "name": "Video Games",
+      "product_count": 33,
+      "url": "https://msbayunes.github.io/smartpicksai/videogames/"
+    },
+    {
+      "id": "books",
+      "name": "Books",
+      "product_count": 17,
+      "url": "https://msbayunes.github.io/smartpicksai/books/"
+    },
+    {
+      "id": "devices",
+      "name": "Amazon Devices",
+      "product_count": 27,
+      "url": "https://msbayunes.github.io/smartpicksai/devices/"
+    }
+  ],
+  "top_products": [
+    {
+      "name": "Amazon Basics AAA 1.5 Volt Performance Alkaline Batteries, 36-Pack(Appearance may vary)",
+      "asin": "B00LH3DMUO",
+      "price": 32.0,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 1941951,
+      "category": "electronics",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B00LH3DMUO?tag=smartpicksai-21"
+    },
+    {
+      "name": "Sandisk Ultra Microsdxc 128Gb 100Mb/S Class 10 Uhs-I",
+      "asin": "B08HYFLMFJ",
+      "price": 66.0,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 382654,
+      "category": "electronics",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B08HYFLMFJ?tag=smartpicksai-21"
+    },
+    {
+      "name": "SanDisk 128GB microSDXC -Card Licensed for Nintendo -Switch, Fortnite Edition - SDSQXAO-128G-GN6ZG, Black",
+      "asin": "B0B984Y76P",
+      "price": 90.4,
+      "currency": "SAR",
+      "rating": 4.8,
+      "reviews": 326490,
+      "category": "videogames",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B0B984Y76P?tag=smartpicksai-21"
+    },
+    {
+      "name": "Fujifilm instax Mini Instant Film – White Border (20 Exposures) – Film Only",
+      "asin": "B0000C73CQ",
+      "price": 69.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 221917,
+      "category": "electronics",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B0000C73CQ?tag=smartpicksai-21"
+    },
+    {
+      "name": "Bosch Rear Wiper Blade H307 /3397011429 Original Equipment Replacement- 12\" (Pack of 1)",
+      "asin": "B00ES5Q610",
+      "price": 144.08,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 187008,
+      "category": "automotive",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B00ES5Q610?tag=smartpicksai-21"
+    },
+    {
+      "name": "Tp-Link TL-WA850RE Is Designed To Conveniently Extend The Coverage And Improve",
+      "asin": "B00A0VCJPI",
+      "price": 69.0,
+      "currency": "SAR",
+      "rating": 4.0,
+      "reviews": 202674,
+      "category": "devices",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B00A0VCJPI?tag=smartpicksai-21"
+    },
+    {
+      "name": "Atomic Habits",
+      "asin": "B07TKMNY7S",
+      "price": 49,
+      "currency": "SAR",
+      "rating": 4.8,
+      "reviews": 145000,
+      "category": "books",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B07TKMNY7S?tag=smartpicksai-21"
+    },
+    {
+      "name": "CeraVe Moisturizing Cream (539g)",
+      "asin": "B003CTG99G",
+      "price": 65,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 145678,
+      "category": "health",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B003CTG99G?tag=smartpicksai-21"
+    },
+    {
+      "name": "MAJESTIC PURE Lemon Essential Oil - 118.29ml",
+      "asin": "B00QR6SS6O",
+      "price": 59.99,
+      "currency": "SAR",
+      "rating": 4.4,
+      "reviews": 151627,
+      "category": "health",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B00QR6SS6O?tag=smartpicksai-21"
+    },
+    {
+      "name": "The Alchemist by Paulo Coelho",
+      "asin": "B000FC0SIM",
+      "price": 38,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 130000,
+      "category": "books",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B000FC0SIM?tag=smartpicksai-21"
+    },
+    {
+      "name": "Sapiens: A Brief History of Humankind",
+      "asin": "B0063HEMFI",
+      "price": 59,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 115000,
+      "category": "books",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B0063HEMFI?tag=smartpicksai-21"
+    },
+    {
+      "name": "Rich Dad Poor Dad",
+      "asin": "B07GP41P6V",
+      "price": 45,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 112000,
+      "category": "books",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B07GP41P6V?tag=smartpicksai-21"
+    },
+    {
+      "name": "PlayStation 4 DualShock 4 Controller",
+      "asin": "B07PBQN3WR",
+      "price": 129,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 112000,
+      "category": "videogames",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07PBQN3WR?tag=smartpicksai-21"
+    },
+    {
+      "name": "AmazonBasics Extra Thick Exercise Yoga Gym Floor Mat with Carrying Strap",
+      "asin": "B01LP0V4JY",
+      "price": 49.0,
+      "currency": "SAR",
+      "rating": 4.4,
+      "reviews": 108421,
+      "category": "sports",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B01LP0V4JY?tag=smartpicksai-21"
+    },
+    {
+      "name": "Amazon Basics Kitchen Scale (Digital)",
+      "asin": "B073JYC4XM",
+      "price": 39,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 98765,
+      "category": "home",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B073JYC4XM?tag=smartpicksai-21"
+    },
+    {
+      "name": "Elmer's Disappearing Purple School Glue Sticks, Washable, 6 Grams, 12 Count",
+      "asin": "B003ULCZ7M",
+      "price": 97.91,
+      "currency": "SAR",
+      "rating": 4.8,
+      "reviews": 96111,
+      "category": "office",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B003ULCZ7M?tag=smartpicksai-21"
+    },
+    {
+      "name": "The 7 Habits of Highly Effective People",
+      "asin": "B001FA0W5W",
+      "price": 55,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 98000,
+      "category": "books",
+      "label": "Budget Pick",
+      "amazon_url": "https://www.amazon.sa/dp/B001FA0W5W?tag=smartpicksai-21"
+    },
+    {
+      "name": "Precious Cat Ultra Unscented Clumping Clay Cat Litter, 8.6 Kg",
+      "asin": "B0009X0QSY",
+      "price": 96.45,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 105414,
+      "category": "pets",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B0009X0QSY?tag=smartpicksai-21"
+    },
+    {
+      "name": "JETech Privacy Screen Protector for iPhone 17 Pro 6.3-Inch, Anti-Spy Tempered Glass Film with Easy Installation Tool, 2-Pack",
+      "asin": "B0FJG8J48Q",
+      "price": 40.99,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 105178,
+      "category": "electronics",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B0FJG8J48Q?tag=smartpicksai-21"
+    },
+    {
+      "name": "EXPO 80078 Low Odor Dry Erase Markers, Chisel Tip, Assorted Colors, 8 Pack",
+      "asin": "B08HX1X9GP",
+      "price": 67.54,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 95697,
+      "category": "office",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B08HX1X9GP?tag=smartpicksai-21"
+    },
+    {
+      "name": "How to Win Friends and Influence People",
+      "asin": "B00AREH5PO",
+      "price": 42,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 95000,
+      "category": "books",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B00AREH5PO?tag=smartpicksai-21"
+    },
+    {
+      "name": "DualSense PlayStation 5 Wireless Controller",
+      "asin": "B08KTJ2LMM",
+      "price": 179,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 95000,
+      "category": "videogames",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B08KTJ2LMM?tag=smartpicksai-21"
+    },
+    {
+      "name": "ZEVO Electric Flying Insect Trap Starter Kit - | Mosquito Killer| Fruit Fly Trap | UV Light attracts Insect |",
+      "asin": "B07T869RNY",
+      "price": 176.84,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 98288,
+      "category": "garden",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B07T869RNY?tag=smartpicksai-21"
+    },
+    {
+      "name": "Amazon Echo Dot (5th Gen) Smart Speaker",
+      "asin": "B09WZCXNX2",
+      "price": 149,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 89000,
+      "category": "devices",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B09WZCXNX2?tag=smartpicksai-21"
+    },
+    {
+      "name": "NYX Professional Makeup , Butter Gloss, Non-Sticky, Silky Smooth Formula and High Shine Finish with Medium Coverage Lip Gloss, Shade - 16 Praline, 8 ml",
+      "asin": "B00ICU1JIC",
+      "price": 56.0,
+      "currency": "SAR",
+      "rating": 4.4,
+      "reviews": 94828,
+      "category": "beauty",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B00ICU1JIC?tag=smartpicksai-21"
+    },
+    {
+      "name": "Anker Soundcore Q30 Hybrid Active Noise Cancelling Headphones Bluetooth with Multiple Modes, Hi-Res Sound Bluetooth Headphones, Custom EQ via App, 50H Playtime, Multipoint Connection",
+      "asin": "B08HMWZBXC",
+      "price": 189.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 92557,
+      "category": "electronics",
+      "label": "Budget Pick",
+      "amazon_url": "https://www.amazon.sa/dp/B08HMWZBXC?tag=smartpicksai-21"
+    },
+    {
+      "name": "Apple Lightning to USB Cable (1m)",
+      "asin": "B07PJV3JP6",
+      "price": 35,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 89432,
+      "category": "electronics",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07PJV3JP6?tag=smartpicksai-21"
+    },
+    {
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "asin": "B07DJKP5W6",
+      "price": 48,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 91000,
+      "category": "books",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07DJKP5W6?tag=smartpicksai-21"
+    },
+    {
+      "name": "Command Picture Large Hanging Strips | Holds 7.2 kg whole pack | White color | Organize | Decoration | No Tools | Holds Strongly | Damage-Free Hanging | 4 pairs/pack",
+      "asin": "B00404YKZI",
+      "price": 32.8,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 94577,
+      "category": "tools",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B00404YKZI?tag=smartpicksai-21"
+    },
+    {
+      "name": "Command Picture Medium Hanging Strips Value pack | Holds 5.4 kg whole pack| White color | Organize | Decoration | No Tools | Holds Strongly | Damage-Free Hanging | 12 pairs/pack",
+      "asin": "B00LW1APOC",
+      "price": 27.78,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 94566,
+      "category": "tools",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B00LW1APOC?tag=smartpicksai-21"
+    },
+    {
+      "name": "soundcore by Anker P20i True Wireless Earbuds, 10mm Drivers with Big Bass, Bluetooth 5.3, 30H Long Playtime, IPX5 Water-Resistant, 2 Mics for AI Clear Calls, 22 Preset EQs, Customization via App",
+      "asin": "B0BTYCRJSS",
+      "price": 69.0,
+      "currency": "SAR",
+      "rating": 4.2,
+      "reviews": 95821,
+      "category": "electronics",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B0BTYCRJSS?tag=smartpicksai-21"
+    },
+    {
+      "name": "Think and Grow Rich",
+      "asin": "B07H1S5W7Z",
+      "price": 39,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 87000,
+      "category": "books",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07H1S5W7Z?tag=smartpicksai-21"
+    },
+    {
+      "name": "Cerave Foaming Cleanser for Normal to Oily Skin with Hyaluronic Acid",
+      "asin": "B07C5SKVL7",
+      "price": 39.56,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 91816,
+      "category": "health",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B07C5SKVL7?tag=smartpicksai-21"
+    },
+    {
+      "name": "Fire TV Stick Lite with Alexa Voice Remote",
+      "asin": "B09B8VJK47",
+      "price": 109,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 87000,
+      "category": "devices",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B09B8VJK47?tag=smartpicksai-21"
+    },
+    {
+      "name": "HyperX Cloud II Gaming Headset for PC & PS4 & Xbox One, Nintendo Switch, Red",
+      "asin": "B00SAYCXWG",
+      "price": 209.0,
+      "currency": "SAR",
+      "rating": 4.0,
+      "reviews": 97066,
+      "category": "videogames",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B00SAYCXWG?tag=smartpicksai-21"
+    },
+    {
+      "name": "Dickies mens Dri-tech Moisture Control Quarter Socks Multipack Socks (pack of 6)",
+      "asin": "B082BSHTB8",
+      "price": 52.32,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 84221,
+      "category": "fashion",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B082BSHTB8?tag=smartpicksai-21"
+    },
+    {
+      "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+      "asin": "B07YPNFLQ1",
+      "price": 44,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 82000,
+      "category": "books",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07YPNFLQ1?tag=smartpicksai-21"
+    },
+    {
+      "name": "Xbox Wireless Controller - Carbon Black",
+      "asin": "B07BVPB3D8",
+      "price": 169,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 78000,
+      "category": "videogames",
+      "label": "Budget Pick",
+      "amazon_url": "https://www.amazon.sa/dp/B07BVPB3D8?tag=smartpicksai-21"
+    },
+    {
+      "name": "Plackers Micro Mint Dental Flossers, Fresh Mint Flavor, Fold-Out Toothpick, Super Tuffloss, Easy Storage with Sure-Zip Seal, 150 Count",
+      "asin": "B07ZW46KV4",
+      "price": 36.97,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 77730,
+      "category": "health",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B07ZW46KV4?tag=smartpicksai-21"
+    },
+    {
+      "name": "PUMA Smash v2 Sneakers mens Sneaker",
+      "asin": "B077MLQ24J",
+      "price": 168.0,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 83802,
+      "category": "fashion",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B077MLQ24J?tag=smartpicksai-21"
+    },
+    {
+      "name": "The Psychology of Money",
+      "asin": "B0762MXTPK",
+      "price": 52,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 76000,
+      "category": "books",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B0762MXTPK?tag=smartpicksai-21"
+    },
+    {
+      "name": "Neutrogena Hydro Boost Water Gel (50ml)",
+      "asin": "B0756CDRZ4",
+      "price": 55,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 78901,
+      "category": "health",
+      "label": "Budget Pick",
+      "amazon_url": "https://www.amazon.sa/dp/B0756CDRZ4?tag=smartpicksai-21"
+    },
+    {
+      "name": "Anker USB C to USB C Cable, Type C 60W Fast Charging Cable (6FT, 2Pack) for iPhone 17/16/15 Series, iPad Mini 6, Samsung S25/S24/S23, Macbook Pro/Air, HP/Dell/Lenovo, Huawei, Honor and More",
+      "asin": "B088NRLMPV",
+      "price": 39.0,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 74169,
+      "category": "electronics",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B088NRLMPV?tag=smartpicksai-21"
+    },
+    {
+      "name": "Educated: A Memoir by Tara Westover",
+      "asin": "B07BWM95W5",
+      "price": 51,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 74000,
+      "category": "books",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07BWM95W5?tag=smartpicksai-21"
+    },
+    {
+      "name": "Kindle Paperwhite (11th Gen) 8GB",
+      "asin": "B08MQZX9ZQ",
+      "price": 249,
+      "currency": "SAR",
+      "rating": 4.8,
+      "reviews": 72000,
+      "category": "devices",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B08MQZX9ZQ?tag=smartpicksai-21"
+    },
+    {
+      "name": "PicassoTiles Magnetic Tiles 60pcs Kids Toys Classroom Sensory Toy for Toddlers STEM Learning Building Blocks, Montessori Pretend Play Magnet Tile Construction Stacking Block Boys Girls Ages 3+ PT60",
+      "asin": "B00APVXSM6",
+      "price": 109.99,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 73381,
+      "category": "toys",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B00APVXSM6?tag=smartpicksai-21"
+    },
+    {
+      "name": "JETech Privacy Screen Protector for iPhone 17 Pro Max 6.9-Inch with Camera Lens Protector, Anti-Spy Tempered Glass Film, Easy Installation Tool, 2-Pack Each",
+      "asin": "B0FJG7S73M",
+      "price": 43.99,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 79900,
+      "category": "electronics",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B0FJG7S73M?tag=smartpicksai-21"
+    },
+    {
+      "name": "Kanu Surf Men's Barracuda Swim Trunks (Regular & Extended Sizes)",
+      "asin": "B01M1P2RIO",
+      "price": 71.48,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 73972,
+      "category": "fashion",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B01M1P2RIO?tag=smartpicksai-21"
+    },
+    {
+      "name": "Post-it Super Sticky Notes (24 Pads)",
+      "asin": "B07PYD2GBN",
+      "price": 45,
+      "currency": "SAR",
+      "rating": 4.8,
+      "reviews": 67890,
+      "category": "office",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B07PYD2GBN?tag=smartpicksai-21"
+    },
+    {
+      "name": "Cerave Moisturizing Cream for Dry Skin with Hyaluronic Acid",
+      "asin": "B07CH8F17Q",
+      "price": 18.06,
+      "currency": "SAR",
+      "rating": 4.2,
+      "reviews": 76381,
+      "category": "health",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07CH8F17Q?tag=smartpicksai-21"
+    }
+  ]
+}
