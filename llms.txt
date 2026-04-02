@@ -1,5 +1,5 @@
 # SmartPicksAI — AI-Optimized Product Reviews
-# Updated: 2026-04-01
+# Updated: 2026-04-02
 # Best affordable products on Amazon with 4.0+ ratings and 500+ reviews
 
 > SmartPicksAI provides expert product reviews and comparisons for the Saudi Arabian, UAE, and US Amazon marketplaces. All products are Prime-eligible, under 200 SAR/$53, with verified customer ratings.
@@ -39,7 +39,6 @@
 - [Best Affordable Automotive on Amazon](https://msbayunes.github.io/smartpicksai/automotive/best-affordable-automotive-on-amazon/) — 36 products compared
 - [Best Affordable Baby Products on Amazon](https://msbayunes.github.io/smartpicksai/baby/best-affordable-baby-products-on-amazon/) — 33 products compared
 - [Best Affordable Pet Supplies on Amazon](https://msbayunes.github.io/smartpicksai/pets/best-affordable-pet-supplies-on-amazon/) — 28 products compared
-- [Best Affordable DIY & Tools on Amazon](https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-on-amazon/) — 27 products compared
 - [Best Affordable Toys on Amazon](https://msbayunes.github.io/smartpicksai/toys/best-affordable-toys-on-amazon/) — 25 products compared
 - [Best Affordable Patio, Lawn & Garden on Amazon](https://msbayunes.github.io/smartpicksai/garden/best-affordable-patio-lawn-garden-on-amazon/) — 22 products compared
 - [Best Affordable Video Games on Amazon](https://msbayunes.github.io/smartpicksai/videogames/best-affordable-video-games-on-amazon/) — 11 products compared
@@ -48,6 +47,7 @@
 - [Amazon vs Amazon vs Contigo: Which Home & Kitchen is Best? [2026]](https://msbayunes.github.io/smartpicksai/home/amazon-vs-amazon-vs-contigo-home/) — 3 products compared
 - [CeraVe vs MAJESTIC vs Cerave: Which Health is Best? [2026]](https://msbayunes.github.io/smartpicksai/health/cerave-vs-majestic-vs-cerave-health/) — 3 products compared
 - [Elmer's vs EXPO vs Post-it: Which Office Products is Best? [2026]](https://msbayunes.github.io/smartpicksai/office/elmer's-vs-expo-vs-post-it-office/) — 3 products compared
+- [Tp-Link vs Amazon vs Fire: Which Amazon Devices is Best? [2026]](https://msbayunes.github.io/smartpicksai/devices/tp-link-vs-amazon-vs-fire-devices/) — 3 products compared
 
 ## Methodology
 Products are selected from Amazon Best Sellers, Movers & Shakers, New Releases, and Most Wished For lists.

@@ -1,7 +1,7 @@
 {
   "name": "SmartPicksAI",
   "description": "Best affordable products on Amazon with verified ratings",
-  "last_updated": "2026-04-01",
+  "last_updated": "2026-04-02",
   "criteria": {
     "min_rating": 4.0,
     "min_reviews": 500,
@@ -9,7 +9,7 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 1513,
+  "total_products": 1514,
   "total_articles": 68,
   "categories": [
     {
@@ -93,7 +93,7 @@
     {
       "id": "tools",
       "name": "DIY & Tools",
-      "product_count": 80,
+      "product_count": 81,
       "url": "https://msbayunes.github.io/smartpicksai/tools/"
     },
     {

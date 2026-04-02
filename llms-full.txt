@@ -1,6 +1,6 @@
 # SmartPicksAI — Complete Product Database for AI
-# Updated: 2026-04-01
-# Total Products: 1513 | Articles: 68 | Categories: 17
+# Updated: 2026-04-02
+# Total Products: 1514 | Articles: 68 | Categories: 17
 # All products: 4.0+ stars, 500+ reviews, Prime-eligible, under 200 SAR ($53)
 
 > SmartPicksAI curates the best affordable products on Amazon for Saudi Arabia, UAE, and US markets.
@@ -199,23 +199,6 @@ Last updated: 2026-03-30
   9. The Honest Kitchen Instant Goat's Milk with Probiotics for Dogs and Cats 5.2 oz — SAR 172.18 — ★4.5 (5,901 reviews) — Great Value
   10. Automatic Cat Feeder and Cat Water Dispenser Set, 2 Packs Stainless Steel Automatic Dog Food Dispenser and Dog Water Dispenser, 3.5 L — SAR 179.99 — ★4.4 (5,483 reviews) — Great Value
   ... and 18 more products
-
-## Best Affordable DIY & Tools on Amazon
-URL: https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-on-amazon/
-Products: 27 | Category: DIY & Tools
-Last updated: 2026-03-30
-
-  1. Glocusent LED Neck Reading Light, Book Light for Reading in Bed, 3 Colors, 6 Brightness Levels, Bendable Arms, Rechargeable, Long Lasting, Perfect for Reading, Knitting, Camping, Repairing — SAR 67.45 — ★4.7 (123,324 reviews) — Great Value
-  2. PT2X 12OZ SG BLK PAINT — SAR 59.95 — ★4.6 (49,741 reviews) — Great Value
-  3. tiptopcarbon Wallpaper Kit Wallpaper Smoothing Tool Wallpaper Tools for Peel and Stick on Contact Paper Hanging Vinyl Backsplash Window Film — SAR 17.0 — ★4.6 (47,576 reviews) — Great Value
-  4. Lepro LED Torch Battery Powered, Small Bright Flashlight, Adjustable Focus, Water Resistant Pocket Torch, Lightweight Hand Torch for Power Cut, Camping, Dog Walking, Gifts for Kid Dad Men — SAR 39.99 — ★4.5 (38,561 reviews) — Great Value
-  5. FORIOUS Kitchen Faucets with Pull Down Sprayer, High Arc Single Handle Classic Stainless Steel Sink Faucet 1 or 3 Hole, Suitable for Farmhouse Camper Laundry Rv Bar, Black Brushed — SAR 56.44 — ★4.5 (34,174 reviews) — Great Value
-  6. Lepro E14 LED Light Bulb, 220-240V, Small Edison Screw SES Candle Bulbs, 4.9W 470lm, 40W Equivalent E14 Bulb, Warm White 2700K LED Bulb, Energy Saving Candle Light Bulbs, Non-dimmable, Pack of 6 — SAR 43.75 — ★4.6 (18,824 reviews) — Great Value
-  7. Amazon Basics Ratcheting Wrench Set - Metric, 5-Piece — SAR 49.0 — ★4.6 (10,735 reviews) — Great Value
-  8. Lepro Flashlight, Torch Light Mini, Pen Flashlight LED, Waterproof Pocket Torch with Clip, AAA Battery Powered [Included], Compact Bright LED Penlight for Inspection, Work, Repair, Pack of 2 — SAR 35.0 — ★4.4 (10,468 reviews) — Great Value
-  9. Ibergrif M20502 Pop Up Sink Plug Replacement, Basin Waste, Slotted Click Clack Waste with Overflow, Bathroom Sink Plug, 1/4" BSP, Chrome — SAR 104.95 — ★4.4 (9,376 reviews) — Great Value
-  10. Double Sided Tape 2 Pack Heavy Duty - 3/4"10' Acrylic Clear Strong Adhesive Waterproof Removable Double Sided Mounting Tape for Carpet Fix, Home Office Wall Decor, DIY Crafts, Car Glass Decor — SAR 19.99 — ★4.1 (7,772 reviews) — Great Value
-  ... and 17 more products
 
 ## Best Affordable Toys on Amazon
 URL: https://msbayunes.github.io/smartpicksai/toys/best-affordable-toys-on-amazon/
@@ -742,6 +725,13 @@ Last updated: 2026-04-01
 
   1. K-12 Coloring Book — SAR 144.93 — ★4.7 (1,283 reviews) — Great Value
   2. PAW Patrol First Phonics Activity Book: Get Ready for School with Paw Patrol: Get Set for School! — SAR 12.0 — ★4.6 (938 reviews) — Great Value
+
+## Best Affordable DIY & Tools on Amazon
+URL: https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-on-amazon/
+Products: 1 | Category: DIY & Tools
+Last updated: 2026-03-30
+
+  1. Masmejor Rechargeable Work Light, Portable Led Work Solar Light 100W 12000mAh 336Led IP53 with Job Site Battery LED Work Light for Power Failure Emergency Worklight Car Repair Camping Fishing — SAR 33.9 — ★4.4 (1,758 reviews) — Best Overall
 
 ## Common Questions
 Q: What is the best affordable beauty product on Amazon?
