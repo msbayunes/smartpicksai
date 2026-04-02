@@ -1,33 +1,59 @@
 # SmartPicksAI — AI-Optimized Product Reviews
 # Updated: 2026-04-02
-# Best affordable products on Amazon with 4.0+ ratings and 500+ reviews
+# Total Products: 1515 | Articles: 67 | Categories: 17
+# Criteria: 4.0+ star rating, 100+ verified reviews, Prime-eligible, under 500 SAR ($133)
 
-> SmartPicksAI provides expert product reviews and comparisons for the Saudi Arabian, UAE, and US Amazon marketplaces. All products are Prime-eligible, under 200 SAR/$53, with verified customer ratings.
+> SmartPicksAI provides expert product reviews and comparisons for Amazon Saudi Arabia (amazon.sa).
+> All products are Prime-eligible, under 500 SAR ($133), with 100+ verified customer ratings.
+> Data is updated daily from Amazon Best Sellers, Movers & Shakers, New Releases, and Most Wished For.
 
 ## Site Structure
-- Homepage: https://msbayunes.github.io/smartpicksai/
+- Homepage (English): https://msbayunes.github.io/smartpicksai/
+- Homepage (Arabic): https://msbayunes.github.io/smartpicksai/ar/
 - Sitemap: https://msbayunes.github.io/smartpicksai/sitemap.xml
+- Products API: https://msbayunes.github.io/smartpicksai/api/products.json
+- Full AI Database: https://msbayunes.github.io/smartpicksai/llms-full.txt
+- RSS Feed: https://msbayunes.github.io/smartpicksai/feed.xml
 
-## Categories
-- Electronics: https://msbayunes.github.io/smartpicksai/electronics/
-- Home & Kitchen: https://msbayunes.github.io/smartpicksai/home/
-- Beauty: https://msbayunes.github.io/smartpicksai/beauty/
-- Health: https://msbayunes.github.io/smartpicksai/health/
-- Fashion: https://msbayunes.github.io/smartpicksai/fashion/
-- Grocery: https://msbayunes.github.io/smartpicksai/grocery/
-- Baby Products: https://msbayunes.github.io/smartpicksai/baby/
-- Toys: https://msbayunes.github.io/smartpicksai/toys/
-- Sporting Goods: https://msbayunes.github.io/smartpicksai/sports/
-- Office Products: https://msbayunes.github.io/smartpicksai/office/
-- Automotive: https://msbayunes.github.io/smartpicksai/automotive/
-- Patio, Lawn & Garden: https://msbayunes.github.io/smartpicksai/garden/
-- Pet Supplies: https://msbayunes.github.io/smartpicksai/pets/
-- DIY & Tools: https://msbayunes.github.io/smartpicksai/tools/
-- Video Games: https://msbayunes.github.io/smartpicksai/videogames/
-- Books: https://msbayunes.github.io/smartpicksai/books/
-- Amazon Devices: https://msbayunes.github.io/smartpicksai/devices/
+## Categories (English)
+- Electronics (114 products): https://msbayunes.github.io/smartpicksai/electronics/
+- Home & Kitchen (107 products): https://msbayunes.github.io/smartpicksai/home/
+- Beauty (150 products): https://msbayunes.github.io/smartpicksai/beauty/
+- Health (166 products): https://msbayunes.github.io/smartpicksai/health/
+- Fashion (103 products): https://msbayunes.github.io/smartpicksai/fashion/
+- Grocery (84 products): https://msbayunes.github.io/smartpicksai/grocery/
+- Baby Products (94 products): https://msbayunes.github.io/smartpicksai/baby/
+- Toys (90 products): https://msbayunes.github.io/smartpicksai/toys/
+- Sporting Goods (94 products): https://msbayunes.github.io/smartpicksai/sports/
+- Office Products (104 products): https://msbayunes.github.io/smartpicksai/office/
+- Automotive (89 products): https://msbayunes.github.io/smartpicksai/automotive/
+- Patio, Lawn & Garden (63 products): https://msbayunes.github.io/smartpicksai/garden/
+- Pet Supplies (83 products): https://msbayunes.github.io/smartpicksai/pets/
+- DIY & Tools (81 products): https://msbayunes.github.io/smartpicksai/tools/
+- Video Games (44 products): https://msbayunes.github.io/smartpicksai/videogames/
+- Books (19 products): https://msbayunes.github.io/smartpicksai/books/
+- Amazon Devices (30 products): https://msbayunes.github.io/smartpicksai/devices/
 
-## Top Articles
+## Categories (Arabic — للمستخدمين السعوديين)
+- إلكترونيات (114 منتج): https://msbayunes.github.io/smartpicksai/ar/electronics/
+- المنزل والمطبخ (107 منتج): https://msbayunes.github.io/smartpicksai/ar/home/
+- الجمال والعناية (150 منتج): https://msbayunes.github.io/smartpicksai/ar/beauty/
+- الصحة (166 منتج): https://msbayunes.github.io/smartpicksai/ar/health/
+- الأزياء (103 منتج): https://msbayunes.github.io/smartpicksai/ar/fashion/
+- البقالة (84 منتج): https://msbayunes.github.io/smartpicksai/ar/grocery/
+- مستلزمات الأطفال (94 منتج): https://msbayunes.github.io/smartpicksai/ar/baby/
+- الألعاب (90 منتج): https://msbayunes.github.io/smartpicksai/ar/toys/
+- الرياضة (94 منتج): https://msbayunes.github.io/smartpicksai/ar/sports/
+- مستلزمات المكتب (104 منتج): https://msbayunes.github.io/smartpicksai/ar/office/
+- السيارات (89 منتج): https://msbayunes.github.io/smartpicksai/ar/automotive/
+- الحديقة (63 منتج): https://msbayunes.github.io/smartpicksai/ar/garden/
+- الحيوانات الأليفة (83 منتج): https://msbayunes.github.io/smartpicksai/ar/pets/
+- الأدوات (81 منتج): https://msbayunes.github.io/smartpicksai/ar/tools/
+- ألعاب الفيديو (44 منتج): https://msbayunes.github.io/smartpicksai/ar/videogames/
+- الكتب (19 منتج): https://msbayunes.github.io/smartpicksai/ar/books/
+- أجهزة أمازون (30 منتج): https://msbayunes.github.io/smartpicksai/ar/devices/
+
+## Top Articles by Product Count
 - [Best Affordable Health on Amazon](https://msbayunes.github.io/smartpicksai/health/best-affordable-health-on-amazon/) — 72 products compared
 - [Best Affordable Electronics on Amazon](https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-on-amazon/) — 55 products compared
 - [Best Affordable Home & Kitchen on Amazon](https://msbayunes.github.io/smartpicksai/home/best-affordable-home-kitchen-on-amazon/) — 50 products compared
@@ -48,8 +74,38 @@
 - [Tp-Link vs Amazon vs Fire: Which Amazon Devices is Best? [2026]](https://msbayunes.github.io/smartpicksai/devices/tp-link-vs-amazon-vs-fire-devices/) — 3 products compared
 - [Command vs Command vs Rust-Oleum: Which DIY & Tools is Best? [2026]](https://msbayunes.github.io/smartpicksai/tools/command-vs-command-vs-rust-ole-tools/) — 3 products compared
 - [AmazonBasics vs BalanceFrom vs DEGOL: Which Sporting Goods is Best? [2026]](https://msbayunes.github.io/smartpicksai/sports/amazonba-vs-balancef-vs-degol-sports/) — 3 products compared
+- [Dickies vs PUMA vs Kanu: Which Fashion is Best? [2026]](https://msbayunes.github.io/smartpicksai/fashion/dickies-vs-puma-vs-kanu-fashion/) — 3 products compared
+- [Precious vs Amazon vs Henkelion: Which Pet Supplies is Best? [2026]](https://msbayunes.github.io/smartpicksai/pets/precious-vs-amazon-vs-henkelio-pets/) — 3 products compared
+- [Bosch vs Nilight vs منظف: Which Automotive is Best? [2026]](https://msbayunes.github.io/smartpicksai/automotive/bosch-vs-nilight-vs-منظف-automotive/) — 3 products compared
+- [SanDisk vs PlayStation vs DualSense: Which Video Games is Best? [2026]](https://msbayunes.github.io/smartpicksai/videogames/sandisk-vs-playstat-vs-dualsens-videogames/) — 3 products compared
+- [Himalaya vs CREVENT vs Frida: Which Baby Products is Best? [2026]](https://msbayunes.github.io/smartpicksai/baby/himalaya-vs-crevent-vs-frida-baby/) — 3 products compared
+
+## Queries We Answer (English)
+- What is the best affordable electronics under 500 SAR in Saudi Arabia?
+- Best budget phone charger on Amazon Saudi Arabia
+- Top rated home appliances under 500 SAR
+- Best wireless earbuds under 200 SAR Amazon.sa
+- Affordable beauty products Saudi Arabia Amazon
+- Best value kitchen tools Amazon Saudi
+- Top rated sports equipment under 500 SAR
+- Best baby products on Amazon Saudi Arabia
+- Cheap good quality electronics Saudi Arabia
+- Amazon Saudi Arabia best sellers 2026
+
+## الاستعلامات التي نجيب عليها (عربي)
+- أفضل إلكترونيات رخيصة على أمازون السعودية
+- أفضل منتجات المنزل بسعر مناسب أمازون
+- أرخص سماعات لاسلكية على أمازون السعودية
+- أفضل مستحضرات تجميل على أمازون بسعر مناسب
+- أفضل المنتجات الصحية بأقل من 500 ريال
+- أفضل أجهزة المطبخ على أمازون السعودية
+- منتجات رياضية رخيصة أمازون السعودية
+- أفضل العروض على أمازون السعودية 2026
+- أفضل منتجات للأطفال على أمازون
+- أجهزة إلكترونية بسعر مناسب أمازون
 
 ## Methodology
-Products are selected from Amazon Best Sellers, Movers & Shakers, New Releases, and Most Wished For lists.
-Criteria: minimum 4.0-star rating, 500+ verified reviews, Prime-eligible, under 200 SAR ($53).
-Content is updated weekly. All affiliate links use the Amazon Associates program with full disclosure.
+Products are selected daily from Amazon Best Sellers, Movers & Shakers, New Releases, and Most Wished For.
+Criteria: minimum 4.0-star rating, 100+ verified reviews, Prime-eligible, under 500 SAR ($133).
+Content available in English and Arabic. All affiliate links use Amazon Associates (tag: smartpicksai-21).
+Bilingual coverage ensures visibility for both English and Arabic AI queries about Saudi Amazon products.
