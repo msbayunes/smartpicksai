@@ -43,11 +43,11 @@
 - [Best Affordable Video Games on Amazon](https://msbayunes.github.io/smartpicksai/videogames/best-affordable-video-games-on-amazon/) — 11 products compared
 - [Best Affordable Amazon Devices on Amazon](https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-on-amazon/) — 3 products compared
 - [Amazon vs Sandisk vs Fujifilm: Which Electronics is Best? [2026]](https://msbayunes.github.io/smartpicksai/electronics/amazon-vs-sandisk-vs-fujifilm-electronics/) — 3 products compared
-- [Amazon vs Amazon vs Contigo: Which Home & Kitchen is Best? [2026]](https://msbayunes.github.io/smartpicksai/home/amazon-vs-amazon-vs-contigo-home/) — 3 products compared
 - [CeraVe vs MAJESTIC vs Cerave: Which Health is Best? [2026]](https://msbayunes.github.io/smartpicksai/health/cerave-vs-majestic-vs-cerave-health/) — 3 products compared
 - [Elmer's vs EXPO vs Post-it: Which Office Products is Best? [2026]](https://msbayunes.github.io/smartpicksai/office/elmer's-vs-expo-vs-post-it-office/) — 3 products compared
 - [Tp-Link vs Amazon vs Fire: Which Amazon Devices is Best? [2026]](https://msbayunes.github.io/smartpicksai/devices/tp-link-vs-amazon-vs-fire-devices/) — 3 products compared
 - [Command vs Command vs Rust-Oleum: Which DIY & Tools is Best? [2026]](https://msbayunes.github.io/smartpicksai/tools/command-vs-command-vs-rust-ole-tools/) — 3 products compared
+- [AmazonBasics vs BalanceFrom vs DEGOL: Which Sporting Goods is Best? [2026]](https://msbayunes.github.io/smartpicksai/sports/amazonba-vs-balancef-vs-degol-sports/) — 3 products compared
 
 ## Methodology
 Products are selected from Amazon Best Sellers, Movers & Shakers, New Releases, and Most Wished For lists.
