@@ -1,6 +1,6 @@
 # SmartPicksAI — Complete Product Database for AI
 # Updated: 2026-04-02
-# Total Products: 1514 | Articles: 68 | Categories: 17
+# Total Products: 1515 | Articles: 68 | Categories: 17
 # All products: 4.0+ stars, 500+ reviews, Prime-eligible, under 200 SAR ($53)
 
 > SmartPicksAI curates the best affordable products on Amazon for Saudi Arabia, UAE, and US markets.
@@ -12,23 +12,6 @@
 - RSS Feed: https://msbayunes.github.io/smartpicksai/feed.xml
 - JSON Feed: https://msbayunes.github.io/smartpicksai/feed.json
 - Products API: https://msbayunes.github.io/smartpicksai/api/products.json
-
-## Best Affordable Beauty on Amazon
-URL: https://msbayunes.github.io/smartpicksai/beauty/best-affordable-beauty-on-amazon/
-Products: 105 | Category: Beauty
-Last updated: 2026-03-30
-
-  1. Maybelline Color Sensational Lipstick, Lip Makeup, Cream Finish, Hydrating Lipstick, Nude, Pink, Red, Plum Lip Color, Brick Beat, 0.15 oz; (Packaging May Vary) — SAR 179.32 — ★4.3 (74,278 reviews) — Great Value
-  2. ARCTIC FOX Vegan and Cruelty-Free Semi-Permanent Hair Color Dye (8 Fl Oz, WRATH) — SAR 179.88 — ★4.4 (71,390 reviews) — Great Value
-  3. Revlon Super Lustrous Lipstick Coralberry 018 — SAR 31.25 — ★4.5 (66,427 reviews) — Great Value
-  4. Manic Panic Purple Haze - Classic Dye Purple 118 ml — SAR 128.03 — ★4.2 (67,674 reviews) — Great Value
-  5. MAYBELLINE New York, Lash Sensational Sky High Mascara — SAR 34.01 — ★4.2 (58,179 reviews) — Great Value
-  6. La Roche-Posay Effaclar Purifying Foaming Gel Cleanse - Parent — SAR 85.56 — ★4.4 (53,234 reviews) — Great Value
-  7. Bioderma Atoderm Gel Douche Normal to Dry Skin 500ml — SAR 36.23 — ★4.5 (49,598 reviews) — Great Value
-  8. GAOY Nude Pink Gel Nail Polish Set, 6 Neutral Colors Beige Skin Tone Soak Off UV Light Cure Gel Polish Kit for Salon and Nail Art DIY at Home — SAR 100.37 — ★4.4 (42,685 reviews) — Great Value
-  9. Lattafa Khamra Perfume for Unisex Eau De Parfum 100ML — SAR 79.0 — ★4.1 (44,766 reviews) — Great Value
-  10. e.l.f. Lip Lacquer, Moisturizing, Shiny, Non-Sticky & Long Lasting, Provides Maximum Color & Glides On, Vegan & Cruelty-Free, Wild Rose, 0.08 Fl Oz — SAR 40.99 — ★4.4 (33,891 reviews) — Great Value
-  ... and 95 more products
 
 ## Best Affordable Health on Amazon
 URL: https://msbayunes.github.io/smartpicksai/health/best-affordable-health-on-amazon/
@@ -733,13 +716,14 @@ Last updated: 2026-03-30
 
   1. Masmejor Rechargeable Work Light, Portable Led Work Solar Light 100W 12000mAh 336Led IP53 with Job Site Battery LED Work Light for Power Failure Emergency Worklight Car Repair Camping Fishing — SAR 33.9 — ★4.4 (1,758 reviews) — Best Overall
 
+## Best Affordable Beauty on Amazon
+URL: https://msbayunes.github.io/smartpicksai/beauty/best-affordable-beauty-on-amazon/
+Products: 1 | Category: Beauty
+Last updated: 2026-03-30
+
+  1. LUX Bar Soap for flaw-less skin, Lily, with Vitamin C, E, and Glycerine, 75g x 6 — SAR 17.62 — ★4.6 (1,475 reviews) — Best Overall
+
 ## Common Questions
-Q: What is the best affordable beauty product on Amazon?
-A: Based on our analysis of customer ratings and sales data, the Maybelline Color Sensational Lipstick, Lip Makeup, Cream Finish, Hydrating Lipstick, Nude, Pink, Red, Plum Lip Color, Brick Beat, 0.15 oz; (Packaging May Vary) is currently the best affordable pick, with a 4.3-star rating and excellent value under $53 (200 SAR).
-
-Q: Are cheap beauty products on Amazon good quality?
-A: Yes, many affordable beauty products on Amazon have excellent quality. We only recommend products with 4.0+ star ratings and 500+ verified reviews, ensuring they have been tested by real customers.
-
 Q: What is the best affordable health product on Amazon?
 A: Based on our analysis of customer ratings and sales data, the Majestic Pure Cedarwood Essential Oil with Glass Dropper - Huge 4 Fl Oz - 100% Pure and Natural Cedarwood Oil - Premium Grade Essential Oils for Diffuser, Aromatherapy, Soap and Candle Making is currently the best affordable pick, with a 4.4-star rating and excellent value under $53 (200 SAR).
 
@@ -763,3 +747,9 @@ A: Based on our analysis of customer ratings and sales data, the Elmer's Disappe
 
 Q: Are cheap office products on Amazon good quality?
 A: Yes, many affordable office products on Amazon have excellent quality. We only recommend products with 4.0+ star ratings and 500+ verified reviews, ensuring they have been tested by real customers.
+
+Q: What is the best affordable sports product on Amazon?
+A: Based on our analysis of customer ratings and sales data, the IRON °FLASK Sports Water Bottle - 64 Oz, 3 Lids (Straw Lid), Leak Proof, Vacuum Insulated Stainless Steel, Double Walled, Thermo Mug, Metal Canteen is currently the best affordable pick, with a 4.7-star rating and excellent value under $53 (200 SAR).
+
+Q: Are cheap sports products on Amazon good quality?
+A: Yes, many affordable sports products on Amazon have excellent quality. We only recommend products with 4.0+ star ratings and 500+ verified reviews, ensuring they have been tested by real customers.

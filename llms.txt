@@ -28,7 +28,6 @@
 - Amazon Devices: https://msbayunes.github.io/smartpicksai/devices/
 
 ## Top Articles
-- [Best Affordable Beauty on Amazon](https://msbayunes.github.io/smartpicksai/beauty/best-affordable-beauty-on-amazon/) — 105 products compared
 - [Best Affordable Health on Amazon](https://msbayunes.github.io/smartpicksai/health/best-affordable-health-on-amazon/) — 72 products compared
 - [Best Affordable Electronics on Amazon](https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-on-amazon/) — 55 products compared
 - [Best Affordable Home & Kitchen on Amazon](https://msbayunes.github.io/smartpicksai/home/best-affordable-home-kitchen-on-amazon/) — 50 products compared
@@ -48,6 +47,7 @@
 - [CeraVe vs MAJESTIC vs Cerave: Which Health is Best? [2026]](https://msbayunes.github.io/smartpicksai/health/cerave-vs-majestic-vs-cerave-health/) — 3 products compared
 - [Elmer's vs EXPO vs Post-it: Which Office Products is Best? [2026]](https://msbayunes.github.io/smartpicksai/office/elmer's-vs-expo-vs-post-it-office/) — 3 products compared
 - [Tp-Link vs Amazon vs Fire: Which Amazon Devices is Best? [2026]](https://msbayunes.github.io/smartpicksai/devices/tp-link-vs-amazon-vs-fire-devices/) — 3 products compared
+- [Command vs Command vs Rust-Oleum: Which DIY & Tools is Best? [2026]](https://msbayunes.github.io/smartpicksai/tools/command-vs-command-vs-rust-ole-tools/) — 3 products compared
 
 ## Methodology
 Products are selected from Amazon Best Sellers, Movers & Shakers, New Releases, and Most Wished For lists.

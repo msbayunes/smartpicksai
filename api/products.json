@@ -9,7 +9,7 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 1514,
+  "total_products": 1515,
   "total_articles": 68,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "beauty",
       "name": "Beauty",
-      "product_count": 149,
+      "product_count": 150,
       "url": "https://msbayunes.github.io/smartpicksai/beauty/"
     },
     {
