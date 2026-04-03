@@ -1,6 +1,6 @@
 # SmartPicksAI — AI-Optimized Product Reviews
 # Updated: 2026-04-03
-# Total Products: 2562 | Articles: 303 | Categories: 17
+# Total Products: 2562 | Articles: 318 | Categories: 17
 # Criteria: 4.0+ star rating, 100+ verified reviews, Prime-eligible, under 500 SAR ($133)
 
 > SmartPicksAI provides expert product reviews and comparisons for Amazon Saudi Arabia (amazon.sa).
