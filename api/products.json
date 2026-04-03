@@ -1,7 +1,7 @@
 {
   "name": "SmartPicksAI",
   "description": "Best affordable products on Amazon with verified ratings",
-  "last_updated": "2026-04-02",
+  "last_updated": "2026-04-03",
   "criteria": {
     "min_rating": 4.0,
     "min_reviews": 500,
@@ -9,109 +9,109 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 1515,
-  "total_articles": 68,
+  "total_products": 2464,
+  "total_articles": 267,
   "categories": [
     {
       "id": "electronics",
       "name": "Electronics",
-      "product_count": 114,
+      "product_count": 172,
       "url": "https://msbayunes.github.io/smartpicksai/electronics/"
     },
     {
       "id": "home",
       "name": "Home & Kitchen",
-      "product_count": 107,
+      "product_count": 179,
       "url": "https://msbayunes.github.io/smartpicksai/home/"
     },
     {
       "id": "beauty",
       "name": "Beauty",
-      "product_count": 150,
+      "product_count": 230,
       "url": "https://msbayunes.github.io/smartpicksai/beauty/"
     },
     {
       "id": "health",
       "name": "Health",
-      "product_count": 166,
+      "product_count": 243,
       "url": "https://msbayunes.github.io/smartpicksai/health/"
     },
     {
       "id": "fashion",
       "name": "Fashion",
-      "product_count": 103,
+      "product_count": 187,
       "url": "https://msbayunes.github.io/smartpicksai/fashion/"
     },
     {
       "id": "grocery",
       "name": "Grocery",
-      "product_count": 84,
+      "product_count": 159,
       "url": "https://msbayunes.github.io/smartpicksai/grocery/"
     },
     {
       "id": "baby",
       "name": "Baby Products",
-      "product_count": 94,
+      "product_count": 174,
       "url": "https://msbayunes.github.io/smartpicksai/baby/"
     },
     {
       "id": "toys",
       "name": "Toys",
-      "product_count": 90,
+      "product_count": 131,
       "url": "https://msbayunes.github.io/smartpicksai/toys/"
     },
     {
       "id": "sports",
       "name": "Sporting Goods",
-      "product_count": 94,
+      "product_count": 157,
       "url": "https://msbayunes.github.io/smartpicksai/sports/"
     },
     {
       "id": "office",
       "name": "Office Products",
-      "product_count": 104,
+      "product_count": 157,
       "url": "https://msbayunes.github.io/smartpicksai/office/"
     },
     {
       "id": "automotive",
       "name": "Automotive",
-      "product_count": 89,
+      "product_count": 152,
       "url": "https://msbayunes.github.io/smartpicksai/automotive/"
     },
     {
       "id": "garden",
       "name": "Patio, Lawn & Garden",
-      "product_count": 63,
+      "product_count": 86,
       "url": "https://msbayunes.github.io/smartpicksai/garden/"
     },
     {
       "id": "pets",
       "name": "Pet Supplies",
-      "product_count": 83,
+      "product_count": 144,
       "url": "https://msbayunes.github.io/smartpicksai/pets/"
     },
     {
       "id": "tools",
       "name": "DIY & Tools",
-      "product_count": 81,
+      "product_count": 153,
       "url": "https://msbayunes.github.io/smartpicksai/tools/"
     },
     {
       "id": "videogames",
       "name": "Video Games",
-      "product_count": 44,
+      "product_count": 73,
       "url": "https://msbayunes.github.io/smartpicksai/videogames/"
     },
     {
       "id": "books",
       "name": "Books",
-      "product_count": 19,
+      "product_count": 21,
       "url": "https://msbayunes.github.io/smartpicksai/books/"
     },
     {
       "id": "devices",
       "name": "Amazon Devices",
-      "product_count": 30,
+      "product_count": 46,
       "url": "https://msbayunes.github.io/smartpicksai/devices/"
     }
   ],
@@ -128,6 +128,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B00LH3DMUO?tag=smartpicksai-21"
     },
     {
+      "name": "SanDisk 1TB Extreme microSD UHS I Card for 4K Video on Smartphones, Action Cams & Drones 190MB/s Read, 130MB/s Write, Lifetime Warranty-SDSQXAV-1T00-GN6MN, Red/Gold",
+      "asin": "B077J2CWXW",
+      "price": 229.0,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 382933,
+      "category": "electronics",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B077J2CWXW?tag=smartpicksai-21"
+    },
+    {
       "name": "Sandisk Ultra Microsdxc 128Gb 100Mb/S Class 10 Uhs-I",
       "asin": "B08HYFLMFJ",
       "price": 66.0,
@@ -137,6 +148,17 @@
       "category": "electronics",
       "label": "Best Value",
       "amazon_url": "https://www.amazon.sa/dp/B08HYFLMFJ?tag=smartpicksai-21"
+    },
+    {
+      "name": "Essence lash princess false lash effect mascara, black",
+      "asin": "B00T0C9XRK",
+      "price": 11.95,
+      "currency": "SAR",
+      "rating": 4.4,
+      "reviews": 368730,
+      "category": "beauty",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B00T0C9XRK?tag=smartpicksai-21"
     },
     {
       "name": "SanDisk 128GB microSDXC -Card Licensed for Nintendo -Switch, Fortnite Edition - SDSQXAO-128G-GN6ZG, Black",
@@ -162,6 +184,17 @@
     },
     {
       "name": "Dickies Men's Dri-Tech Essential Moisture Control Crew Socks, Available in M-XXL (6, 12 Pairs)",
+      "asin": "B085HJCPF4",
+      "price": 147.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 239698,
+      "category": "fashion",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B085HJCPF4?tag=smartpicksai-21"
+    },
+    {
+      "name": "Dickies Men's Dri-Tech Essential Moisture Control Crew Socks, Available in M-XXL (6, 12 Pairs)",
       "asin": "B004QF0TG0",
       "price": 52.64,
       "currency": "SAR",
@@ -170,6 +203,17 @@
       "category": "fashion",
       "label": "Best Value",
       "amazon_url": "https://www.amazon.sa/dp/B004QF0TG0?tag=smartpicksai-21"
+    },
+    {
+      "name": "Utopia Bedding Throw Pillows Insert (Pack of 2, White) - 12 x 12 Inches Bed and Couch Pillows - Indoor Decorative Pillows",
+      "asin": "B08GRFD2VN",
+      "price": 29.0,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 231996,
+      "category": "home",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B08GRFD2VN?tag=smartpicksai-21"
     },
     {
       "name": "Fujifilm instax Mini Instant Film – White Border (20 Exposures) – Film Only",
@@ -271,6 +315,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B00QR6SS6O?tag=smartpicksai-21"
     },
     {
+      "name": "Danjor Linens Queen Sheet Set - 6 Piece Set Including 4 Pillowcases - Deep Pockets - Breathable, Soft Bed Sheets - Wrinkle Free - Machine Washable - Ice Blue Sheets for Queen Size Bed - 6 pc",
+      "asin": "B079RZF425",
+      "price": 263.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 142245,
+      "category": "home",
+      "label": "Budget Pick",
+      "amazon_url": "https://www.amazon.sa/dp/B079RZF425?tag=smartpicksai-21"
+    },
+    {
       "name": "IRON °FLASK Sports Water Bottle - 64 Oz, 3 Lids (Straw Lid), Leak Proof, Vacuum Insulated Stainless Steel, Double Walled, Thermo Mug, Metal Canteen",
       "asin": "B07Y8BW5QK",
       "price": 139.97,
@@ -291,6 +346,17 @@
       "category": "books",
       "label": "Best Value",
       "amazon_url": "https://www.amazon.sa/dp/B000FC0SIM?tag=smartpicksai-21"
+    },
+    {
+      "name": "Oral-B Pro 1000 CrossAction Electric Toothbrush, Black",
+      "asin": "B01AKGRTUM",
+      "price": 342.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 134687,
+      "category": "health",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B01AKGRTUM?tag=smartpicksai-21"
     },
     {
       "name": "Glocusent LED Neck Reading Light, Book Light for Reading in Bed, 3 Colors, 6 Brightness Levels, Bendable Arms, Rechargeable, Long Lasting, Perfect for Reading, Knitting, Camping, Repairing",
@@ -335,6 +401,17 @@
       "category": "videogames",
       "label": "Best Value",
       "amazon_url": "https://www.amazon.sa/dp/B07PBQN3WR?tag=smartpicksai-21"
+    },
+    {
+      "name": "Amazon Basics Vacuum Compression Storage Bags with Hand Pump, Multiple Pack of 12 (3 Jumbo, 3 Large, 3 Medium, 3 Small)",
+      "asin": "B07RSCK4XS",
+      "price": 58.0,
+      "currency": "SAR",
+      "rating": 4.4,
+      "reviews": 114823,
+      "category": "home",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07RSCK4XS?tag=smartpicksai-21"
     },
     {
       "name": "Amazon Basics Vacuum Compression Storage Bags with Hand Pump - Large, 5-Pack",
@@ -414,6 +491,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B001FA0W5W?tag=smartpicksai-21"
     },
     {
+      "name": "JETech Privacy Screen Protector for iPhone 13 mini 5.4-Inch, Anti Spy Tempered Glass Film, Case Friendly, 2-Pack",
+      "asin": "B0FVXB9QNQ",
+      "price": 40.99,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 105787,
+      "category": "electronics",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B0FVXB9QNQ?tag=smartpicksai-21"
+    },
+    {
       "name": "JETech Privacy Screen Protector for iPhone 15 Pro Max 6.7-Inch, Anti-Spy Tempered Glass Film with Easy Installation Tool, 2-Pack",
       "asin": "B0CCJNL1M8",
       "price": 41.99,
@@ -491,6 +579,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B08KTJ2LMM?tag=smartpicksai-21"
     },
     {
+      "name": "Zevo Flying Insect Trap, Fly Trap, Fruit Fly Trap (2 Plug-in Bases + 2 Refill Cartridges)",
+      "asin": "B0C3PDTYYX",
+      "price": 294.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 98538,
+      "category": "garden",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B0C3PDTYYX?tag=smartpicksai-21"
+    },
+    {
       "name": "ZEVO Electric Flying Insect Trap Starter Kit - | Mosquito Killer| Fruit Fly Trap | UV Light attracts Insect |",
       "asin": "B07T869RNY",
       "price": 176.84,
@@ -566,105 +665,6 @@
       "category": "tools",
       "label": "Best Overall",
       "amazon_url": "https://www.amazon.sa/dp/B00404YKZI?tag=smartpicksai-21"
-    },
-    {
-      "name": "Command Picture Medium Hanging Strips Value pack | Holds 5.4 kg whole pack| White color | Organize | Decoration | No Tools | Holds Strongly | Damage-Free Hanging | 12 pairs/pack",
-      "asin": "B00LW1APOC",
-      "price": 27.78,
-      "currency": "SAR",
-      "rating": 4.3,
-      "reviews": 94566,
-      "category": "tools",
-      "label": "Best Value",
-      "amazon_url": "https://www.amazon.sa/dp/B00LW1APOC?tag=smartpicksai-21"
-    },
-    {
-      "name": "soundcore by Anker P20i True Wireless Earbuds, 10mm Drivers with Big Bass, Bluetooth 5.3, 30H Long Playtime, IPX5 Water-Resistant, 2 Mics for AI Clear Calls, 22 Preset EQs, Customization via App",
-      "asin": "B0BTYCRJSS",
-      "price": 69.0,
-      "currency": "SAR",
-      "rating": 4.2,
-      "reviews": 95821,
-      "category": "electronics",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B0BTYCRJSS?tag=smartpicksai-21"
-    },
-    {
-      "name": "Think and Grow Rich",
-      "asin": "B07H1S5W7Z",
-      "price": 39,
-      "currency": "SAR",
-      "rating": 4.6,
-      "reviews": 87000,
-      "category": "books",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B07H1S5W7Z?tag=smartpicksai-21"
-    },
-    {
-      "name": "Cerave Foaming Cleanser for Normal to Oily Skin with Hyaluronic Acid",
-      "asin": "B07C5SKVL7",
-      "price": 39.56,
-      "currency": "SAR",
-      "rating": 4.3,
-      "reviews": 91816,
-      "category": "health",
-      "label": "Most Popular",
-      "amazon_url": "https://www.amazon.sa/dp/B07C5SKVL7?tag=smartpicksai-21"
-    },
-    {
-      "name": "Fire TV Stick Lite with Alexa Voice Remote",
-      "asin": "B09B8VJK47",
-      "price": 109,
-      "currency": "SAR",
-      "rating": 4.5,
-      "reviews": 87000,
-      "category": "devices",
-      "label": "Most Popular",
-      "amazon_url": "https://www.amazon.sa/dp/B09B8VJK47?tag=smartpicksai-21"
-    },
-    {
-      "name": "HyperX Cloud II Gaming Headset for PC & PS4 & Xbox One, Nintendo Switch, Red",
-      "asin": "B00SAYCXWG",
-      "price": 209.0,
-      "currency": "SAR",
-      "rating": 4.0,
-      "reviews": 97066,
-      "category": "videogames",
-      "label": "Editor's Choice",
-      "amazon_url": "https://www.amazon.sa/dp/B00SAYCXWG?tag=smartpicksai-21"
-    },
-    {
-      "name": "Dickies mens Dri-tech Moisture Control Quarter Socks Multipack Socks (pack of 6)",
-      "asin": "B082BSHTB8",
-      "price": 52.32,
-      "currency": "SAR",
-      "rating": 4.5,
-      "reviews": 84221,
-      "category": "fashion",
-      "label": "Best Overall",
-      "amazon_url": "https://www.amazon.sa/dp/B082BSHTB8?tag=smartpicksai-21"
-    },
-    {
-      "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
-      "asin": "B07YPNFLQ1",
-      "price": 44,
-      "currency": "SAR",
-      "rating": 4.5,
-      "reviews": 82000,
-      "category": "books",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B07YPNFLQ1?tag=smartpicksai-21"
-    },
-    {
-      "name": "Xbox Wireless Controller - Carbon Black",
-      "asin": "B07BVPB3D8",
-      "price": 169,
-      "currency": "SAR",
-      "rating": 4.7,
-      "reviews": 78000,
-      "category": "videogames",
-      "label": "Budget Pick",
-      "amazon_url": "https://www.amazon.sa/dp/B07BVPB3D8?tag=smartpicksai-21"
     }
   ]
 }
