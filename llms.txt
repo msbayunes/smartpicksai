@@ -1,6 +1,6 @@
 # SmartPicksAI — AI-Optimized Product Reviews
 # Updated: 2026-04-03
-# Total Products: 2464 | Articles: 267 | Categories: 17
+# Total Products: 2562 | Articles: 303 | Categories: 17
 # Criteria: 4.0+ star rating, 100+ verified reviews, Prime-eligible, under 500 SAR ($133)
 
 > SmartPicksAI provides expert product reviews and comparisons for Amazon Saudi Arabia (amazon.sa).
@@ -16,56 +16,44 @@
 - RSS Feed: https://msbayunes.github.io/smartpicksai/feed.xml
 
 ## Categories (English)
-- Electronics (172 products): https://msbayunes.github.io/smartpicksai/electronics/
-- Home & Kitchen (179 products): https://msbayunes.github.io/smartpicksai/home/
-- Beauty (230 products): https://msbayunes.github.io/smartpicksai/beauty/
-- Health (243 products): https://msbayunes.github.io/smartpicksai/health/
-- Fashion (187 products): https://msbayunes.github.io/smartpicksai/fashion/
-- Grocery (159 products): https://msbayunes.github.io/smartpicksai/grocery/
-- Baby Products (174 products): https://msbayunes.github.io/smartpicksai/baby/
-- Toys (131 products): https://msbayunes.github.io/smartpicksai/toys/
-- Sporting Goods (157 products): https://msbayunes.github.io/smartpicksai/sports/
-- Office Products (157 products): https://msbayunes.github.io/smartpicksai/office/
-- Automotive (152 products): https://msbayunes.github.io/smartpicksai/automotive/
-- Patio, Lawn & Garden (86 products): https://msbayunes.github.io/smartpicksai/garden/
-- Pet Supplies (144 products): https://msbayunes.github.io/smartpicksai/pets/
-- DIY & Tools (153 products): https://msbayunes.github.io/smartpicksai/tools/
-- Video Games (73 products): https://msbayunes.github.io/smartpicksai/videogames/
+- Electronics (177 products): https://msbayunes.github.io/smartpicksai/electronics/
+- Home & Kitchen (186 products): https://msbayunes.github.io/smartpicksai/home/
+- Beauty (243 products): https://msbayunes.github.io/smartpicksai/beauty/
+- Health (254 products): https://msbayunes.github.io/smartpicksai/health/
+- Fashion (198 products): https://msbayunes.github.io/smartpicksai/fashion/
+- Grocery (164 products): https://msbayunes.github.io/smartpicksai/grocery/
+- Baby Products (179 products): https://msbayunes.github.io/smartpicksai/baby/
+- Toys (134 products): https://msbayunes.github.io/smartpicksai/toys/
+- Sporting Goods (161 products): https://msbayunes.github.io/smartpicksai/sports/
+- Office Products (165 products): https://msbayunes.github.io/smartpicksai/office/
+- Automotive (161 products): https://msbayunes.github.io/smartpicksai/automotive/
+- Patio, Lawn & Garden (89 products): https://msbayunes.github.io/smartpicksai/garden/
+- Pet Supplies (148 products): https://msbayunes.github.io/smartpicksai/pets/
+- DIY & Tools (157 products): https://msbayunes.github.io/smartpicksai/tools/
+- Video Games (78 products): https://msbayunes.github.io/smartpicksai/videogames/
 - Books (21 products): https://msbayunes.github.io/smartpicksai/books/
-- Amazon Devices (46 products): https://msbayunes.github.io/smartpicksai/devices/
+- Amazon Devices (47 products): https://msbayunes.github.io/smartpicksai/devices/
 
 ## Categories (Arabic — للمستخدمين السعوديين)
-- إلكترونيات (172 منتج): https://msbayunes.github.io/smartpicksai/ar/electronics/
-- المنزل والمطبخ (179 منتج): https://msbayunes.github.io/smartpicksai/ar/home/
-- الجمال والعناية (230 منتج): https://msbayunes.github.io/smartpicksai/ar/beauty/
-- الصحة (243 منتج): https://msbayunes.github.io/smartpicksai/ar/health/
-- الأزياء (187 منتج): https://msbayunes.github.io/smartpicksai/ar/fashion/
-- البقالة (159 منتج): https://msbayunes.github.io/smartpicksai/ar/grocery/
-- مستلزمات الأطفال (174 منتج): https://msbayunes.github.io/smartpicksai/ar/baby/
-- الألعاب (131 منتج): https://msbayunes.github.io/smartpicksai/ar/toys/
-- الرياضة (157 منتج): https://msbayunes.github.io/smartpicksai/ar/sports/
-- مستلزمات المكتب (157 منتج): https://msbayunes.github.io/smartpicksai/ar/office/
-- السيارات (152 منتج): https://msbayunes.github.io/smartpicksai/ar/automotive/
-- الحديقة (86 منتج): https://msbayunes.github.io/smartpicksai/ar/garden/
-- الحيوانات الأليفة (144 منتج): https://msbayunes.github.io/smartpicksai/ar/pets/
-- الأدوات (153 منتج): https://msbayunes.github.io/smartpicksai/ar/tools/
-- ألعاب الفيديو (73 منتج): https://msbayunes.github.io/smartpicksai/ar/videogames/
+- إلكترونيات (177 منتج): https://msbayunes.github.io/smartpicksai/ar/electronics/
+- المنزل والمطبخ (186 منتج): https://msbayunes.github.io/smartpicksai/ar/home/
+- الجمال والعناية (243 منتج): https://msbayunes.github.io/smartpicksai/ar/beauty/
+- الصحة (254 منتج): https://msbayunes.github.io/smartpicksai/ar/health/
+- الأزياء (198 منتج): https://msbayunes.github.io/smartpicksai/ar/fashion/
+- البقالة (164 منتج): https://msbayunes.github.io/smartpicksai/ar/grocery/
+- مستلزمات الأطفال (179 منتج): https://msbayunes.github.io/smartpicksai/ar/baby/
+- الألعاب (134 منتج): https://msbayunes.github.io/smartpicksai/ar/toys/
+- الرياضة (161 منتج): https://msbayunes.github.io/smartpicksai/ar/sports/
+- مستلزمات المكتب (165 منتج): https://msbayunes.github.io/smartpicksai/ar/office/
+- السيارات (161 منتج): https://msbayunes.github.io/smartpicksai/ar/automotive/
+- الحديقة (89 منتج): https://msbayunes.github.io/smartpicksai/ar/garden/
+- الحيوانات الأليفة (148 منتج): https://msbayunes.github.io/smartpicksai/ar/pets/
+- الأدوات (157 منتج): https://msbayunes.github.io/smartpicksai/ar/tools/
+- ألعاب الفيديو (78 منتج): https://msbayunes.github.io/smartpicksai/ar/videogames/
 - الكتب (21 منتج): https://msbayunes.github.io/smartpicksai/ar/books/
-- أجهزة أمازون (46 منتج): https://msbayunes.github.io/smartpicksai/ar/devices/
+- أجهزة أمازون (47 منتج): https://msbayunes.github.io/smartpicksai/ar/devices/
 
 ## Top Articles by Product Count
-- [Best Affordable Baby Products on Amazon](https://msbayunes.github.io/smartpicksai/baby/best-affordable-baby-products-on-amazon/) — 80 products compared
-- [Best Affordable Beauty on Amazon](https://msbayunes.github.io/smartpicksai/beauty/best-affordable-beauty-on-amazon/) — 80 products compared
-- [Best Affordable Health on Amazon](https://msbayunes.github.io/smartpicksai/health/best-affordable-health-on-amazon/) — 77 products compared
-- [Best Affordable Grocery on Amazon](https://msbayunes.github.io/smartpicksai/grocery/best-affordable-grocery-on-amazon/) — 75 products compared
-- [Best Affordable Home & Kitchen on Amazon](https://msbayunes.github.io/smartpicksai/home/best-affordable-home-kitchen-on-amazon/) — 72 products compared
-- [Best Affordable DIY & Tools on Amazon](https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-on-amazon/) — 72 products compared
-- [Best Affordable Automotive on Amazon](https://msbayunes.github.io/smartpicksai/automotive/best-affordable-automotive-on-amazon/) — 63 products compared
-- [Best Affordable Pet Supplies on Amazon](https://msbayunes.github.io/smartpicksai/pets/best-affordable-pet-supplies-on-amazon/) — 61 products compared
-- [Best Affordable Office Products on Amazon](https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-on-amazon/) — 53 products compared
-- [Best Affordable Toys on Amazon](https://msbayunes.github.io/smartpicksai/toys/best-affordable-toys-on-amazon/) — 41 products compared
-- [Best Affordable Video Games on Amazon](https://msbayunes.github.io/smartpicksai/videogames/best-affordable-video-games-on-amazon/) — 29 products compared
-- [Best Affordable Patio, Lawn & Garden on Amazon](https://msbayunes.github.io/smartpicksai/garden/best-affordable-patio-lawn-garden-on-amazon/) — 23 products compared
 - [Best Affordable Electronics Under 100 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-under-100-sar-on-amazon-saudi-arabia/) — 20 products compared
 - [Best Affordable Electronics Under 200 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-under-200-sar-on-amazon-saudi-arabia/) — 20 products compared
 - [Best Affordable Electronics Under 300 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-under-300-sar-on-amazon-saudi-arabia/) — 20 products compared
@@ -79,6 +67,18 @@
 - [Best Affordable Health Under 300 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/health/best-affordable-health-under-300-sar-on-amazon-saudi-arabia/) — 20 products compared
 - [Best Affordable Health Under 500 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/health/best-affordable-health-under-500-sar-on-amazon-saudi-arabia/) — 20 products compared
 - [Best Affordable Office Products Under 100 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-under-100-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Office Products Under 200 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-under-200-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Office Products Under 300 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-under-300-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Office Products Under 500 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-under-500-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Amazon Devices Under 200 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-under-200-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Amazon Devices Under 300 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-under-300-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Amazon Devices Under 500 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-under-500-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable DIY & Tools Under 100 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-under-100-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable DIY & Tools Under 200 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-under-200-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable DIY & Tools Under 300 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-under-300-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable DIY & Tools Under 500 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-under-500-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Sporting Goods Under 100 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/sports/best-affordable-sporting-goods-under-100-sar-on-amazon-saudi-arabia/) — 20 products compared
+- [Best Affordable Sporting Goods Under 200 SAR on Amazon Saudi Arabia](https://msbayunes.github.io/smartpicksai/sports/best-affordable-sporting-goods-under-200-sar-on-amazon-saudi-arabia/) — 20 products compared
 
 ## Queries We Answer (English)
 - What is the best affordable electronics under 500 SAR in Saudi Arabia?

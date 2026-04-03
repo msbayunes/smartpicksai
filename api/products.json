@@ -9,97 +9,97 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 2464,
-  "total_articles": 267,
+  "total_products": 2562,
+  "total_articles": 303,
   "categories": [
     {
       "id": "electronics",
       "name": "Electronics",
-      "product_count": 172,
+      "product_count": 177,
       "url": "https://msbayunes.github.io/smartpicksai/electronics/"
     },
     {
       "id": "home",
       "name": "Home & Kitchen",
-      "product_count": 179,
+      "product_count": 186,
       "url": "https://msbayunes.github.io/smartpicksai/home/"
     },
     {
       "id": "beauty",
       "name": "Beauty",
-      "product_count": 230,
+      "product_count": 243,
       "url": "https://msbayunes.github.io/smartpicksai/beauty/"
     },
     {
       "id": "health",
       "name": "Health",
-      "product_count": 243,
+      "product_count": 254,
       "url": "https://msbayunes.github.io/smartpicksai/health/"
     },
     {
       "id": "fashion",
       "name": "Fashion",
-      "product_count": 187,
+      "product_count": 198,
       "url": "https://msbayunes.github.io/smartpicksai/fashion/"
     },
     {
       "id": "grocery",
       "name": "Grocery",
-      "product_count": 159,
+      "product_count": 164,
       "url": "https://msbayunes.github.io/smartpicksai/grocery/"
     },
     {
       "id": "baby",
       "name": "Baby Products",
-      "product_count": 174,
+      "product_count": 179,
       "url": "https://msbayunes.github.io/smartpicksai/baby/"
     },
     {
       "id": "toys",
       "name": "Toys",
-      "product_count": 131,
+      "product_count": 134,
       "url": "https://msbayunes.github.io/smartpicksai/toys/"
     },
     {
       "id": "sports",
       "name": "Sporting Goods",
-      "product_count": 157,
+      "product_count": 161,
       "url": "https://msbayunes.github.io/smartpicksai/sports/"
     },
     {
       "id": "office",
       "name": "Office Products",
-      "product_count": 157,
+      "product_count": 165,
       "url": "https://msbayunes.github.io/smartpicksai/office/"
     },
     {
       "id": "automotive",
       "name": "Automotive",
-      "product_count": 152,
+      "product_count": 161,
       "url": "https://msbayunes.github.io/smartpicksai/automotive/"
     },
     {
       "id": "garden",
       "name": "Patio, Lawn & Garden",
-      "product_count": 86,
+      "product_count": 89,
       "url": "https://msbayunes.github.io/smartpicksai/garden/"
     },
     {
       "id": "pets",
       "name": "Pet Supplies",
-      "product_count": 144,
+      "product_count": 148,
       "url": "https://msbayunes.github.io/smartpicksai/pets/"
     },
     {
       "id": "tools",
       "name": "DIY & Tools",
-      "product_count": 153,
+      "product_count": 157,
       "url": "https://msbayunes.github.io/smartpicksai/tools/"
     },
     {
       "id": "videogames",
       "name": "Video Games",
-      "product_count": 73,
+      "product_count": 78,
       "url": "https://msbayunes.github.io/smartpicksai/videogames/"
     },
     {
@@ -111,7 +111,7 @@
     {
       "id": "devices",
       "name": "Amazon Devices",
-      "product_count": 46,
+      "product_count": 47,
       "url": "https://msbayunes.github.io/smartpicksai/devices/"
     }
   ],
@@ -491,6 +491,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B001FA0W5W?tag=smartpicksai-21"
     },
     {
+      "name": "EcoNour Windshield Sunshade for BMW 3 Series 2006-2009 2010 2011, Sun Visor for Front Windshield & Window Sun Shade Cover, UV Heat Blocker & Protector, Car Accessories",
+      "asin": "B089KF6PDX",
+      "price": 19.9,
+      "currency": "SAR",
+      "rating": 4.1,
+      "reviews": 111849,
+      "category": "automotive",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B089KF6PDX?tag=smartpicksai-21"
+    },
+    {
       "name": "JETech Privacy Screen Protector for iPhone 13 mini 5.4-Inch, Anti Spy Tempered Glass Film, Case Friendly, 2-Pack",
       "asin": "B0FVXB9QNQ",
       "price": 40.99,
@@ -654,17 +665,6 @@
       "category": "books",
       "label": "Great Value",
       "amazon_url": "https://www.amazon.sa/dp/B07DJKP5W6?tag=smartpicksai-21"
-    },
-    {
-      "name": "Command Picture Large Hanging Strips | Holds 7.2 kg whole pack | White color | Organize | Decoration | No Tools | Holds Strongly | Damage-Free Hanging | 4 pairs/pack",
-      "asin": "B00404YKZI",
-      "price": 32.8,
-      "currency": "SAR",
-      "rating": 4.3,
-      "reviews": 94577,
-      "category": "tools",
-      "label": "Best Overall",
-      "amazon_url": "https://www.amazon.sa/dp/B00404YKZI?tag=smartpicksai-21"
     }
   ]
 }
