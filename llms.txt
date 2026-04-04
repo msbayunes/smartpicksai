@@ -1,6 +1,6 @@
 # SmartPicksAI — AI-Optimized Product Reviews
 # Updated: 2026-04-04
-# Total Products: 3151 | Articles: 339 | Categories: 17
+# Total Products: 3240 | Articles: 338 | Categories: 17
 # Criteria: 4.0+ star rating, 100+ verified reviews, Prime-eligible, under 500 SAR ($133)
 
 > SmartPicksAI provides expert product reviews and comparisons for Amazon Saudi Arabia (amazon.sa).
@@ -16,46 +16,44 @@
 - RSS Feed: https://msbayunes.github.io/smartpicksai/feed.xml
 
 ## Categories (English)
-- Electronics (222 products): https://msbayunes.github.io/smartpicksai/electronics/
-- Home & Kitchen (235 products): https://msbayunes.github.io/smartpicksai/home/
-- Beauty (301 products): https://msbayunes.github.io/smartpicksai/beauty/
-- Health (303 products): https://msbayunes.github.io/smartpicksai/health/
-- Fashion (258 products): https://msbayunes.github.io/smartpicksai/fashion/
-- Grocery (207 products): https://msbayunes.github.io/smartpicksai/grocery/
-- Baby Products (212 products): https://msbayunes.github.io/smartpicksai/baby/
-- Toys (164 products): https://msbayunes.github.io/smartpicksai/toys/
-- Sporting Goods (199 products): https://msbayunes.github.io/smartpicksai/sports/
-- Office Products (200 products): https://msbayunes.github.io/smartpicksai/office/
-- Automotive (198 products): https://msbayunes.github.io/smartpicksai/automotive/
-- Patio, Lawn & Garden (99 products): https://msbayunes.github.io/smartpicksai/garden/
-- Pet Supplies (180 products): https://msbayunes.github.io/smartpicksai/pets/
-- DIY & Tools (196 products): https://msbayunes.github.io/smartpicksai/tools/
-- Video Games (104 products): https://msbayunes.github.io/smartpicksai/videogames/
+- Electronics (234 products): https://msbayunes.github.io/smartpicksai/electronics/
+- Home & Kitchen (243 products): https://msbayunes.github.io/smartpicksai/home/
+- Beauty (308 products): https://msbayunes.github.io/smartpicksai/beauty/
+- Health (306 products): https://msbayunes.github.io/smartpicksai/health/
+- Fashion (266 products): https://msbayunes.github.io/smartpicksai/fashion/
+- Grocery (217 products): https://msbayunes.github.io/smartpicksai/grocery/
+- Baby Products (217 products): https://msbayunes.github.io/smartpicksai/baby/
+- Toys (167 products): https://msbayunes.github.io/smartpicksai/toys/
+- Sporting Goods (204 products): https://msbayunes.github.io/smartpicksai/sports/
+- Office Products (206 products): https://msbayunes.github.io/smartpicksai/office/
+- Automotive (204 products): https://msbayunes.github.io/smartpicksai/automotive/
+- Patio, Lawn & Garden (102 products): https://msbayunes.github.io/smartpicksai/garden/
+- Pet Supplies (187 products): https://msbayunes.github.io/smartpicksai/pets/
+- DIY & Tools (201 products): https://msbayunes.github.io/smartpicksai/tools/
+- Video Games (105 products): https://msbayunes.github.io/smartpicksai/videogames/
 - Books (22 products): https://msbayunes.github.io/smartpicksai/books/
 - Amazon Devices (51 products): https://msbayunes.github.io/smartpicksai/devices/
 
 ## Categories (Arabic — للمستخدمين السعوديين)
-- إلكترونيات (222 منتج): https://msbayunes.github.io/smartpicksai/ar/electronics/
-- المنزل والمطبخ (235 منتج): https://msbayunes.github.io/smartpicksai/ar/home/
-- الجمال والعناية (301 منتج): https://msbayunes.github.io/smartpicksai/ar/beauty/
-- الصحة (303 منتج): https://msbayunes.github.io/smartpicksai/ar/health/
-- الأزياء (258 منتج): https://msbayunes.github.io/smartpicksai/ar/fashion/
-- البقالة (207 منتج): https://msbayunes.github.io/smartpicksai/ar/grocery/
-- مستلزمات الأطفال (212 منتج): https://msbayunes.github.io/smartpicksai/ar/baby/
-- الألعاب (164 منتج): https://msbayunes.github.io/smartpicksai/ar/toys/
-- الرياضة (199 منتج): https://msbayunes.github.io/smartpicksai/ar/sports/
-- مستلزمات المكتب (200 منتج): https://msbayunes.github.io/smartpicksai/ar/office/
-- السيارات (198 منتج): https://msbayunes.github.io/smartpicksai/ar/automotive/
-- الحديقة (99 منتج): https://msbayunes.github.io/smartpicksai/ar/garden/
-- الحيوانات الأليفة (180 منتج): https://msbayunes.github.io/smartpicksai/ar/pets/
-- الأدوات (196 منتج): https://msbayunes.github.io/smartpicksai/ar/tools/
-- ألعاب الفيديو (104 منتج): https://msbayunes.github.io/smartpicksai/ar/videogames/
+- إلكترونيات (234 منتج): https://msbayunes.github.io/smartpicksai/ar/electronics/
+- المنزل والمطبخ (243 منتج): https://msbayunes.github.io/smartpicksai/ar/home/
+- الجمال والعناية (308 منتج): https://msbayunes.github.io/smartpicksai/ar/beauty/
+- الصحة (306 منتج): https://msbayunes.github.io/smartpicksai/ar/health/
+- الأزياء (266 منتج): https://msbayunes.github.io/smartpicksai/ar/fashion/
+- البقالة (217 منتج): https://msbayunes.github.io/smartpicksai/ar/grocery/
+- مستلزمات الأطفال (217 منتج): https://msbayunes.github.io/smartpicksai/ar/baby/
+- الألعاب (167 منتج): https://msbayunes.github.io/smartpicksai/ar/toys/
+- الرياضة (204 منتج): https://msbayunes.github.io/smartpicksai/ar/sports/
+- مستلزمات المكتب (206 منتج): https://msbayunes.github.io/smartpicksai/ar/office/
+- السيارات (204 منتج): https://msbayunes.github.io/smartpicksai/ar/automotive/
+- الحديقة (102 منتج): https://msbayunes.github.io/smartpicksai/ar/garden/
+- الحيوانات الأليفة (187 منتج): https://msbayunes.github.io/smartpicksai/ar/pets/
+- الأدوات (201 منتج): https://msbayunes.github.io/smartpicksai/ar/tools/
+- ألعاب الفيديو (105 منتج): https://msbayunes.github.io/smartpicksai/ar/videogames/
 - الكتب (22 منتج): https://msbayunes.github.io/smartpicksai/ar/books/
 - أجهزة أمازون (51 منتج): https://msbayunes.github.io/smartpicksai/ar/devices/
 
 ## Top Articles by Product Count
-- [Best Affordable Fashion on Amazon](https://msbayunes.github.io/smartpicksai/fashion/best-affordable-fashion-on-amazon/) — 60 products compared
-- [Best Affordable Beauty on Amazon](https://msbayunes.github.io/smartpicksai/beauty/best-affordable-beauty-on-amazon/) — 58 products compared
 - [Amazon vs Sandisk vs Fujifilm: Which Electronics is Best? [2026]](https://msbayunes.github.io/smartpicksai/electronics/amazon-vs-sandisk-vs-fujifilm-electronics/) — 50 products compared
 - [CeraVe vs MAJESTIC vs Cerave: Which Health is Best? [2026]](https://msbayunes.github.io/smartpicksai/health/cerave-vs-majestic-vs-cerave-health/) — 50 products compared
 - [Elmer's vs EXPO vs Post-it: Which Office Products is Best? [2026]](https://msbayunes.github.io/smartpicksai/office/elmer's-vs-expo-vs-post-it-office/) — 50 products compared
@@ -79,6 +77,8 @@
 - [Dickies mens vs PUMA Smash vs Kanu Surf: Which Fashion Wins? [2026 Comparison]](https://msbayunes.github.io/smartpicksai/fashion/dickies mens-vs-puma smash-vs-kanu surf-comparison/) — 50 products compared
 - [Precious Cat vs Foldable Metal vs Henkelion Cat: Which Pet Supplies Wins? [2026 Comparison]](https://msbayunes.github.io/smartpicksai/pets/precious cat-vs-foldable metal-vs-henkelion cat-comparison/) — 50 products compared
 - [Bosch Rear vs Nilight Tire vs منظف فلاتر: Which Automotive Wins? [2026 Comparison]](https://msbayunes.github.io/smartpicksai/automotive/bosch rear-vs-nilight tire-vs-منظف فلاتر-comparison/) — 50 products compared
+- [SanDisk 128GB vs PlayStation 4 vs DualSense PlayStation: Which Video Games Wins? [2026 Comparison]](https://msbayunes.github.io/smartpicksai/videogames/sandisk 128gb-vs-playstation 4-vs-dualsense playstation-comparison/) — 50 products compared
+- [Himalaya Gentle vs CREVENT 76x102cm vs Frida Baby: Which Baby Products Wins? [2026 Comparison]](https://msbayunes.github.io/smartpicksai/baby/himalaya gentle-vs-crevent 76x102cm-vs-frida baby-comparison/) — 50 products compared
 
 ## Queries We Answer (English)
 - What is the best affordable electronics under 500 SAR in Saudi Arabia?
