@@ -1,7 +1,7 @@
 {
   "name": "SmartPicksAI",
   "description": "Best affordable products on Amazon with verified ratings",
-  "last_updated": "2026-04-03",
+  "last_updated": "2026-04-04",
   "criteria": {
     "min_rating": 4.0,
     "min_reviews": 500,
@@ -9,109 +9,109 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 2562,
-  "total_articles": 303,
+  "total_products": 3151,
+  "total_articles": 318,
   "categories": [
     {
       "id": "electronics",
       "name": "Electronics",
-      "product_count": 177,
+      "product_count": 222,
       "url": "https://msbayunes.github.io/smartpicksai/electronics/"
     },
     {
       "id": "home",
       "name": "Home & Kitchen",
-      "product_count": 186,
+      "product_count": 235,
       "url": "https://msbayunes.github.io/smartpicksai/home/"
     },
     {
       "id": "beauty",
       "name": "Beauty",
-      "product_count": 243,
+      "product_count": 301,
       "url": "https://msbayunes.github.io/smartpicksai/beauty/"
     },
     {
       "id": "health",
       "name": "Health",
-      "product_count": 254,
+      "product_count": 303,
       "url": "https://msbayunes.github.io/smartpicksai/health/"
     },
     {
       "id": "fashion",
       "name": "Fashion",
-      "product_count": 198,
+      "product_count": 258,
       "url": "https://msbayunes.github.io/smartpicksai/fashion/"
     },
     {
       "id": "grocery",
       "name": "Grocery",
-      "product_count": 164,
+      "product_count": 207,
       "url": "https://msbayunes.github.io/smartpicksai/grocery/"
     },
     {
       "id": "baby",
       "name": "Baby Products",
-      "product_count": 179,
+      "product_count": 212,
       "url": "https://msbayunes.github.io/smartpicksai/baby/"
     },
     {
       "id": "toys",
       "name": "Toys",
-      "product_count": 134,
+      "product_count": 164,
       "url": "https://msbayunes.github.io/smartpicksai/toys/"
     },
     {
       "id": "sports",
       "name": "Sporting Goods",
-      "product_count": 161,
+      "product_count": 199,
       "url": "https://msbayunes.github.io/smartpicksai/sports/"
     },
     {
       "id": "office",
       "name": "Office Products",
-      "product_count": 165,
+      "product_count": 200,
       "url": "https://msbayunes.github.io/smartpicksai/office/"
     },
     {
       "id": "automotive",
       "name": "Automotive",
-      "product_count": 161,
+      "product_count": 198,
       "url": "https://msbayunes.github.io/smartpicksai/automotive/"
     },
     {
       "id": "garden",
       "name": "Patio, Lawn & Garden",
-      "product_count": 89,
+      "product_count": 99,
       "url": "https://msbayunes.github.io/smartpicksai/garden/"
     },
     {
       "id": "pets",
       "name": "Pet Supplies",
-      "product_count": 148,
+      "product_count": 180,
       "url": "https://msbayunes.github.io/smartpicksai/pets/"
     },
     {
       "id": "tools",
       "name": "DIY & Tools",
-      "product_count": 157,
+      "product_count": 196,
       "url": "https://msbayunes.github.io/smartpicksai/tools/"
     },
     {
       "id": "videogames",
       "name": "Video Games",
-      "product_count": 78,
+      "product_count": 104,
       "url": "https://msbayunes.github.io/smartpicksai/videogames/"
     },
     {
       "id": "books",
       "name": "Books",
-      "product_count": 21,
+      "product_count": 22,
       "url": "https://msbayunes.github.io/smartpicksai/books/"
     },
     {
       "id": "devices",
       "name": "Amazon Devices",
-      "product_count": 47,
+      "product_count": 51,
       "url": "https://msbayunes.github.io/smartpicksai/devices/"
     }
   ],
@@ -227,6 +227,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B0000C73CQ?tag=smartpicksai-21"
     },
     {
+      "name": "SanDisk Cruzer Blade USB Flash Drive 16GB",
+      "asin": "B09FHW8XM4",
+      "price": 35.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 200881,
+      "category": "electronics",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B09FHW8XM4?tag=smartpicksai-21"
+    },
+    {
       "name": "Bosch Rear Wiper Blade H307 /3397011429 Original Equipment Replacement- 12\" (Pack of 1)",
       "asin": "B00ES5Q610",
       "price": 144.08,
@@ -236,6 +247,28 @@
       "category": "automotive",
       "label": "Best Overall",
       "amazon_url": "https://www.amazon.sa/dp/B00ES5Q610?tag=smartpicksai-21"
+    },
+    {
+      "name": "Amazon Basics Slim, Velvet, Non-Slip Suit Clothes Hangers, Ivory/Silver - Pack of 30",
+      "asin": "B01M7S9C6N",
+      "price": 41.0,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 189551,
+      "category": "home",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B01M7S9C6N?tag=smartpicksai-21"
+    },
+    {
+      "name": "Amazon Basics Slim, Velvet, Non-Slip Suit Clothes Hangers, Ivory/Silver - Pack of 30",
+      "asin": "B01M7S9C6N",
+      "price": 41.0,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 189551,
+      "category": "home",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B01M7S9C6N?tag=smartpicksai-21"
     },
     {
       "name": "Amazon Basics Slim Velvet, Non-Slip Suit Clothes Hangers, Pack of 100, Black/Silver",
@@ -326,6 +359,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B079RZF425?tag=smartpicksai-21"
     },
     {
+      "name": "IRON °FLASK Sports Water Bottle - 40oz, 3 Lids (Straw Lid), Stainless Steel Vacuum Insulated Modern Double Walled, Single Thermo Mug (Black)",
+      "asin": "B07N2F3JXP",
+      "price": 177.92,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 135421,
+      "category": "sports",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B07N2F3JXP?tag=smartpicksai-21"
+    },
+    {
       "name": "IRON °FLASK Sports Water Bottle - 64 Oz, 3 Lids (Straw Lid), Leak Proof, Vacuum Insulated Stainless Steel, Double Walled, Thermo Mug, Metal Canteen",
       "asin": "B07Y8BW5QK",
       "price": 139.97,
@@ -359,6 +403,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B01AKGRTUM?tag=smartpicksai-21"
     },
     {
+      "name": "TheraBreath Healthy Gums Periodontist Formulated 24-Hour Oral Rinse, Clean Mint, 3 Ounce (Pack of 6)",
+      "asin": "B08BQVCDDD",
+      "price": 116.5,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 130930,
+      "category": "health",
+      "label": "Budget Pick",
+      "amazon_url": "https://www.amazon.sa/dp/B08BQVCDDD?tag=smartpicksai-21"
+    },
+    {
       "name": "Glocusent LED Neck Reading Light, Book Light for Reading in Bed, 3 Colors, 6 Brightness Levels, Bendable Arms, Rechargeable, Long Lasting, Perfect for Reading, Knitting, Camping, Repairing",
       "asin": "B07WNRN9WQ",
       "price": 67.45,
@@ -370,6 +425,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B07WNRN9WQ?tag=smartpicksai-21"
     },
     {
+      "name": "Gildan Men's A-Shirt Tanks, Multipack, Style G1104",
+      "asin": "B079ZGXM28",
+      "price": 64.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 128566,
+      "category": "fashion",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B079ZGXM28?tag=smartpicksai-21"
+    },
+    {
       "name": "Sapiens: A Brief History of Humankind",
       "asin": "B0063HEMFI",
       "price": 59,
@@ -379,6 +445,17 @@
       "category": "books",
       "label": "Most Popular",
       "amazon_url": "https://www.amazon.sa/dp/B0063HEMFI?tag=smartpicksai-21"
+    },
+    {
+      "name": "LifeStraw Peak Series Personal Water Filter for Hiking, Camping, Travel, and Emergency Preparedness",
+      "asin": "B07NX7WVCS",
+      "price": 116.92,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 114712,
+      "category": "sports",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B07NX7WVCS?tag=smartpicksai-21"
     },
     {
       "name": "Rich Dad Poor Dad",
@@ -425,6 +502,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B07RSCPH4N?tag=smartpicksai-21"
     },
     {
+      "name": "Amazon Basics Microfiber Fitted Sheets, Bright White, 90 x 190 x 30 cm",
+      "asin": "B01E6XBBE0",
+      "price": 23.0,
+      "currency": "SAR",
+      "rating": 4.3,
+      "reviews": 114363,
+      "category": "home",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B01E6XBBE0?tag=smartpicksai-21"
+    },
+    {
       "name": "AmazonBasics Extra Thick Exercise Yoga Gym Floor Mat with Carrying Strap",
       "asin": "B01LP0VBDI",
       "price": 38.0,
@@ -456,6 +544,17 @@
       "category": "home",
       "label": "Best Overall",
       "amazon_url": "https://www.amazon.sa/dp/B073JYC4XM?tag=smartpicksai-21"
+    },
+    {
+      "name": "Elmer's Disappearing Purple School Glue Sticks, Washable, 22 Grams, 30 Count",
+      "asin": "B01CTA7ABA",
+      "price": 181.01,
+      "currency": "SAR",
+      "rating": 4.8,
+      "reviews": 96184,
+      "category": "office",
+      "label": "Great Value",
+      "amazon_url": "https://www.amazon.sa/dp/B01CTA7ABA?tag=smartpicksai-21"
     },
     {
       "name": "Elmer's Disappearing Purple School Glue Sticks, Washable, 22 Grams, 3 Count",
@@ -566,105 +665,6 @@
       "category": "office",
       "label": "Best Value",
       "amazon_url": "https://www.amazon.sa/dp/B08HX1X9GP?tag=smartpicksai-21"
-    },
-    {
-      "name": "How to Win Friends and Influence People",
-      "asin": "B00AREH5PO",
-      "price": 42,
-      "currency": "SAR",
-      "rating": 4.7,
-      "reviews": 95000,
-      "category": "books",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B00AREH5PO?tag=smartpicksai-21"
-    },
-    {
-      "name": "DualSense PlayStation 5 Wireless Controller",
-      "asin": "B08KTJ2LMM",
-      "price": 179,
-      "currency": "SAR",
-      "rating": 4.7,
-      "reviews": 95000,
-      "category": "videogames",
-      "label": "Most Popular",
-      "amazon_url": "https://www.amazon.sa/dp/B08KTJ2LMM?tag=smartpicksai-21"
-    },
-    {
-      "name": "Zevo Flying Insect Trap, Fly Trap, Fruit Fly Trap (2 Plug-in Bases + 2 Refill Cartridges)",
-      "asin": "B0C3PDTYYX",
-      "price": 294.0,
-      "currency": "SAR",
-      "rating": 4.5,
-      "reviews": 98538,
-      "category": "garden",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B0C3PDTYYX?tag=smartpicksai-21"
-    },
-    {
-      "name": "ZEVO Electric Flying Insect Trap Starter Kit - | Mosquito Killer| Fruit Fly Trap | UV Light attracts Insect |",
-      "asin": "B07T869RNY",
-      "price": 176.84,
-      "currency": "SAR",
-      "rating": 4.5,
-      "reviews": 98288,
-      "category": "garden",
-      "label": "Best Overall",
-      "amazon_url": "https://www.amazon.sa/dp/B07T869RNY?tag=smartpicksai-21"
-    },
-    {
-      "name": "Amazon Echo Dot (5th Gen) Smart Speaker",
-      "asin": "B09WZCXNX2",
-      "price": 149,
-      "currency": "SAR",
-      "rating": 4.7,
-      "reviews": 89000,
-      "category": "devices",
-      "label": "Best Value",
-      "amazon_url": "https://www.amazon.sa/dp/B09WZCXNX2?tag=smartpicksai-21"
-    },
-    {
-      "name": "NYX Professional Makeup , Butter Gloss, Non-Sticky, Silky Smooth Formula and High Shine Finish with Medium Coverage Lip Gloss, Shade - 16 Praline, 8 ml",
-      "asin": "B00ICU1JIC",
-      "price": 56.0,
-      "currency": "SAR",
-      "rating": 4.4,
-      "reviews": 94828,
-      "category": "beauty",
-      "label": "Best Overall",
-      "amazon_url": "https://www.amazon.sa/dp/B00ICU1JIC?tag=smartpicksai-21"
-    },
-    {
-      "name": "Anker Soundcore Q30 Hybrid Active Noise Cancelling Headphones Bluetooth with Multiple Modes, Hi-Res Sound Bluetooth Headphones, Custom EQ via App, 50H Playtime, Multipoint Connection",
-      "asin": "B08HMWZBXC",
-      "price": 189.0,
-      "currency": "SAR",
-      "rating": 4.5,
-      "reviews": 92557,
-      "category": "electronics",
-      "label": "Budget Pick",
-      "amazon_url": "https://www.amazon.sa/dp/B08HMWZBXC?tag=smartpicksai-21"
-    },
-    {
-      "name": "Apple Lightning to USB Cable (1m)",
-      "asin": "B07PJV3JP6",
-      "price": 35,
-      "currency": "SAR",
-      "rating": 4.6,
-      "reviews": 89432,
-      "category": "electronics",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B07PJV3JP6?tag=smartpicksai-21"
-    },
-    {
-      "name": "The Subtle Art of Not Giving a F*ck",
-      "asin": "B07DJKP5W6",
-      "price": 48,
-      "currency": "SAR",
-      "rating": 4.5,
-      "reviews": 91000,
-      "category": "books",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B07DJKP5W6?tag=smartpicksai-21"
     }
   ]
 }
