@@ -1,7 +1,7 @@
 {
   "name": "SmartPicksAI",
   "description": "Best affordable products on Amazon with verified ratings",
-  "last_updated": "2026-04-06",
+  "last_updated": "2026-04-07",
   "criteria": {
     "min_rating": 4.0,
     "min_reviews": 500,
@@ -9,109 +9,109 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 3834,
-  "total_articles": 342,
+  "total_products": 4195,
+  "total_articles": 344,
   "categories": [
     {
       "id": "electronics",
       "name": "Electronics",
-      "product_count": 280,
+      "product_count": 310,
       "url": "https://msbayunes.github.io/smartpicksai/electronics/"
     },
     {
       "id": "home",
       "name": "Home & Kitchen",
-      "product_count": 291,
+      "product_count": 335,
       "url": "https://msbayunes.github.io/smartpicksai/home/"
     },
     {
       "id": "beauty",
       "name": "Beauty",
-      "product_count": 368,
+      "product_count": 412,
       "url": "https://msbayunes.github.io/smartpicksai/beauty/"
     },
     {
       "id": "health",
       "name": "Health",
-      "product_count": 350,
+      "product_count": 376,
       "url": "https://msbayunes.github.io/smartpicksai/health/"
     },
     {
       "id": "fashion",
       "name": "Fashion",
-      "product_count": 328,
+      "product_count": 372,
       "url": "https://msbayunes.github.io/smartpicksai/fashion/"
     },
     {
       "id": "grocery",
       "name": "Grocery",
-      "product_count": 268,
+      "product_count": 305,
       "url": "https://msbayunes.github.io/smartpicksai/grocery/"
     },
     {
       "id": "baby",
       "name": "Baby Products",
-      "product_count": 266,
+      "product_count": 280,
       "url": "https://msbayunes.github.io/smartpicksai/baby/"
     },
     {
       "id": "toys",
       "name": "Toys",
-      "product_count": 194,
+      "product_count": 200,
       "url": "https://msbayunes.github.io/smartpicksai/toys/"
     },
     {
       "id": "sports",
       "name": "Sporting Goods",
-      "product_count": 251,
+      "product_count": 272,
       "url": "https://msbayunes.github.io/smartpicksai/sports/"
     },
     {
       "id": "office",
       "name": "Office Products",
-      "product_count": 242,
+      "product_count": 258,
       "url": "https://msbayunes.github.io/smartpicksai/office/"
     },
     {
       "id": "automotive",
       "name": "Automotive",
-      "product_count": 236,
+      "product_count": 253,
       "url": "https://msbayunes.github.io/smartpicksai/automotive/"
     },
     {
       "id": "garden",
       "name": "Patio, Lawn & Garden",
-      "product_count": 121,
+      "product_count": 123,
       "url": "https://msbayunes.github.io/smartpicksai/garden/"
     },
     {
       "id": "pets",
       "name": "Pet Supplies",
-      "product_count": 208,
+      "product_count": 225,
       "url": "https://msbayunes.github.io/smartpicksai/pets/"
     },
     {
       "id": "tools",
       "name": "DIY & Tools",
-      "product_count": 237,
+      "product_count": 258,
       "url": "https://msbayunes.github.io/smartpicksai/tools/"
     },
     {
       "id": "videogames",
       "name": "Video Games",
-      "product_count": 118,
+      "product_count": 131,
       "url": "https://msbayunes.github.io/smartpicksai/videogames/"
     },
     {
       "id": "books",
       "name": "Books",
-      "product_count": 22,
+      "product_count": 23,
       "url": "https://msbayunes.github.io/smartpicksai/books/"
     },
     {
       "id": "devices",
       "name": "Amazon Devices",
-      "product_count": 54,
+      "product_count": 62,
       "url": "https://msbayunes.github.io/smartpicksai/devices/"
     }
   ],
@@ -170,6 +170,17 @@
       "category": "videogames",
       "label": "Best Overall",
       "amazon_url": "https://www.amazon.sa/dp/B0B984Y76P?tag=smartpicksai-21"
+    },
+    {
+      "name": "Untitled 343176: Coming Soon",
+      "asin": "152914678X",
+      "price": 109.0,
+      "currency": "SAR",
+      "rating": 5.0,
+      "reviews": 305244,
+      "category": "books",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/152914678X?tag=smartpicksai-21"
     },
     {
       "name": "Amazon Basics Standard Dog Poop Bags With Dispenser and Leash Clip, Unscented, 300 Count, 20 Pack of 15, Black, 33 x 22.8 centimeters",
@@ -236,6 +247,28 @@
       "category": "electronics",
       "label": "Most Popular",
       "amazon_url": "https://www.amazon.sa/dp/B0000C73CQ?tag=smartpicksai-21"
+    },
+    {
+      "name": "Fujifilm instax Mini Instant Film – White Border (10 Exposures) – Film Only",
+      "asin": "B0000AISMR",
+      "price": 38.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 218114,
+      "category": "electronics",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B0000AISMR?tag=smartpicksai-21"
+    },
+    {
+      "name": "Fujifilm instax Mini Instant Film – White Border (10 Exposures) – Film Only",
+      "asin": "B0G39M52Y2",
+      "price": 38.0,
+      "currency": "SAR",
+      "rating": 4.5,
+      "reviews": 218114,
+      "category": "electronics",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B0G39M52Y2?tag=smartpicksai-21"
     },
     {
       "name": "SanDisk Cruzer Blade USB Flash Drive 16GB",
@@ -632,39 +665,6 @@
       "category": "home",
       "label": "Best Overall",
       "amazon_url": "https://www.amazon.sa/dp/B073JYC4XM?tag=smartpicksai-21"
-    },
-    {
-      "name": "Elmer's Disappearing Purple School Glue Sticks, Washable, 22 Grams, 30 Count",
-      "asin": "B01CTA7ABA",
-      "price": 181.01,
-      "currency": "SAR",
-      "rating": 4.8,
-      "reviews": 96184,
-      "category": "office",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B01CTA7ABA?tag=smartpicksai-21"
-    },
-    {
-      "name": "Elmer's Disappearing Purple School Glue Sticks, Washable, 22 Grams, 3 Count",
-      "asin": "B00143SNPG",
-      "price": 89.56,
-      "currency": "SAR",
-      "rating": 4.8,
-      "reviews": 96156,
-      "category": "office",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B00143SNPG?tag=smartpicksai-21"
-    },
-    {
-      "name": "Elmer's Disappearing Purple School Glue Sticks, Washable, 6 Grams, 12 Count",
-      "asin": "B003ULCZ7M",
-      "price": 97.91,
-      "currency": "SAR",
-      "rating": 4.8,
-      "reviews": 96111,
-      "category": "office",
-      "label": "Best Overall",
-      "amazon_url": "https://www.amazon.sa/dp/B003ULCZ7M?tag=smartpicksai-21"
     }
   ]
 }

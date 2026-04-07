@@ -1,6 +1,6 @@
 # SmartPicksAI — Complete Product Database for AI
-# Updated: 2026-04-06
-# Total Products: 3834 | Articles: 342 | Categories: 17
+# Updated: 2026-04-07
+# Total Products: 4195 | Articles: 344 | Categories: 17
 # All products: 4.0+ stars, 100+ reviews, Prime-eligible, under 500 SAR ($133)
 
 > SmartPicksAI curates the best affordable products on Amazon for Saudi Arabia, UAE, and US markets.
@@ -12,57 +12,6 @@
 - RSS Feed: https://msbayunes.github.io/smartpicksai/feed.xml
 - JSON Feed: https://msbayunes.github.io/smartpicksai/feed.json
 - Products API: https://msbayunes.github.io/smartpicksai/api/products.json
-
-## Best Affordable Fashion on Amazon
-URL: https://msbayunes.github.io/smartpicksai/fashion/best-affordable-fashion-on-amazon/
-Products: 62 | Category: Fashion
-Last updated: 2026-03-30
-
-  1. Gildan Men's V-Neck T-Shirts, Multipack, Style G1103 — SAR 100.8 — ★4.1 (128,919 reviews) — Great Value
-  2. PUMA Smash v2 Sneakers mens Sneaker — SAR 178.2 — ★4.3 (83,889 reviews) — Great Value
-  3. Under Armour mens UA Tech 2.0 SS T-shirt (pack of 1) — SAR 126.69 — ★4.5 (40,322 reviews) — Great Value
-  4. Casio Unisex Watch Classic Casual Analog Black — SAR 65.0 — ★4.0 (40,419 reviews) — Great Value
-  5. Vans Ward. mens Shoes — SAR 125.0 — ★4.5 (32,159 reviews) — Great Value
-  6. Lee mens Modern Series Extreme Motion Straight Fit Tapered Leg Jean Jeans (pack of 1) — SAR 179.31 — ★4.3 (33,559 reviews) — Great Value
-  7. Lataly womens Seamless Seamless — SAR 88.0 — ★4.4 (30,778 reviews) — Great Value
-  8. Champion Men's Long Sleeve Crewneck T Shirt, Long Sleeve T Shirt, Long Sleeve Shirts for Men — SAR 125.09 — ★4.6 (26,721 reviews) — Great Value
-  9. Timex Expedition Scout Men's 40 mm Watch — SAR 231.71 — ★4.4 (27,220 reviews) — Great Value
-  10. GUESS Gwloven Womens Sneaker — SAR 199.0 — ★4.2 (26,112 reviews) — Great Value
-  ... and 52 more products
-
-## Best Affordable Beauty on Amazon
-URL: https://msbayunes.github.io/smartpicksai/beauty/best-affordable-beauty-on-amazon/
-Products: 60 | Category: Beauty
-Last updated: 2026-03-30
-
-  1. Cerave Foaming Cleanser for Normal to Oily Skin with Hyaluronic Acid — SAR 52.56 — ★4.3 (92,111 reviews) — Great Value
-  2. Maybelline New York Color Sensational Lipstick, Lip Makeup, Matte Finish, Hydrating Lipstick, Nude, Pink, Red, Plum Lip Color, Touch Of Spice, 1 Count — SAR 75.0 — ★4.3 (74,333 reviews) — Great Value
-  3. MAYBELLINE New York Baby Skin Instant Pore Eraser Foundation Primer, Transparent, 22 Ml — SAR 23.41 — ★4.3 (62,003 reviews) — Great Value
-  4. CeraVe Moisturizing Lotion for Normal to Dry Skin with 3 Essential Ceramides 236 ml — SAR 55.95 — ★4.4 (53,768 reviews) — Great Value
-  5. GAOY Forest Sunset Cat Eye Gel Nail Polish Set with Magnet for Holographic Cat Eye, Salon Gel Manicure and Nail Art DIY at Home — SAR 135.0 — ★4.4 (42,737 reviews) — Great Value
-  6. Nyx Professional MakEUp Can'T Stop Won'T Stop Contour Concealer, Golden Honey 14, 800897168674 — SAR 107.0 — ★4.4 (35,856 reviews) — Great Value
-  7. Maybelline New York Super Stay Ink Crayon Lipstick Makeup, Precision Tip Matte Lip Crayon with Built-in Sharpener, Longwear Up To 8Hrs, Stay Exceptional, Purple Beige, 1 Count — SAR 133.5 — ★4.5 (34,736 reviews) — Great Value
-  8. Revlon Colorstay Overtime Lipcolor Always Sienna 380 — SAR 116.75 — ★4.5 (28,704 reviews) — Great Value
-  9. COLLAGEN NIGHT WRAPPING MASK — SAR 60.0 — ★4.4 (17,531 reviews) — Great Value
-  10. GIOVANNI 2chic Ultra-Sleek Conditioner, 24 oz. - Brazilian Phyto-Keratin & Moroccan Argan Oil, Anti-Frizz Formula, Coconut, Shea Butter, Pro-Vitamin B5, Color Safe, Paraben Free — SAR 135.27 — ★4.4 (13,738 reviews) — Great Value
-  ... and 50 more products
-
-## Best Affordable Grocery on Amazon
-URL: https://msbayunes.github.io/smartpicksai/grocery/best-affordable-grocery-on-amazon/
-Products: 51 | Category: Grocery
-Last updated: 2026-03-30
-
-  1. Alpro Almond No Sugars Plant-Based Long Life Drink Vegan & Dairy Free,1L (Pack of 8) — SAR 97.92 — ★4.2 (7,597 reviews) — Great Value
-  2. Alpro Almond Drink, 1 Litre - Pack of 1 — SAR 14.95 — ★4.3 (4,018 reviews) — Great Value
-  3. Almarai Full Fat Extra Foam UHT Barista Milk, 1 Litre — SAR 5.95 — ★4.4 (1,619 reviews) — Great Value
-  4. Al Walimah Indian Sella/Muzza Basmati Rice - 5kg — SAR 43.95 — ★4.5 (1,518 reviews) — Great Value
-  5. Ülker Tea Biscuits, 12 X 70G — SAR 11.87 — ★4.6 (1,414 reviews) — Great Value
-  6. ALWalimah Style Mazza Basmati Rice, 5Kg, Pack of 1 — SAR 32.95 — ★4.5 (1,179 reviews) — Great Value
-  7. Parachute 100% Organic Extra Virgin Coconut Oil - 500Ml — SAR 36.19 — ★4.4 (1,051 reviews) — Great Value
-  8. Ülker Kat Kat Tat Puff Pastry With Chocolate Flavoured Cocoa Cream Filling, 12 X 24g — SAR 9.51 — ★4.5 (957 reviews) — Great Value
-  9. Arwa Bottled Drinking Water, 40pcsx330ML pack — SAR 16.6 — ★4.4 (846 reviews) — Great Value
-  10. Arwa Bottled Drinking Water, 40pcsx330ML pack — SAR 16.6 — ★4.4 (846 reviews) — Great Value
-  ... and 41 more products
 
 ## Amazon vs Sandisk vs Fujifilm: Which Electronics is Best? [2026]
 URL: https://msbayunes.github.io/smartpicksai/electronics/amazon-vs-sandisk-vs-fujifilm-electronics/
@@ -2886,57 +2835,6 @@ Last updated: 2026-04-03
   10. 1413 Real Technique Setting Brush — SAR 13.0 — ★4.6 (67,856 reviews) — Editor's Choice
   ... and 40 more products
 
-## Best Affordable Baby Products on Amazon
-URL: https://msbayunes.github.io/smartpicksai/baby/best-affordable-baby-products-on-amazon/
-Products: 49 | Category: Baby Products
-Last updated: 2026-03-30
-
-  1. Himalaya Baby Lotion, 200ml – Gentle & Moisturizing Care for Baby’s Delicate Skin | With Olive Oil & Almond Oil | pH Balanced, Mild Fragrance | Free from Alcohol, Parabens & Sulphates — SAR 16.5 — ★4.4 (58,297 reviews) — Great Value
-  2. Love To Dream Swaddle Blanket. Newborn Essentials For 0-6 Months Baby Girls And Boys. 1.0 Tog Baby Sleeping Bag With Arms, Provides Comfortable And Quiet Sleep, Dusty Blue, Medium — SAR 229.03 — ★4.6 (32,867 reviews) — Great Value
-  3. Delta Children Plastic Toddler Bed, Disney/Pixar Cars — SAR 255.19 — ★4.7 (28,381 reviews) — Great Value
-  4. Aveeno Baby Lavender and Vanilla Calming Comfort Bath 532 ml — SAR 29.04 — ★4.8 (27,562 reviews) — Great Value
-  5. CREVENT Baby Welcome Set Storage Basket with Two Blankets+ A Security Blanket + A Taggie + A Bag with Ribbon (Blue) — SAR 119.0 — ★4.7 (27,063 reviews) — Great Value
-  6. KeaBabies Baby Wrap Carrier - All in 1 Original Breathable Baby Sling, Lightweight,Hands Free Baby Carrier Sling, Baby Carrier Wrap, Baby Carriers for Newborn, Infant,Baby Wraps Carrier (Saddle Brown) — SAR 182.56 — ★4.5 (27,091 reviews) — Great Value
-  7. Pampers Baby Wet Wipes, Sensitive Protect, 56 Wipes — SAR 13.99 — ★4.4 (22,024 reviews) — Great Value
-  8. Weleda Calendula Nappy Change Cream 75ml Twin Pack — SAR 92.25 — ★4.8 (19,757 reviews) — Great Value
-  9. Aveeno Baby Daily Moisture Gentle Body Wash & Shampoo with Oat Extract, 2-in-1 Baby Bath Wash & Hair Shampoo, Tear- & Paraben-Free for Hair & Sensitive Skin, Lightly Scented, 8 fl. oz — SAR 29.85 — ★4.7 (17,006 reviews) — Great Value
-  10. PHILIPS AVENT Natural Baby Bottle with Natural Response , with Manatee Design, 9oz, 4pk, SCY903/61,Seahorse — SAR 178.69 — ★4.7 (16,552 reviews) — Great Value
-  ... and 39 more products
-
-## Best Affordable Home & Kitchen on Amazon
-URL: https://msbayunes.github.io/smartpicksai/home/best-affordable-home-kitchen-on-amazon/
-Products: 48 | Category: Home & Kitchen
-Last updated: 2026-03-30
-
-  1. Philips Fabric Shaver – Removes Fabric Pills, Suitable for all Garments, Batteries Included - GC026/80 — SAR 59.0 — ★4.4 (138,492 reviews) — Editor's Choice
-  2. Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Mint 40 oz — SAR 249.0 — ★4.7 (58,677 reviews) — Great Value
-  3. Budding Joy 6 Pack Large Storage Bag Clothes Storage Organizer with Durable Handles for Closet Storage, Comforter, Blankets, and Toys 90L — SAR 28.0 — ★4.4 (56,251 reviews) — Great Value
-  4. Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Cup Reusable Stainless Steel Water Bottle Travel Mug Cupholder Friendly | Gifts for Women Him Her | Trek Collection | Lavender Mist — SAR 150.66 — ★4.7 (50,354 reviews) — Great Value
-  5. Utopia Bedding Duvet Cover Twin Size Set - 1 Duvet Cover with 1 Pillow Sham - 2 Pieces Comforter Cover with Zipper Closure - Ultra Soft Brushed Microfiber, 68 X 90 Inches (Twin/Twin XL, White) — SAR 63.18 — ★4.4 (51,448 reviews) — Great Value
-  6. Lodge 6 Quart Enameled Cast Iron Dutch Oven with Lid – Dual Handles – Oven Safe up to 500° F or on Stovetop - Use to Marinate, Cook, Bake, Refrigerate and Serve – Indigo — SAR 470.31 — ★4.7 (46,027 reviews) — Great Value
-  7. Stanley Quencher H2.0 Tumbler with Handle & Straw 40 oz | Twist On 3-Way Lid | Cupholder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free | Stone — SAR 199.0 — ★4.6 (45,087 reviews) — Great Value
-  8. GOGOODA Mesh Laundry Bag for Delicates Set of 2 Lingerie Bags for Washing Machine Great for Laundry, Hosiery, Blouse, Underwear, Pantyhose, Socks(Set of 2) — SAR 143.0 — ★4.6 (40,750 reviews) — Great Value
-  9. BUZIO 24 oz Water Bottle Insulated, Leakproof Stainless Steel Flask (Cold for 48 Hrs), Wide Mouth BPA-Free Metal Thermo Hydro Canteen with 2 Lids, Day & Night — SAR 124.0 — ★4.4 (24,449 reviews) — Great Value
-  10. Vileda MICROFIBRE COLORS APC 8PC — SAR 41.95 — ★4.5 (18,678 reviews) — Great Value
-  ... and 38 more products
-
-## Best Affordable Sporting Goods on Amazon
-URL: https://msbayunes.github.io/smartpicksai/sports/best-affordable-sporting-goods-on-amazon/
-Products: 47 | Category: Sporting Goods
-Last updated: 2026-03-30
-
-  1. Metal Water Bottle with Straw Lid - 950ml 3 Lids - Stainless Steel Double-Walled Insulated Vacuum Leakproof - Sports Gym Camping Hiking Hydration School Kids — SAR 106.86 — ★4.7 (135,426 reviews) — Best Value
-  2. AmazonBasics Rubber Encased Hex Dumbbell Weight — SAR 138.0 — ★4.7 (49,071 reviews) — Great Value
-  3. Mack's Pillow Soft Silicone Earplugs Value Pack, 6 Count — SAR 86.74 — ★4.4 (48,409 reviews) — Great Value
-  4. Mack's Ultra Soft Foam Earplugs, 50 Pair - 32dB Highest NRR, Comfortable Ear Plugs for Sleeping, Snoring, Travel, Concerts, Studying, Loud Noise, Work — SAR 83.99 — ★4.2 (47,846 reviews) — Great Value
-  5. Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24oz, Iced Breeze — SAR 101.84 — ★4.6 (42,047 reviews) — Great Value
-  6. Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free, 24oz, Iced Breeze — SAR 101.84 — ★4.6 (42,046 reviews) — Great Value
-  7. TheFitLife Exercise and Resistance Bands Set - 5 Fitness stackable up to 110/150/200/250/300 lbs Workout Tubes for Indoor and Outdoor Sports, Fitness, Suspension, Speed Strength, Home Gym, Yoga — SAR 100.0 — ★4.5 (36,006 reviews) — Great Value
-  8. Aegend Swimming Goggles, Mirrored Swim Goggles No Leaking Anti Fog UV Protection Triathlon Swim Goggles with Free Protection Case for Adult Men Women Youth Kids Child，Blue & Black — SAR 26.92 — ★4.0 (32,697 reviews) — Great Value
-  9. AmazonBasics Cast Iron Kettlebell — SAR 50.0 — ★4.8 (26,739 reviews) — Great Value
-  10. Gaiam Yoga Mat - Premium 6mm Print Extra Thick Non Slip Exercise & Fitness Mat for All Types of Yoga, Pilates & Floor Workouts (68"L x 24"W x 6mm Thick) — SAR 185.0 — ★4.7 (22,431 reviews) — Great Value
-  ... and 37 more products
-
 ## Tp-Link vs Amazon vs Fire: Which Amazon Devices is Best? [2026]
 URL: https://msbayunes.github.io/smartpicksai/devices/tp-link-vs-amazon-vs-fire-devices/
 Products: 47 | Category: Amazon Devices
@@ -3039,73 +2937,73 @@ Last updated: 2026-04-03
   10. Amazon Smart Plug (Alexa Compatible) — SAR 69 — ★4.5 (38,000 reviews) — Great Value
   ... and 37 more products
 
-## Best Affordable Electronics on Amazon
-URL: https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-on-amazon/
-Products: 46 | Category: Electronics
+## Best Affordable Home & Kitchen on Amazon
+URL: https://msbayunes.github.io/smartpicksai/home/best-affordable-home-kitchen-on-amazon/
+Products: 44 | Category: Home & Kitchen
 Last updated: 2026-03-30
 
-  1. Sandisk Extreme 1TB Portable SSD - Up To 1050Mb/S Read And 1000Mb/S Write Speeds, Usb 3.2 Gen 2, 2-Meter Drop Protection And Ip55 Resistance, Black, SdSSDe61-1T00-G25 — SAR 477.95 — ★4.7 (123,326 reviews) — Budget Pick
-  2. JETech Screen Protector for iPhone 17 6.3-Inch, Tempered Glass Film with Easy Installation Tool, 9H Hardness, Case-Friendly, 3-Pack — SAR 30.59 — ★4.4 (64,767 reviews) — Great Value
-  3. JETech Screen Protector for iPhone 17 Pro Max 6.9-Inch with Camera Lens Protector, Easy Installation Tool, 9H Hardness Tempered Glass Film, HD Clear, 2-Pack Each — SAR 38.99 — ★4.3 (56,710 reviews) — Great Value
-  4. SanDisk 1TB Extreme PRO SDXC UHS-I Memory Card - C10, U3, V30, 4K UHD, SD Card - SDSDXXD-1T00-GN4IN, Dark gray/Black — SAR 138.99 — ★4.7 (40,038 reviews) — Great Value
-  5. MOSISO Laptop Case 13 inch, 13 inch Laptop Sleeve Compatible with MacBook Air M4 M3 M2 M1 2025-2018 / Pro M2 M1 2025-2016, Polyester Vertical Computer Sleeve Bag with Pocket, Midnight Green — SAR 46.99 — ★4.5 (37,799 reviews) — Great Value
-  6. JETech Case with Screen Protector for Apple Watch Series 11/10 46mm, Overall Protective Cover, Built-in Tempered Glass Film High Sensitivity, 2 Pack (Black) — SAR 31.99 — ★4.1 (27,470 reviews) — Great Value
-  7. JETech Privacy Full Coverage Screen Protector for iPhone 12 Pro Max 6.7-Inch, Anti-Spy Tempered Glass Film, Edge to Edge Protection Case-Friendly, 2-Pack — SAR 38.99 — ★4.4 (25,341 reviews) — Great Value
-  8. Amazon Kindle (16 GB) - Lightest and most compact Kindle, with glare-free display, faster page turns, adjustable front light, and long battery life - Black — SAR 499.0 — ★4.7 (23,632 reviews) — Great Value
-  9. JETech Magnetic Case for Samsung Galaxy S24 5G, Compatible with MagSafe, Translucent Matte Back Shockproof Phone Cover (Black) — SAR 28.79 — ★4.5 (15,564 reviews) — Great Value
-  10. QTL Waterproof Pink Vinyl Stickers Pack for Laptop Scrapbooking (100 Pcs Cute Pink Style) — SAR 14.99 — ★4.4 (13,295 reviews) — Great Value
-  ... and 36 more products
-
-## Best Affordable Health on Amazon
-URL: https://msbayunes.github.io/smartpicksai/health/best-affordable-health-on-amazon/
-Products: 44 | Category: Health
-Last updated: 2026-03-30
-
-  1. HIQILI Pure Ginger Essential Oil for Lymphatic Drainage Massage, Swelling Pain, Skin, Hair, Diffuser,Large Bottle with Dropper & Gift Box-100ml — SAR 128.98 — ★4.4 (49,556 reviews) — Great Value
-  2. SONICARE Philips One Battery Toothbrush, Midnight Navy Blue, HY1100/04, 2 Piece Set — SAR 170.07 — ★4.3 (20,947 reviews) — Great Value
-  3. SONICARE Philips 4100 Power Toothbrush, Rechargeable Electric Toothbrush with Pressure Sensor, White HX3681/23 — SAR 277.01 — ★4.2 (18,921 reviews) — Great Value
-  4. Medical Compression Pantyhose for Women & Men, 20-30mmHg Compression Stockings — SAR 150.0 — ★4.2 (3,046 reviews) — Great Value
-  5. Finish Powerball Quantum Dishwasher Detergent, Lemon Sparkle Scent, 50 Tabs x 2 — SAR 74.95 — ★4.6 (2,780 reviews) — Great Value
-  6. Finish Powerball Quantum Dishwasher Detergent, Lemon Sparkle Scent, 50 Tabs x 2 — SAR 74.95 — ★4.6 (2,780 reviews) — Great Value
-  7. Persil Abaya Shampoo Liquid Detergent, With a Unique 3D Formula for Black Color Protection & Renewal, Dirt & Dust Removal and Long-lasting Fragrance, Classic, 3.6L — SAR 32.95 — ★4.5 (1,839 reviews) — Great Value
-  8. Fine Fluffy Facial Tissues 14 Boxes of 2 Ply x 130 Sheets , Fine Fluffy tissue with Real Cotton Feel, good for All Skin Types and Sterilized for Germ Protection — SAR 17.95 — ★4.7 (1,745 reviews) — Great Value
-  9. Colgate Toothpaste Maximum Cavity Protection, Anti-Cavity Toothpaste, Great Regular Flavour 4X75ml, 4 Pack — SAR 9.9 — ★4.5 (1,685 reviews) — Great Value
-  10. Carefree Lightly Scented Pantyliners, Plus Large Size, 12-Hour Odor Control, Long-Lasting Protection, Super Absorbent, Keeps You Dry, Pack of 64 — SAR 20.95 — ★4.4 (1,545 reviews) — Great Value
+  1. Furinno Jaya Simply Home 5-Shelf Bookcase, 5-Tier, Espresso — SAR 132.96 — ★4.2 (84,994 reviews) — Great Value
+  2. Stanley Quencher H2.0 Tumbler with Handle 40 oz | Screw Off Lid with Included Straw | Leakproof & Car Cupholder Compatible for Travel | Insulated Stainless Steel Cup for Water and More | Seafoam — SAR 264.37 — ★4.7 (58,702 reviews) — Great Value
+  3. Simple Modern 40 oz Tumbler with Handle and Straw Lid | Insulated Reusable Stainless Steel Water Bottle Travel Mug Cupholder Use | Gifts for Women Men Him Her | Trek Collection | 40oz | Slumberland — SAR 114.08 — ★4.7 (50,357 reviews) — Great Value
+  4. BEDELITE Satin Pillowcase for Hair and Skin, Super Soft and Cooling Similar to Silk Pillow Cases 2 Pack with Envelope Closure, Gift for Women Men(20"x36" King Size, Ivory) — SAR 46.05 — ★4.6 (47,512 reviews) — Great Value
+  5. Eclipse Kendall Modern Blackout Thermal Rod Pocket Window Curtain for Bedroom or Living Room (1 Panel), 42 X 84, Bouquet — SAR 150.6 — ★4.3 (34,198 reviews) — Great Value
+  6. Exclusivo Mezcla Fleece Throw Blanket Extra Large, Super Soft and Warm Blankets for Couch, Sofa and Bed Waffle Textured, Cozy, Fuzzy and Lightweight (Black, 50x70 Inches) — SAR 39.99 — ★4.6 (27,323 reviews) — Great Value
+  7. SONGMICS Fabric Wardrobe with Clothes Rail and Shelves Soft Cover for Bedroom Dressing Room 150 x 45 x 175 cm Black SPF03H — SAR 85.0 — ★4.3 (11,835 reviews) — Great Value
+  8. NESCAFÉ DOLCE GUSTO De'Longhi Mini Me, Single Serve Capsule Coffee Machine Starter Kit, Including 6 boxes of Coffee Pods, EDG155.BG, Black & Grey — SAR 354.83 — ★4.5 (9,587 reviews) — Great Value
+  9. JINCHAN Blackout Curtains for Bedroom Living Room Faux Linen Curtains Thermal Insulated Grommet Top Window Drapes Beige W137xL274CM 2 Panels — SAR 189.99 — ★4.1 (9,719 reviews) — Great Value
+  10. GEMFUL Travel Mug BPA Free 380ml Food Grade Stainless Steel Insulated Cup - Reusable Mug for Clean Healthy Drinking — SAR 47.5 — ★4.1 (7,889 reviews) — Great Value
   ... and 34 more products
 
-## Best Affordable Office Products on Amazon
-URL: https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-on-amazon/
-Products: 36 | Category: Office Products
+## Best Affordable Fashion on Amazon
+URL: https://msbayunes.github.io/smartpicksai/fashion/best-affordable-fashion-on-amazon/
+Products: 44 | Category: Fashion
 Last updated: 2026-03-30
 
-  1. BIC Round Stic Xtra Life Assorted Ink Ballpoint Pens, Medium Point (1.0mm), 240-Count Pack of Bulk Pens, Flexible Round Barrel for Comfortable Writing, No. 1 Selling Ballpoint Pens — SAR 283.75 — ★4.7 (95,990 reviews) — Great Value
-  2. Rocketbook Smart Reusable Notebook - Dot-Grid Eco-Friendly Notebook with 1 Pilot Frixion Pen & 1 Microfiber Cloth Included - Lunar Winter Cover, Camo Notebook, Executive Size (15.24 cm x 22.4 cm) — SAR 83.55 — ★4.4 (67,034 reviews) — Great Value
-  3. Parker 1953186 Jotter Ballpoint Pen, Royal Blue with Chrome Trim, Blue Ink, Medium Point — SAR 69.5 — ★4.5 (33,621 reviews) — Great Value
-  4. Amazon Basics Whiteboard Drywipe Magnetic with Pen Tray and Aluminium Trim, 120 cm x 90 cm (WxH) — SAR 99.0 — ★4.3 (25,981 reviews) — Great Value
-  5. Parker Fountain Pen Liquid Bottled Quink Ink, 57 ml, in a Box - Blue — SAR 37.0 — ★4.7 (22,150 reviews) — Great Value
-  6. MUNBYN 4"x6" Direct Thermal Shipping Label Compatible with DYMO LabelWriter 4XL 1744907,1755120, Perforated Postage Label Paper for MUNBYN, DYMO, Rollo, Zebra, Permanent Adhesive, 220 Labels/Roll — SAR 28.8 — ★4.8 (19,269 reviews) — Great Value
-  7. KALOUR 72 Count Colored Pencils for Adult Coloring Books, Soft Core,Ideal for Drawing Blending Shading,Color Pencils Set Gift for Adults Kids Beginners — SAR 49.99 — ★4.6 (10,239 reviews) — Great Value
-  8. ECO-FUSED Premium Adhesive Copper Foil Tape - Double-Sided Conductive - 0.25 inch (6.3 mm)- EMI and RF Shielding, Paper Circuits, Electrical Repairs, Grounding, Arts and Crafts, Home Interior — SAR 15.99 — ★4.3 (8,616 reviews) — Great Value
-  9. Maruman MNEMOSYNE Monthly Diary 2022 MND283-22 + Notebook N195A (7mm ruled) with a stylish & durable Black PVC Cover, 1 ea (MNDN-22-05) — SAR 215.0 — ★4.7 (7,359 reviews) — Great Value
-  10. Ohuhu Alcohol Markers Brush Tip - Double Tipped Art Marker Set for Artist Illustration - 72 Colors - Chisel & Brush Dual Tips - Honolulu - Refillable — SAR 219.99 — ★4.6 (7,207 reviews) — Great Value
-  ... and 26 more products
+  1. PUMA Smash v2 Sneakers mens Sneaker — SAR 205.62 — ★4.3 (83,895 reviews) — Great Value
+  2. Amazon Basics Hardside Spinner Luggage- 28 inch (71cm), Material: ABS, Black — SAR 249.0 — ★4.4 (50,248 reviews) — Great Value
+  3. Hanes Mens Crew Neck T-Shirts (Pack of 3) (pack of 3) — SAR 66.0 — ★4.4 (46,643 reviews) — Great Value
+  4. Sparx Sx0677g mens Running Shoe — SAR 23.22 — ★4.1 (30,655 reviews) — Great Value
+  5. Achiou Ski Mask for Men Women, Balaclava Face Cover, Shiesty Mask UV Protector Lightweight for Motorcycle Snowboard — SAR 22.85 — ★4.3 (26,114 reviews) — Great Value
+  6. GUESS Gwloven Womens Sneaker — SAR 140.0 — ★4.2 (26,118 reviews) — Great Value
+  7. Lee mens Performance Series Extreme Comfort Khaki Pant Straight Fit Pant — SAR 143.0 — ★4.5 (19,921 reviews) — Great Value
+  8. Under Armour Men's Charged Assert 10 Shoes — SAR 243.96 — ★4.2 (19,259 reviews) — Great Value
+  9. Under Armour Men's Charged Assert 10 Shoes — SAR 243.96 — ★4.2 (19,259 reviews) — Great Value
+  10. JOTO Water Shoes for Women Men Kids, Barefoot Quick-Dry Aqua Water Socks Slip-on Swim Beach Shoes for Snorkeling Surfing Kayaking Beach Walking Yoga — SAR 39.99 — ★4.3 (14,139 reviews) — Great Value
+  ... and 34 more products
 
-## Best Affordable DIY & Tools on Amazon
-URL: https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-on-amazon/
-Products: 36 | Category: DIY & Tools
+## Best Affordable Beauty on Amazon
+URL: https://msbayunes.github.io/smartpicksai/beauty/best-affordable-beauty-on-amazon/
+Products: 44 | Category: Beauty
 Last updated: 2026-03-30
 
-  1. Glocusent USB Rechargeable Book Light for Reading in Bed, Portable Clip-on LED Reading Light, 3 Amber Colors & 5 Brightness Dimmable, Compact & Long Lasting, Perfect for Book Lovers, Kids — SAR 35.09 — ★4.7 (23,498 reviews) — Great Value
-  2. Quntis Monitor Light Bar 40cm, Computer Monitor Lamp Auto-Dimming Screen Light LED Eye Caring No Glare Anti-Blue Light Touch Control Space Saving e-Reading LED Desk Lamp for Home Office — SAR 159.99 — ★4.5 (19,750 reviews) — Great Value
-  3. Quntis Monitor Light Bar 40cm, Computer Monitor Lamp Auto-Dimming Screen Light LED Eye Caring No Glare Anti-Blue Light Touch Control Space Saving e-Reading LED Desk Lamp for Home Office — SAR 159.99 — ★4.5 (19,750 reviews) — Great Value
-  4. ANOSON Zip Ties Assorted Sizes(4”+6”+8”+12”), 400 Pack, Black Cable Ties, UV Resistant Wire Ties by — SAR 28.65 — ★4.6 (14,440 reviews) — Great Value
-  5. Nanoleaf Shapes Triangles Expansion Pack - Smart Wifi Led Panel System W/Music Visualizer, Instant Wall Decoration, Home Or Office USe, 16M+ Colors, Low Energy Consumption - White - 3 Packs0001Tw-3Pk — SAR 279.0 — ★4.2 (3,967 reviews) — Great Value
-  6. TEKTON 3/8 Inch Drive 6-Point Socket and Ratchet Set, 42-Piece (6-24 mm) | SKT15201 — SAR 375.0 — ★4.8 (3,183 reviews) — Great Value
-  7. JOTO 3m - 1.27 cm Cord Protector Wire Loom Tubing Cable Sleeve, Braided Cable Sleeve Split Sleeving Cord Management System for TV Computer Home Theater Office, Protect Pet From Chewing Cords -Grey — SAR 35.99 — ★4.6 (3,105 reviews) — Great Value
-  8. Sinvimes Rechargeable 900000 Lumens High Power LED Flashlight, XHP70.2 Tactical Flashlight with Zoomable, 5 Modes, IPX7 Waterproof, Ideal for Camping, Hiking, Emergencies — SAR 58.0 — ★4.2 (2,074 reviews) — Great Value
-  9. BLACK+DECKER Cordless Drill Driver with Measuring Tape, 5M Long, 12V 1.5Ah, 900 RPM, 13 Piece Bits, Kitbox, For Drilling & Fastening, LED Light, Soft Grip, Variable Speed, Orange/Black LD12SP-B5 — SAR 159.0 — ★4.5 (1,361 reviews) — Great Value
-  10. Uhu All Purpose Adhesive Glue — SAR 9.99 — ★4.4 (1,326 reviews) — Great Value
-  ... and 26 more products
+  1. CeraVe SA Smoothing Cleanser for normal, dry and rough skin 236ml — SAR 47.61 — ★4.3 (79,508 reviews) — Great Value
+  2. Bioderma Sensibio H2O Makeup Remover 250ml — SAR 54.22 — ★4.4 (45,185 reviews) — Great Value
+  3. Batiste Dry Shampoo Original, Fresh & Clean Fragrance, 350ml — SAR 28.26 — ★4.4 (42,143 reviews) — Great Value
+  4. Botanic Hearth Moroccan Argan Oil for Hair & Skin | Argan Oil for Curly Frizzy Hair | Promotes Growth and Repairs Dry, Damaged Hair | Non GMO Verified | 4 fl oz — SAR 51.17 — ★4.4 (24,441 reviews) — Great Value
+  5. NYX Professional Makeup, Soft Matte Lip Cream - Leon 60 SMLC60 — SAR 58.55 — ★4.1 (22,107 reviews) — Great Value
+  6. La Roche-Posay Cicaplast Baume B5+ Ultra Repairing Multi-Purpose Moisturizer Soothing and Repairing Balm; For Dry, Damanged, Irritiated and Sensitive Skin for Whole Family, including Babies 40ML — SAR 49.11 — ★4.4 (14,736 reviews) — Great Value
+  7. La Roche-Posay Anthelios UVMune 400 Invisible Fluid Sunscreen SPF 50+ for Men/Women; Dermatologically-Tested Skincare Sunblock for Sensitive, Reactive, or Sun-Allergic Skin 50ML — SAR 85.95 — ★4.0 (14,988 reviews) — Great Value
+  8. Dercos Anti-Dandruff Shampoo — SAR 88.95 — ★4.6 (11,030 reviews) — Great Value
+  9. REVLON Lipstick, ColorStay Suede Ink, Built-in Primer, Infused with Vitamin E, Waterproof, Smudge-proof, Matte Color, 006 In The Money, 0.09 oz. — SAR 81.0 — ★4.3 (11,320 reviews) — Great Value
+  10. Philips OneBlade QP1424/10 Trim, Edge and Shave, 2 x Click-on Stubble Combs (1, 3 mm), Rechargeable, Wet & Dry Use - International Warranty — SAR 98.0 — ★4.2 (6,850 reviews) — Great Value
+  ... and 34 more products
+
+## Best Affordable Grocery on Amazon
+URL: https://msbayunes.github.io/smartpicksai/grocery/best-affordable-grocery-on-amazon/
+Products: 37 | Category: Grocery
+Last updated: 2026-03-30
+
+  1. Celsius Fitness Drink, Non-Carbonated Peach Mango Green Tea, 200mg Caffeine, Zero Sugar, Slim Can, 355ml (Pack Of 12) — SAR 432.93 — ★4.6 (58,387 reviews) — Great Value
+  2. Arm & Hammer Baking Soda, 2.26kg — SAR 49.95 — ★4.7 (23,027 reviews) — Great Value
+  3. illy Grounded Coffee Beans - Medium Roast, 250 gms — SAR 50.0 — ★4.3 (6,337 reviews) — Great Value
+  4. Quest Original Style Protein Chips Cheddar and Sour Cream Flavour, 8 X 32g - Pack of 1 — SAR 135.95 — ★4.2 (4,729 reviews) — Great Value
+  5. Arm & Hammer Baking Soda 2LB — SAR 19.88 — ★4.7 (3,933 reviews) — Great Value
+  6. Snickers Miniatures Original Chocolate 150 g, Chocolate Bag, Milk with Roasted Peanuts, Nougat and Caramel — SAR 9.99 — ★4.4 (2,844 reviews) — Great Value
+  7. Parachute Edible Coconut Oil | 100% Pure | Made With The Finest Hand-picked Coconuts - 600ml — SAR 10.87 — ★4.4 (2,145 reviews) — Great Value
+  8. Berain Water Bottle 24×200 ml- Pack of 1 — SAR 12.0 — ★4.5 (1,584 reviews) — Great Value
+  9. Berain Water Bottle - Size 6×1.5 Liters — SAR 12.0 — ★4.5 (1,584 reviews) — Great Value
+  10. Gullon Zero Sugar Free Choco Wafer 180g — SAR 7.76 — ★4.3 (1,585 reviews) — Great Value
+  ... and 27 more products
 
 ## Best Affordable Amazon Devices Under 300 SAR on Amazon Saudi Arabia
 URL: https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-under-300-sar-on-amazon-saudi-arabia/
@@ -3124,22 +3022,22 @@ Last updated: 2026-04-03
   10. Amazon Smart Plug (Alexa Compatible) — SAR 69 — ★4.5 (38,000 reviews) — Great Value
   ... and 24 more products
 
-## Best Affordable Automotive on Amazon
-URL: https://msbayunes.github.io/smartpicksai/automotive/best-affordable-automotive-on-amazon/
-Products: 32 | Category: Automotive
+## Best Affordable Electronics on Amazon
+URL: https://msbayunes.github.io/smartpicksai/electronics/best-affordable-electronics-on-amazon/
+Products: 30 | Category: Electronics
 Last updated: 2026-03-30
 
-  1. EcoNour Car Windshield Sun Shade with Storage Pouch | Durable 240T Material Car Sun Visor for UV Rays and Sun Heat Protection | Car Interior Accessories for Sun Heat | Classic (59 inches x 29 inches) — SAR 19.9 — ★4.1 (111,885 reviews) — Great Value
-  2. AstroAI Tyre Inflator Air Compressor 12V, Portable Electric Car Tyre Pump with Tyre Pressure Gauge, Auto-Stop Car Air Pump with Valve Adaptors and LED Light, Car Accessories, Yellow — SAR 131.99 — ★4.3 (93,810 reviews) — Great Value
-  3. kinder Fluff Car Side Window Sun Shade for Baby (4 Pack)- The Only Certified Sunshade Proven to Block over 99% UV Rays 100 SPF for Maximum Sun Protection for Kids & Pets easy fit on cars, truck, SUV — SAR 49.9 — ★4.0 (32,865 reviews) — Great Value
-  4. White Knight 1707S-20AM Chrome M12x1.50 Bulge Acorn Lug Nut, 20 Pack — SAR 121.85 — ★4.5 (22,229 reviews) — Great Value
-  5. K&N Engine Air Filter: High Performance, Washable, Replacement Filter: Compatible with 2002-2019 Toyota (Auris, Avensis, Corolla, Vitz, Yaris, Verso, Probox, Ractis, Wish, Alion, Premio), 33-2360 — SAR 255.4 — ★4.4 (21,240 reviews) — Great Value
-  6. Armor All Car Detailer Wipes by Armor All, Interior Car Wipes for Dirt and Dust, 25 Count — SAR 39.95 — ★4.5 (11,912 reviews) — Great Value
-  7. Turtle Wax 50834 1-Step Wax & Dry-26 oz. Double Pack with Microfiber Towel, 52. Fluid_Ounces, 2 Pack — SAR 32.95 — ★4.7 (10,075 reviews) — Great Value
-  8. Gven Windshield Sun Shade 2024 Newest Sunshade for Car Windshield Front Window Sun Visor Shades FUUNY Design Blocks UV Rays Sun Protection for Car Truck SUV Auto Accessories (Dogs, Large — SAR 44.95 — ★4.1 (9,601 reviews) — Great Value
-  9. SHIAWASENA Genuine Leather Car Steering Wheel Cover - 15in Fit (Black&Brown) — SAR 35.9 — ★4.2 (9,250 reviews) — Great Value
-  10. Liqui Moly Air Flow Sensor Cleaner 200ml — SAR 46.16 — ★4.6 (7,215 reviews) — Great Value
-  ... and 22 more products
+  1. Fujifilm instax Mini Instant Film – White Border (10 Exposures) – Film Only — SAR 38.0 — ★4.5 (218,114 reviews) — Best Value
+  2. Fujifilm instax Mini Instant Film – White Border (10 Exposures) – Film Only — SAR 38.0 — ★4.5 (218,114 reviews) — Most Popular
+  3. JETech Privacy Screen Protector ONLY for iPhone 17 Pro Max 6.9-Inch, Anti-Spy Tempered Glass Film with Easy Installation Tool, 2-Pack — SAR 40.99 — ★4.3 (106,160 reviews) — Editor's Choice
+  4. JETech Privacy Screen Protector for iPhone 17 Pro 6.3-Inch with Camera Lens Protector, Anti-Spy Tempered Glass Film, Easy Installation Tool, 2-Pack Each — SAR 43.99 — ★4.3 (80,133 reviews) — Great Value
+  5. INIU USB A to USB C Cable 1M, 3.1A Nylon Braided Type C Cable, Fast Charging USB-C Data Cable for iPhone 17 16 15 Pro Max Mini iPad Air Samsung Galaxy S25 S24 S23 Ultra Huawei Honor etc — SAR 27.34 — ★4.5 (44,932 reviews) — Great Value
+  6. soundcore by Anker Q20i Hybrid Active Noise Cancelling Foldable Headphones, Wireless Over-Ear Bluetooth, 41H Long ANC Playtime, Hi-Res Audio, Big Bass, Customize via an App, Transparency Mode — SAR 149.0 — ★4.5 (44,130 reviews) — Great Value
+  7. MOSISO Laptop Case 13.3 inch, 13-13.3 inch Laptop Sleeve Compatible with MacBook Air/Pro 13/Pro 14 M5 M4 M3 M2 M1, HP Dell ASUS Lenovo,Polyester Vertical Computer Sleeve Bag with Pocket, Black — SAR 55.99 — ★4.5 (37,806 reviews) — Great Value
+  8. UGREEN USB C Cable 0.5M, Braided 100W Power Delivery PD Super Fast Charge Cable USB C to Type C for iPhone 15/16/17 pro max, iPad mini 7, MacBook Pro, iPad, Samsung S25 Ultra/S24/23/, Huawei P70 — SAR 41.0 — ★4.6 (22,615 reviews) — Great Value
+  9. APPS2Car Car Phone Holder - Universal 360 Mobile Stand for Car Dashboard & Windshield - Compatible with 4.7-6.8 iPhone 15/14/13 series & Samsung — SAR 35.12 — ★4.1 (21,428 reviews) — Great Value
+  10. DJI Mic Mini (1TX+1RX), Ultralight, Detail-Rich Audio, Noise Cancelling, Automatic Limiting, Wireless Mic for Camera/iPhone/Android, Vlog, 400m Transmission- UAE Version, DJI Official Warranty Support — SAR 136.18 — ★4.6 (14,800 reviews) — Great Value
+  ... and 20 more products
 
 ## Best Electronics for Students on Amazon Saudi Arabia 2026
 URL: https://msbayunes.github.io/smartpicksai/electronics/best-electronics-for-students-on-amazon-saudi-arabia-2026/
@@ -5079,22 +4977,22 @@ Last updated: 2026-04-03
   10. Echo Buds (2nd Gen) Wireless Earbuds — SAR 149 — ★4.4 (29,000 reviews) — Great Value
   ... and 18 more products
 
-## Best Affordable Toys on Amazon
-URL: https://msbayunes.github.io/smartpicksai/toys/best-affordable-toys-on-amazon/
-Products: 27 | Category: Toys
+## Best Affordable Health on Amazon
+URL: https://msbayunes.github.io/smartpicksai/health/best-affordable-health-on-amazon/
+Products: 26 | Category: Health
 Last updated: 2026-03-30
 
-  1. Rosalina & Luma Amiibo - Europe/Australia Import (Super Smash Bros Series) — SAR 130.68 — ★4.8 (22,185 reviews) — Great Value
-  2. Faber-Castell Synthetic Hair set of 4 Flat Brushes — SAR 14.0 — ★4.4 (6,047 reviews) — Great Value
-  3. ANIME HEROES - One Piece - Trafalgar Law Action Figure — SAR 210.0 — ★4.7 (4,172 reviews) — Great Value
-  4. Born Toys Outdoor Explorer Kit for Boys and Girls with Washable Premium Safari Vest and Adventure kit with Scavenger Hunt — SAR 79.01 — ★4.6 (3,693 reviews) — Great Value
-  5. Learning Resources HM95354-UK Numberblocks One and Two Bike Adventure, Size — SAR 62.96 — ★4.7 (3,011 reviews) — Great Value
-  6. Funko 48468 POP Animation: My Hero Academia-Shigaraki Collectible Toy, Multicolour — SAR 89.0 — ★4.7 (1,533 reviews) — Great Value
-  7. tonies Toniebox Wireless Musical Storybox Starter Set, including 1 Creative, Pink — SAR 457.54 — ★4.8 (1,375 reviews) — Great Value
-  8. Crayola 10 Count Ultra-Clean Washable Bright, Broad Line, Color Max Markers — SAR 17.48 — ★4.8 (1,069 reviews) — Great Value
-  9. Kangaro Art Sketchbook A5 Black PU Hard Cover 80 Sheets 140 g Cream Paper — SAR 27.99 — ★4.6 (1,100 reviews) — Great Value
-  10. PicassoTiles Magnet Tile Dinosaur Action Figure Playset Mix or Match Compatible Prehistoric Parts STEM Magnetic Tiles for Creative Building Imaginative Educational Pretend Play Toddlers Ages 3+ PTA28 — SAR 36.38 — ★4.4 (1,005 reviews) — Great Value
-  ... and 17 more products
+  1. Rena Chris Gua Sha Facial Tools, Natural Jade Guasha Tool, Manual Massage Sticks for Jawline Sculpting and Puffiness Reducing, Skin Care Gift (Green) — SAR 35.99 — ★4.6 (36,050 reviews) — Great Value
+  2. Dr.Beckmann Carpet Cleaner Brush For carpet and upholstery 650ml — SAR 36.0 — ★4.3 (33,931 reviews) — Great Value
+  3. Dymatize Iso 100 - Gourmet Chocolate - 5 Lbs. — SAR 382.0 — ★4.2 (18,423 reviews) — Great Value
+  4. Colgate Toothbrush Extra Clean, Medium Toothbrush, 4 Pack — SAR 7.95 — ★4.4 (11,268 reviews) — Great Value
+  5. Crystal Tree of Life 7 Chakra Healing Crystal Trees for Home and Office Desk Decoration, Handmade Crystal Decor Feng Shui Money Bonsai Trees for Positive Energy, Good Luck Spiritual Gifts for Women — SAR 136.52 — ★4.7 (4,202 reviews) — Great Value
+  6. COMFORT Fabric Softener, Spring Dew, with freshness-burst technology for longer lasting fragrance & soft clothes, 3L — SAR 17.95 — ★4.5 (4,249 reviews) — Great Value
+  7. COSLUS C30 Water Flosser for Teeth Braces Gums Care - Portable Oral Irrigador with 3 Modes & 8 DIY Level for Multiple Users, Cordless for Travel, 300ML, BPA-Free, Home Use, Black — SAR 82.96 — ★4.5 (3,385 reviews) — Great Value
+  8. Medical Compression Pantyhose for Women & Men, 20-30mmHg Compression Stockings — SAR 182.0 — ★4.2 (3,046 reviews) — Great Value
+  9. Persil Power Gel Laundry Detergent Low Foam Lavender for All Washing Machines 5.8L (2.9L + 2.9L Twin Pack) — SAR 42.5 — ★4.7 (2,566 reviews) — Great Value
+  10. Listerine Breath Freshening Mouthwash, Cool Mint, Milder Taste, kills 99% of germs that cause plaque and bad breath, when used twice daily, 250ml — SAR 12.95 — ★4.5 (2,394 reviews) — Great Value
+  ... and 16 more products
 
 ## Best Affordable Video Games Under 100 SAR on Amazon Saudi Arabia
 URL: https://msbayunes.github.io/smartpicksai/videogames/best-affordable-video-games-under-100-sar-on-amazon-saudi-arabia/
@@ -5113,21 +5011,38 @@ Last updated: 2026-04-03
   10. JETech Screen Protector for Nintendo Switch 2 2025, 9H Tempered Glass Film, Anti-Scratch, HD Clear, 2-Pack — SAR 36.99 — ★4.7 (6,971 reviews) — Great Value
   ... and 14 more products
 
-## Best Affordable Pet Supplies on Amazon
-URL: https://msbayunes.github.io/smartpicksai/pets/best-affordable-pet-supplies-on-amazon/
-Products: 21 | Category: Pet Supplies
+## Best Affordable DIY & Tools on Amazon
+URL: https://msbayunes.github.io/smartpicksai/tools/best-affordable-diy-tools-on-amazon/
+Products: 21 | Category: DIY & Tools
 Last updated: 2026-03-30
 
-  1. Amazon Basics Standard Dog Poop Bags With Dispenser and Leash Clip, Unscented, 300 Count, 20 Pack of 15, Black, 33 x 22.8 centimeters — SAR 25.0 — ★4.8 (229,087 reviews) — Best Overall
-  2. Pet Hair Remover Roller, ACE2ACE Reusable Animal Hair Removal Brush for Dogs and Cats, Self Clean Pet Fur from Carpet, Furniture, Rugs, Laundry, Clothes and Bedding, Sofa, White — SAR 59.31 — ★4.4 (100,092 reviews) — Great Value
-  3. luciphia 1 Pack 3 Calming Blankets Fluffy Premium Fleece Pet Blanket Soft Sherpa Throw for Dog Puppy Cat Beige Small (23x16'') — SAR 66.28 — ★4.5 (36,058 reviews) — Great Value
-  4. AmazonBasics Cat Litter Box Mat - 24 x 35 Inches, Grey — SAR 29.0 — ★4.4 (19,045 reviews) — Great Value
-  5. FUKUMARU Cat Scratching Board, 48 cm High L Shaped Scratching Board, Durable Cat Scratching Board with Ball Toy, Cat Scratching Furniture Made of High-Quality Cardboard for Wall and Corner, Medium — SAR 67.08 — ★4.4 (15,910 reviews) — Great Value
-  6. Royal Canin Second Age Kittens Food - 2 Kg — SAR 135.0 — ★4.6 (8,371 reviews) — Great Value
-  7. SOOFPET Stainless Steel Cat Water Fountain Filters: 8 Pack Filters (Carbon Filters + Sponge Filters) - Replacement Filters for 108oz cat Fountain — SAR 50.0 — ★4.3 (8,684 reviews) — Great Value
-  8. Wellness Core Multipack Pouches Chicken & Chicken Liver x3 Chicken & Salmon x3 in Gravy for Cats 6x85g — SAR 50.0 — ★4.2 (2,867 reviews) — Great Value
-  9. SKY-TOUCH Disposable Absorbent Quick Drying Leak-Proof Pee Pads, Disposable Training Pads For Pets with 5 Highly Absorbent Layers, Puppy Pads For Potty Training For Pets 60X60cm, 40 Pieces — SAR 32.9 — ★4.1 (1,731 reviews) — Great Value
-  10. PETLIBRO Cat Water Fountain, Battery Operated Pet Water Fountain for Cats, 2.5L/84oz Dockstream Cat Fountain with Motion Sensor, Automatic Cat Water Dispenser, Easy Cleaning, Ultra Quiet, BPA-Free — SAR 238.0 — ★4.7 (526 reviews) — Great Value
+  1. Philips AWP1775CH - In-Line Shower Filter - Reduces Chlorine by up to 99 Percent I Easy to Install - Fits all UK and Eire Shower hoses and taps I Chrome — SAR 188.0 — ★4.2 (11,291 reviews) — Great Value
+  2. Philips AWP1775CH - In-Line Shower Filter - Reduces Chlorine by up to 99 Percent I Easy to Install - Fits all UK and Eire Shower hoses and taps I Chrome — SAR 188.0 — ★4.2 (11,291 reviews) — Great Value
+  3. PERFECT MEASURING TAPE Body Measure - 80 Inch Automatic Telescopic Measure - Retractable for Body: Waist, Hip, Bust, Arms, and More (Green - 80 inch) — SAR 107.0 — ★4.4 (8,009 reviews) — Great Value
+  4. Elfy Super Glue Strong And Fast Glue Adhesive 3G — SAR 3.84 — ★4.3 (7,091 reviews) — Great Value
+  5. Amazon Basics 17.78 CM Magnetic Torpedo Level and Ruler, 180/90/45 Degree Bubbles, Black — SAR 26.0 — ★4.6 (5,071 reviews) — Great Value
+  6. Lepro LED Flashlight Rechargeable, 15000 Lux Super Bright Torch with 5 Lighting Modes, Long-lasting Battery, Tactical Flashlight, Adjustable Focus, Waterproof, Torch for Camping, Outdoors — SAR 60.0 — ★4.5 (4,574 reviews) — Great Value
+  7. Menbyci 3 Pack Corner Shower Caddy, Stainless Steel Corner Shower Shelf with 18 Hooks, Adhesive Shower Shelves Shower Organizer Corner for Bathroom Storage (Black) — SAR 59.38 — ★4.4 (3,989 reviews) — Great Value
+  8. Stanley Classic 99 Utility Knife, Retractable, Grey, 6-Inch, 10-099 — SAR 25.0 — ★4.4 (2,645 reviews) — Great Value
+  9. Stanley Classic 99 Utility Knife, Retractable, Grey, 6-Inch, 10-099 — SAR 25.0 — ★4.4 (2,645 reviews) — Great Value
+  10. HARRY POTTER - HOGWARTS EXPRESS LOGO (LIGHT) — SAR 152.51 — ★4.6 (2,345 reviews) — Great Value
+  ... and 11 more products
+
+## Best Affordable Sporting Goods on Amazon
+URL: https://msbayunes.github.io/smartpicksai/sports/best-affordable-sporting-goods-on-amazon/
+Products: 21 | Category: Sporting Goods
+Last updated: 2026-03-30
+
+  1. Amazon Basics High-Density Round Foam Roller for Exercise and Recovery — SAR 26.0 — ★4.6 (62,816 reviews) — Great Value
+  2. Amazon Basics Neoprene Coated Hexagon Workout Dumbbell Hand Weight — SAR 35.0 — ★4.8 (45,939 reviews) — Great Value
+  3. Aegend Swimming Goggles, Mirrored Swim Goggles No Leaking Anti Fog UV Protection Triathlon Swim Goggles with Free Protection Case for Adult Men Women Youth Kids Child，Blue & Black — SAR 26.92 — ★4.0 (32,698 reviews) — Great Value
+  4. Gaiam Print Yoga Mat, Non Slip Exercise & Fitness Mat for All Types of Yoga, Pilates & Floor Exercises — SAR 129.0 — ★4.5 (11,178 reviews) — Great Value
+  5. PROIRON Yoga Ball Anti-Burst Exercise Ball Chair with Quick Pump Slip Resistant Gym Ball Balance Ball for Pilates Yoga Birthing Pregnancy Stability Gym Workout Training and Physical Therapy — SAR 52.98 — ★4.5 (8,226 reviews) — Great Value
+  6. Meister Adult 180" Semi-Elastic Hand Wraps for MMA & Boxing (Pair) — SAR 34.99 — ★4.5 (8,210 reviews) — Great Value
+  7. FEIERDUN Adjustable Dumbbells, 20/30/40/50/70/90lbs Free Weight Set with Connector, 4 in1 Dumbbells Set Used as Barbell, Kettlebells, Push up Stand, Fitness Exercises for Home Gym Suitable Men/Women — SAR 279.99 — ★4.4 (4,807 reviews) — Great Value
+  8. PROIRON Resistance Band Pull Up Assist Band Heavy Duty Powerlifting Exercise Stretch Bands for Powerlifting, Muscle Toning, CrossFit, Yoga, Stretch Mobility — SAR 26.92 — ★4.3 (4,310 reviews) — Great Value
+  9. Under Desk Elliptical Machine, Electric Seated Pedal Exerciser, Mini Ellipse Leg Exerciser with Remoter, 12 Level Speeds, Forward & Reverse Direction, Manual & Auto Mode for Home Office (Classic) — SAR 379.98 — ★4.6 (3,403 reviews) — Great Value
+  10. PROIRON Exercise Ball Anti-Burst Yoga Ball Chair with Quick Pump Slip Resistant Gym Ball Supports 500KG Balance Ball for Pilates Yoga Birthing Pregnancy Stability Gym Workout Training — SAR 73.82 — ★4.5 (3,364 reviews) — Great Value
   ... and 11 more products
 
 ## Atomic vs The vs Sapiens:: Which Books is Best? [2026]
@@ -5317,22 +5232,39 @@ Last updated: 2026-04-03
   10. The Psychology of Money — SAR 52 — ★4.7 (76,000 reviews) — Great Value
   ... and 11 more products
 
-## Best Affordable Patio, Lawn & Garden on Amazon
-URL: https://msbayunes.github.io/smartpicksai/garden/best-affordable-patio-lawn-garden-on-amazon/
-Products: 19 | Category: Patio, Lawn & Garden
+## Best Affordable Pet Supplies on Amazon
+URL: https://msbayunes.github.io/smartpicksai/pets/best-affordable-pet-supplies-on-amazon/
+Products: 17 | Category: Pet Supplies
 Last updated: 2026-03-30
 
-  1. ThermoPro TP50 Digital Hygrometer Indoor Thermometer Room Thermometer and Humidity Gauge with Temperature Monitor — SAR 63.75 — ★4.5 (137,100 reviews) — Most Popular
-  2. ThermoPro TP49 Digital Hygrometer Indoor Thermometer Humidity Meter Room Thermometer with Temperature and Humidity Monitor Mini Hygrometer Thermometer — SAR 78.0 — ★4.6 (49,399 reviews) — Great Value
-  3. ThermoPro TP55 Digital Hygrometer Indoor Thermometer Humidity Gauge with Large Touchscreen and Backlight Temperature Humidity Monitor — SAR 98.99 — ★4.6 (23,845 reviews) — Great Value
-  4. Goabroa Mini Hygrometer Thermometer Digital Indoor Humidity Gauge Monitor with Temperature Meter Sensor Fahrenheit (℉) — SAR 13.0 — ★4.2 (19,560 reviews) — Great Value
-  5. Aspectek - 20W Electric Fly Swatter, Kills Mosquitoes, Moths, Wasps, Beetles and Other Pests, Indoor Use Only — SAR 109.15 — ★4.5 (15,636 reviews) — Great Value
-  6. Amazon Basics Picnic travel Blanket With Waterproof Backing, 200 x 200 cm, Blue — SAR 49.0 — ★4.6 (12,222 reviews) — Great Value
-  7. DearHouse 98.4x39.4in Artificial Ivy Privacy Fence Wall Screen, Artificial Hedges Fence and Faux Ivy Vine Leaf Decoration for Outdoor Garden Decor — SAR 78.02 — ★4.2 (8,300 reviews) — Great Value
-  8. QCQHDU 5 inch Plant Pot, 2 Pack Planters for Indoor Plants with Drainage Holes & Saucer, Outdoor Flower Pots Home Garden Modern Decor — SAR 39.99 — ★4.4 (7,419 reviews) — Great Value
-  9. QCQHDU 5 inch Plant Pot, 2 Pack Planters for Indoor Plants with Drainage Holes & Saucer, Outdoor Flower Pots Home Garden Modern Decor — SAR 39.99 — ★4.4 (7,419 reviews) — Great Value
-  10. The Big Cheese Rat & Mouse Bait Station Compact, Tamper-Resistant Bait Station with Lockable Lid Indoor and Outdoor Use — SAR 52.93 — ★4.3 (5,552 reviews) — Great Value
-  ... and 9 more products
+  1. Virbac CET Enzymatic Toothpaste| Eliminates Bad Breath by Removing Plaque & Tartar Buildup | Best Pet Dental Care Toothpaste | Poultry Flavor, 2.5 oz tube — SAR 96.09 — ★4.6 (37,639 reviews) — Great Value
+  2. Simple Solution Disposable Dog Diapers for Female Dogs, True Fit, Absorbent, Leak Proof with Wetness Indicator, XS Puppy & Doggie Period Pad and Pee Diaper, For Toy Pets, 9–14-Inch Waist, 12 Count — SAR 30.78 — ★4.2 (24,337 reviews) — Great Value
+  3. SOOFPET 24 Filter for Cat Fountain, 12 Pieces Filters + 12 Pieces Foam Filters for Drinking Fountain for Cat, Triple Filtering, Meets 2-4 Months Replacement Needs, Suitable for S2 — SAR 98.0 — ★4.3 (8,685 reviews) — Great Value
+  4. FUKUMARU Cat Scratcher, 3 PCS Cardboard Cat Scratcher, Wider Cat Scratch Pad Reversible, Cat Scratching Board Corrugated, Cat Scratcher Refill Pads for Cat Scratch Box — SAR 79.99 — ★4.7 (6,197 reviews) — Great Value
+  5. LASOCUHOO Interactive Cat Rainbow Wand Toys, Interactive Cat Teaser Wand String, Colorful Ribbon Charmer for Most Cats and Kittens - 2 Packs — SAR 13.3 — ★4.5 (5,374 reviews) — Great Value
+  6. PETLIBRO 8 Packs Replacement Filters for Dockstream Cat Water Fountain PLWF005/PLWF115, 4 Months Set of Replacement Filters for Ultra Quiet Pet Water Fountain (8 Packs) — SAR 99.99 — ★4.7 (4,397 reviews) — Great Value
+  7. Wellness Core Multipack Pouches Turkey & Duck x3 Chicken & Turkey x3 in Gravy for Cats 6x85g — SAR 50.0 — ★4.2 (2,867 reviews) — Great Value
+  8. Wellness Core Multipack Pouches Turkey & Duck x3 Chicken & Turkey x3 in Gravy for Cats 6x85g — SAR 50.0 — ★4.2 (2,867 reviews) — Great Value
+  9. Royal Canin Feline Breed Nutrition Kitten Persian 2 KG — SAR 148.95 — ★4.5 (2,252 reviews) — Great Value
+  10. Zupreem Pure Fun Medium Birds 907g — SAR 77.79 — ★4.6 (977 reviews) — Great Value
+  ... and 7 more products
+
+## Best Affordable Automotive on Amazon
+URL: https://msbayunes.github.io/smartpicksai/automotive/best-affordable-automotive-on-amazon/
+Products: 17 | Category: Automotive
+Last updated: 2026-03-30
+
+  1. APPS2Car Compatible for MagSafe Car Mount - Designed for iPhone 17/16/15/14/13/12 MagSafe Case — SAR 45.99 — ★4.5 (33,733 reviews) — Great Value
+  2. K&N Engine Air Filter: High Performance, Premium, Washable, Replacement Filter: Fits 2018-2020 Jeep Wrangler JL and Gladiator, 33-5076 — SAR 255.4 — ★4.4 (21,244 reviews) — Great Value
+  3. Mafra Extreme Black 500ml: tire polish — SAR 30.24 — ★4.6 (4,223 reviews) — Great Value
+  4. Liqui Moly Catalytic-System Clean 300ml, Multicolour, 7110 — SAR 56.0 — ★4.5 (3,152 reviews) — Great Value
+  5. Michelin High Power Rapid Tire Inflator For Cars - 12266 — SAR 174.99 — ★4.4 (2,975 reviews) — Great Value
+  6. Turtle Wax 53850 Hybrid Solutions Graphene Acrylic Trim Restorer, Brings Dull Faded Exterior Plastic and Trim Back to Life Permanently, Protects from Future Damage - 296 ml — SAR 47.0 — ★4.3 (1,250 reviews) — Great Value
+  7. EastElegant Microfiber Plush Car Drying Towel Cleaning Towels Super Absorbent Auto Detailing Towel (60x120cm, Grey) — SAR 39.99 — ★4.1 (1,024 reviews) — Great Value
+  8. Shell Helix Ultra SP 5W30 Fully Synthetic Motor Oil - Carton (12 x 1 liter) - Dexos1 Gen3 certified — SAR 338.4 — ★4.7 (823 reviews) — Great Value
+  9. Turtle Wax 53482 Hybrid Solutions Streak Free Misting Car Interior Detailer and Cleaner, for Dashboards and Consoles, Use on Plastic, Vinyl, Leather, Rubber, Screens and Glass, UV Protection, 20 oz — SAR 45.9 — ★4.5 (639 reviews) — Great Value
+  10. CHEMICAL GUYS Leather Cleaner Wipes 50 ct (PMWSPI20850) — SAR 81.0 — ★4.6 (493 reviews) — Great Value
+  ... and 7 more products
 
 ## Best Affordable Books Under 100 SAR on Amazon Saudi Arabia
 URL: https://msbayunes.github.io/smartpicksai/books/best-affordable-books-under-100-sar-on-amazon-saudi-arabia/
@@ -5351,22 +5283,70 @@ Last updated: 2026-04-03
   10. The Psychology of Money — SAR 52 — ★4.7 (76,000 reviews) — Great Value
   ... and 7 more products
 
+## Best Affordable Office Products on Amazon
+URL: https://msbayunes.github.io/smartpicksai/office/best-affordable-office-products-on-amazon/
+Products: 16 | Category: Office Products
+Last updated: 2026-03-30
+
+  1. Prismacolor Premier Colored Pencils | Art Supplies for Drawing, Sketching, Adult Coloring | Soft Core Color Pencils, 48 Pack — SAR 227.83 — ★4.5 (86,217 reviews) — Great Value
+  2. Amazon Basics Stapler With 1000 Staples, Matte Black — SAR 24.36 — ★4.5 (23,644 reviews) — Great Value
+  3. PRISMACOLOR 3597T Premier Colored Pencils, Soft Core, 24ct — SAR 125.09 — ★4.8 (22,132 reviews) — Great Value
+  4. Amazon Basics Hardboard Clipboard - 6-Pack, Brown — SAR 33.0 — ★4.6 (14,037 reviews) — Great Value
+  5. NIIMBOT Label Maker Machine D11 Label Printer Tape Included Portable Wireless Connection Multiple Templates Available for Phone Easy to Use Office Home Organization USB Rechargeable — SAR 139.9 — ★4.6 (14,009 reviews) — Great Value
+  6. Winsor & Newton PROMARKER 6 SKIN TONES SET 1 — SAR 95.0 — ★4.6 (12,168 reviews) — Great Value
+  7. Posca Paint Marker Pen - PC-5M Extra Fine 1.8-2.5 mm, 16 Colors — SAR 129.59 — ★4.8 (11,143 reviews) — Great Value
+  8. Parker Im Ballpoint Pen | Matte Black With Black Trim | Medium Point With Blue Ink Refill | Gift Box — SAR 176.0 — ★4.4 (6,847 reviews) — Great Value
+  9. Oxford Spiral Notebook 18 Pack, 1 Subject, Wide Ruled Paper, 8 x 10-1/2 Inch, Pastel Pink, Orange, Yellow, Green, Blue and Purple, 70 Sheets (63757) — SAR 45.06 — ★4.8 (4,673 reviews) — Great Value
+  10. Waterman Hemisphere Essential Black Lacquer Ct - S0920570 — SAR 323.0 — ★4.5 (3,236 reviews) — Great Value
+  ... and 6 more products
+
+## Best Affordable Baby Products on Amazon
+URL: https://msbayunes.github.io/smartpicksai/baby/best-affordable-baby-products-on-amazon/
+Products: 14 | Category: Baby Products
+Last updated: 2026-03-30
+
+  1. Cetaphil Baby Wash and Shampoo, With Organic Calendula and Aloe Vera, Tear Free, Colorant and Mineral Oil Free, Hypoallergenic, Unscented, 400ml — SAR 41.95 — ★4.7 (38,598 reviews) — Great Value
+  2. CREVENT 2Pcs 76x102cm Cute Cozy Fluffy Warm Baby Blankets for Infants Toddlers' Bedding Crib Cot Stroller - Giraffe +Wave Pink — SAR 85.0 — ★4.7 (27,074 reviews) — Great Value
+  3. KeaBabies Baby Wrap Carrier - All in 1 Original Baby Carrier Newborn to Toddler Sling, Easy to Wear, Hands Free Bonding, Lightweight, Breathable Infant Wraps (Forest Berries) — SAR 256.45 — ★4.5 (27,099 reviews) — Great Value
+  4. Babyjoy Compressed Diamond Pad, Size 3, Medium, 6-12 Kg, Mega Pack, 68 Diapers — SAR 63.54 — ★4.6 (1,984 reviews) — Great Value
+  5. Babyjoy Compressed Diamond Pad, Size 3, Medium, 6-12 Kg, Mega Pack, 68 Diapers — SAR 63.54 — ★4.6 (1,984 reviews) — Great Value
+  6. Munchkin Gentle Transition Trainer Cup, Spout transition from bottle to spill proof cup, leak proof and anti-slip handle for Baby/infant, boys and girls, 4oz Cpacity,4 months and above, Pink — SAR 35.65 — ★4.5 (1,605 reviews) — Great Value
+  7. Baybee Aura Western Toilet Potty Seat for Kids, Baby Potty Training Seat Chair with Ladder, Adjustable Step Height, Cushion Seat | Kids Toilet Seat | Potty Seat for 1-8 Years Child Boy Girl (Green) — SAR 67.99 — ★4.2 (1,696 reviews) — Great Value
+  8. Pampers Baby Wet Wipes, Complete Clean, 3 Packs x64, 192 Wipes — SAR 41.33 — ★4.6 (1,179 reviews) — Great Value
+  9. Fine Baby, Size 6, Junior 16+ kg, 54 Diapers — SAR 43.18 — ★4.5 (930 reviews) — Great Value
+  10. Huggies, Extra Care Baby Diapers, Size 5 (12-22 kg), Jumbo Pack of 60 Diapers, Soft Pillows Absorb in Seconds, Absorbent Channels and Stretchy Waistband, 12h Day & Night Protection — SAR 54.32 — ★4.4 (800 reviews) — Great Value
+  ... and 4 more products
+
 ## Best Affordable Video Games on Amazon
 URL: https://msbayunes.github.io/smartpicksai/videogames/best-affordable-video-games-on-amazon/
 Products: 13 | Category: Video Games
 Last updated: 2026-03-30
 
-  1. Microsoft Xbox X Play and Charge Kit/Xbox Series X — SAR 119.0 — ★4.5 (12,286 reviews) — Great Value
-  2. KIWIHOME Cooling Fan for PS5 Accessories, Upgraded Quiet Cooler Fan with LED and USB3.0 Hubs, Efficient Horizontal Cooling System for PS5 Disc and Digital Edition, Not for PS5 Slim (Black) — SAR 99.99 — ★4.3 (12,544 reviews) — Great Value
-  3. Razer Kraken Gaming Headset: Lightweight Aluminum Frame - Retractable Noise Isolating Microphone - For PC, PS4, PS5, Switch, Xbox One, Xbox Series X & S, Mobile - 3.5 mm Headphone Jack - Classic Black — SAR 97.91 — ★4.0 (8,452 reviews) — Great Value
-  4. OIVO PS5 Horizontal Stand, Stand for PS5 Compatible with PlayStation 5/Slim/Pro Console Disc & Digital Editions with Screw Mount, Stable P5 Accessory Stand (Black) — SAR 52.99 — ★4.5 (4,045 reviews) — Great Value
-  5. ATTACK SHARK X3 49g Ultralight Mouse, PixArt PAW3395 Gaming Sensor, BT/2.4G Wireless/Wired Gaming Mouse, 26000 DPI, 200 Hours Battery, Office Mice for Win11/Xbox/PS/Mac (Black) — SAR 188.99 — ★4.3 (1,866 reviews) — Great Value
-  6. ATTACK SHARK X68 HE 8000Hz Rapid Trigger Keyboard, 0.01mm RT Accuracy Wired Gaming Keyboard with Magnetic Switch, Adjustable Actuation, Rapid Trigger, Snap Tap, RGB Lighting for PC/Mac, White Contours — SAR 279.99 — ★4.5 (1,161 reviews) — Great Value
-  7. Savage Raven by Skull & Co. Skin, CQC Thumb Grip Set Joystick Cap Analog Stick Cap for Nintendo Switch 2 Joy-Con Controller - Galactic Purple, 3 Pairs(6pcs) — SAR 29.99 — ★4.6 (757 reviews) — Great Value
-  8. Razer Kaira X PlayStation Licensed Wired Gaming Headset: 50mm Drivers, Hyperclear Cardioid Mic, Memory Foam Cushions, On-Headset Controls, For PlayStation, PS5, PS4, PC, Mac, Mobile – White & Black — SAR 108.5 — ★4.4 (476 reviews) — Great Value
-  9. GeekShare Hard Case Compatible with Switch 2 (2025), Anti-Scratch Dockable Protective Cover for Switch 2 with Detachable Joy Con, The Moon (White) — SAR 69.99 — ★4.6 (393 reviews) — Great Value
-  10. EPOMAKER EA75 75% RGB Gaming Mechanical Keyboard, 2.4GHz/Type-C/BT Creamy Wireless Keyboard with Knob, Shine Through PBT Keycaps, Hot Swappable for Gamers (Black Gradient, Graywood V3 Switch) — SAR 345.99 — ★4.7 (247 reviews) — Great Value
+  1. amiibo Daisy (Nintendo Switch) — SAR 76.23 — ★4.8 (18,469 reviews) — Great Value
+  2. KIWIHOME PS5 Cooling Accessories, Horizontal PS5 Cooling Fan with LED Light, Upgraded Quiet Cooler Fan with USB3.0 Hubs, for PS5 Disc and Digital Edition(White) — SAR 99.99 — ★4.3 (12,551 reviews) — Great Value
+  3. EPOMAKER Ajazz AK820 Pro 75% Mechanical Keyboard, Gasket-Mounted Keyboard with TFT Smart Display&Knob, Bluetooth 5.1/2.4G Wireless/Type-C Wired Custom(White Purple, Ajazz Gift Switch) — SAR 298.99 — ★4.4 (4,365 reviews) — Great Value
+  4. EPOMAKER Ajazz AK820 Pro 75% Mechanical Keyboard, Gasket-Mounted Keyboard with TFT Smart Display&Knob, Bluetooth 5.1/2.4G Wireless/Type-C Wired Custom(White Purple, Ajazz Gift Switch) — SAR 250.0 — ★4.4 (4,365 reviews) — Great Value
+  5. YUNZII B75 PRO Wireless Mechanical Keyboard,75% Gaming Keyboard Gasket Hot Swap Custom with Knob,Pre-lubed Switches RGB,Bluetooth/Type-C/2.4G (Pink, Milk Switch) — SAR 242.6 — ★4.6 (1,862 reviews) — Great Value
+  6. YUNZII B75 PRO Wireless Mechanical Keyboard,75% Gaming Keyboard Gasket Hot Swap Custom with Knob,Pre-lubed Switches RGB,Bluetooth/Type-C/2.4G (Pink, Milk Switch) — SAR 242.6 — ★4.6 (1,862 reviews) — Great Value
+  7. SCUF Universal Controller Protection Case Light Gray for Xbox Series X|S Controller, PS5 Controller, Xbox One Controller, PS4 Controller for Travel and Storage - Xbox Series X; — SAR 103.18 — ★4.7 (1,311 reviews) — Great Value
+  8. ATTACK SHARK X11 Lightweight Wireless Gaming Mouse with RGB Charging Dock,Tri-Mode-2.4G/USB-C Wired/BT,22K DPI,PAW3311 Optical Sensor,HUYU Switch, 5 programmable Buttons for PC/Mac(Black) — SAR 135.99 — ★4.5 (1,234 reviews) — Great Value
+  9. YUNZII Updated Wireless Typewriter Vintage Keyboard with Built-in Holder, USB C/Bluetooth Keyboard with Round Keycap, Multi-Device for Win/Mac (Baby Pink, B307) — SAR 286.51 — ★4.4 (567 reviews) — Great Value
+  10. EPOMAKER HE80 Hall Effect Gaming Keyboard, 8K Polling & 32K Scan, Creamy Gasket, DKS, SOCD, Hot-Swappable, RGB Backlit, Wired Gaming Keyboard for PC & Mac (Black) — SAR 302.99 — ★4.5 (248 reviews) — Great Value
   ... and 3 more products
+
+## Best Affordable Amazon Devices on Amazon
+URL: https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-on-amazon/
+Products: 8 | Category: Amazon Devices
+Last updated: 2026-03-30
+
+  1. Amazon Kindle Paperwhite and Kindle Paperwhite Signature Edition Case, Lightweight and Water-Safe, Foldable Protective Cover - Fabric — SAR 159.0 — ★4.7 (11,789 reviews) — Great Value
+  2. Echo Show 8 (3rd generation) Adjustable Stand with USB-C Charging Port | Glacier White — SAR 149.0 — ★4.5 (11,708 reviews) — Great Value
+  3. Arteck Backlit USB Wired Full Size Keyboard with Media Hotkey for PC and Laptop — SAR 171.2 — ★4.4 (3,472 reviews) — Great Value
+  4. Echo (4th Gen) | smart bluetooth speaker with Alexa and premium sound | Use your voice to control your smart home devices, play the Quran or music, and more (speaks English & Khaleeji) | White — SAR 479.99 — ★4.5 (765 reviews) — Great Value
+  5. Echo (4th Gen) | smart bluetooth speaker with Alexa and premium sound | Use your voice to control your smart home devices, play the Quran or music, and more (speaks English & Khaleeji) | White — SAR 479.99 — ★4.5 (765 reviews) — Great Value
+  6. GUDTEKE 14 Inch Laptop Screen Privacy Shield, Blue Light UV-Blocking Screen Privacy Filter, Compatible with Lenovo/HP/Dell, 2 Pack — SAR 162.0 — ★4.0 (245 reviews) — Great Value
+  7. Ring Battery Video Doorbell | Answer your door from anywhere | Wireless Video Doorbell Camera I Head-To-Toe View, Two-way Talk | With Built-in Battery I 30-day free Ring Subscription trial — SAR 449.0 — ★4.3 (100 reviews) — Great Value
+  8. Ring Battery Video Doorbell | Answer your door from anywhere | Wireless Video Doorbell Camera I Head-To-Toe View, Two-way Talk | With Built-in Battery I 30-day free Ring Subscription trial — SAR 449.0 — ★4.3 (100 reviews) — Great Value
 
 ## Best Affordable Amazon Devices Under 100 SAR on Amazon Saudi Arabia
 URL: https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-under-100-sar-on-amazon-saudi-arabia/
@@ -5382,6 +5362,18 @@ Last updated: 2026-04-03
   7. VINTEZ Acrylic 21.5 Inch - High Clarity Computer Privacy Screen Filter for Widescreen Computer Monitors - 19.3" x 11.3" - 491 x 288mm - Monitor Frame Hanging Type — SAR 92.26 — ★4.2 (500 reviews) — Great Value
   8. Ring Indoor Camera (2nd Gen) by Amazon | Plug-In Pet Security Camera | 1080p HD, Two-Way Talk, Wifi, Privacy Cover, DIY | alternative to CCTV system | 30-day free Ring Subscription trial — SAR 99.0 — ★4.2 (206 reviews) — Great Value
 
+## Best Affordable Toys on Amazon
+URL: https://msbayunes.github.io/smartpicksai/toys/best-affordable-toys-on-amazon/
+Products: 6 | Category: Toys
+Last updated: 2026-03-30
+
+  1. Intex Dinosaur Play Center Inflatable Swimming Pool, 249 cm x 191 cm x 109 cm Size — SAR 159.0 — ★4.2 (17,778 reviews) — Great Value
+  2. Talens Art Creation Japan Royal T9314-002M 407145 Sketchbook, Drawing Notebook, 5.1 x 8.3 inches (13 x 21 cm), Black — SAR 101.08 — ★4.7 (4,038 reviews) — Great Value
+  3. Born Toys 8 PC Premium WASHABLE kids Fireman Costume Toy for kids,Boys,Girls,Toddlers, and children with complete firefighter accessories — SAR 110.0 — ★4.5 (841 reviews) — Great Value
+  4. Galison Spring Street 1000 Piece Puzzle in a Square Box from - 1000 Piece Puzzle for Adults, Beautiful Illustrations from Joy Laforme, Thick and Sturdy Pieces, Idea — SAR 74.01 — ★4.6 (602 reviews) — Great Value
+  5. 3 in 1 Musical Mat for Kids, Baby Toys Piano Keyboard and Animal Sound and Drum Set with 2 Sticks for Baby Girl Gift, Touch Play Playmat Early Learning Education Toys for 4 5 6 Years Kids — SAR 53.99 — ★4.4 (151 reviews) — Great Value
+  6. DIY Slime Kit for Kids-Non-Sticky,Soft & Scented to Make Cloud, Foam, Butter, Ice Cream Slime & Candy Slime with Charms – Stress Relief Party Favors & Great Gift Idea (style 1) — SAR 75.0 — ★4.4 (121 reviews) — Great Value
+
 ## Best Makeup Brushes on Amazon Saudi Arabia 2026
 URL: https://msbayunes.github.io/smartpicksai/beauty/best-makeup-brushes-on-amazon-saudi-arabia-2026/
 Products: 4 | Category: Beauty
@@ -5391,15 +5383,6 @@ Last updated: 2026-04-06
   2. Jessup Makeup Brushes Set Make up Brushes 14Pcs Black Kabuki Foundation Eyeshadow Contour Concealer Powder Eyeliner Crease Eyebrow Blending Brush, T336 — SAR 169.65 — ★4.6 (5,597 reviews) — Great Value
   3. Jessup Makeup Brushes 14Pcs Makeup Brush Set Premium Synthetic Powder Foundation Contour Blush Concealer Eye Shadow Blending Liner Make Up Brush Kit Light Grey T329 — SAR 169.65 — ★4.6 (5,595 reviews) — Great Value
   4. Jessup Makeup Brushes Set 10pcs, Double Sided Foundation Contour Blush Highlight Blending Eyebrow Brush Eyeshadow Eyeliner Concealer Brush, Bright Cyan Cruelty Free Cosmetic Tools T500 — SAR 127.0 — ★4.6 (1,480 reviews) — Great Value
-
-## Best Affordable Amazon Devices on Amazon
-URL: https://msbayunes.github.io/smartpicksai/devices/best-affordable-amazon-devices-on-amazon/
-Products: 3 | Category: Amazon Devices
-Last updated: 2026-03-30
-
-  1. New Ring Solar Charger for Battery Video Doorbell — SAR 229.0 — ★4.3 (2,894 reviews) — Great Value
-  2. Ring Indoor Camera (2nd Gen) by Amazon | Plug-In Pet and Kids Indoor Security Camera | 1080p HD, Two-Way Talk, Wifi, Privacy Cover, DIY | alternative to CCTV | 30-day free Ring Subscription trial — SAR 99.0 — ★4.2 (208 reviews) — Great Value
-  3. Indoor/Outdoor Power Adaptor (for Stick Up Cam 3rd generation)| Black — SAR 130.09 — ★4.2 (118 reviews) — Great Value
 
 ## Anker 4-Port vs JOTO 2 vs Sony WH-CH520: Which Electronics Wins? [2026 Comparison]
 URL: https://msbayunes.github.io/smartpicksai/electronics/anker 4-port-vs-joto 2-vs-sony wh-ch520-comparison/
@@ -5608,32 +5591,40 @@ Last updated: 2026-04-06
   2. itPlus Cat Grooming Brush, Self Cleaning Slicker Brushes for Dogs and Cats Pet Grooming Brush for Pet Massage-Self Cleaning, Assorted Colors — SAR 14.5 — ★4.2 (19,630 reviews) — Great Value
   3. oneisall Dog Clippers & Paw Trimmer 4 in 1 Pet Grooming Kit Customised for Puppies and Cats, Cordless 3-Speed Pet Clippers, Quite IPX7 Waterproof Dog Trimmer for Full-Body Grooming — SAR 69.99 — ★4.2 (387 reviews) — Great Value
 
+## Jessup Vegan vs Jessup Makeup: Which Beauty Wins? [2026 Comparison]
+URL: https://msbayunes.github.io/smartpicksai/beauty/jessup vegan-vs-jessup makeup-comparison/
+Products: 3 | Category: Beauty
+Last updated: 2026-04-07
+
+  1. Jessup Vegan Makeup Brushes Set Premium Synthetic Powder Foundation Highlight Concealer Eyeshadow Blending Eyebrow Liner Spoolie Brush Set Burlywood 12pcs T327 — SAR 135.26 — ★4.6 (5,599 reviews) — Great Value
+  2. Jessup Makeup Brushes Set Make up Brushes 14Pcs Black Kabuki Foundation Eyeshadow Contour Concealer Powder Eyeliner Crease Eyebrow Blending Brush, T336 — SAR 169.65 — ★4.6 (5,597 reviews) — Great Value
+  3. Jessup Makeup Brushes 14Pcs Makeup Brush Set Premium Synthetic Powder Foundation Contour Blush Concealer Eye Shadow Blending Liner Make Up Brush Kit Light Grey T329 — SAR 169.65 — ★4.6 (5,595 reviews) — Great Value
+
+## Best Skincare on Amazon Saudi Arabia 2026
+URL: https://msbayunes.github.io/smartpicksai/beauty/best-skincare-on-amazon-saudi-arabia-2026/
+Products: 3 | Category: Beauty
+Last updated: 2026-04-07
+
+  1. La Roche-Posay Anthelios UVMune 400 Invisible Fluid Sunscreen SPF 50+ for Men/Women; Dermatologically-Tested Skincare Sunblock for Sensitive, Reactive, or Sun-Allergic Skin 50ML — SAR 85.95 — ★4.0 (14,988 reviews) — Great Value
+  2. Dettol Skincare Shower Gel & Body Wash, Rose & Sakura Blossom Scent, 250ml x 2 — SAR 15.92 — ★4.5 (432 reviews) — Great Value
+  3. Dettol Skincare Shower Gel & Body Wash, Rose & Sakura Blossom Scent, 700ml - Package May Vary — SAR 22.95 — ★4.5 (353 reviews) — Great Value
+
+## Best Affordable Patio, Lawn & Garden on Amazon
+URL: https://msbayunes.github.io/smartpicksai/garden/best-affordable-patio-lawn-garden-on-amazon/
+Products: 2 | Category: Patio, Lawn & Garden
+Last updated: 2026-03-30
+
+  1. Zevo Flying Insect Trap Refill - for The Zevo MAX & Standard Indoor Fly Trap - Catch Gnats, House & Fruit Flies - Easy to Use - Mess-Free Disposal (4 Refill Cartridges) — SAR 150.9 — ★4.5 (98,796 reviews) — Budget Pick
+  2. Baygon Cockroach & Ant Killer Spray with Dual Nozzle - Pest Control for Roaches, Ants & Ticks - Long-Lasting Formula with 2-Way Targeting System for Thorough Home Protection, 400ml — SAR 16.25 — ★4.4 (136 reviews) — Great Value
+
 ## Best Affordable Books on Amazon
 URL: https://msbayunes.github.io/smartpicksai/books/best-affordable-books-on-amazon/
 Products: 1 | Category: Books
 Last updated: 2026-03-30
 
-  1. Peter Rabbit A Big Box of Little Books — SAR 58.17 — ★4.8 (639 reviews) — Great Value
+  1. Untitled 343176: Coming Soon — SAR 109.0 — ★5.0 (305,244 reviews) — Best Overall
 
 ## Common Questions
-Q: What is the best affordable fashion product on Amazon?
-A: Based on our analysis of customer ratings and sales data, the Gildan Men's V-Neck T-Shirts, Multipack, Style G1103 is currently the best affordable pick, with a 4.1-star rating and excellent value under $133 (500 SAR).
-
-Q: Are cheap fashion products on Amazon good quality?
-A: Yes, many affordable fashion products on Amazon have excellent quality. We only recommend products with 4.0+ star ratings and 100+ verified reviews, ensuring they have been tested by real customers.
-
-Q: What is the best affordable beauty product on Amazon?
-A: Based on our analysis of customer ratings and sales data, the Cerave Foaming Cleanser for Normal to Oily Skin with Hyaluronic Acid is currently the best affordable pick, with a 4.3-star rating and excellent value under $133 (500 SAR).
-
-Q: Are cheap beauty products on Amazon good quality?
-A: Yes, many affordable beauty products on Amazon have excellent quality. We only recommend products with 4.0+ star ratings and 100+ verified reviews, ensuring they have been tested by real customers.
-
-Q: What is the best affordable grocery product on Amazon?
-A: Based on our analysis of customer ratings and sales data, the Alpro Almond No Sugars Plant-Based Long Life Drink Vegan & Dairy Free,1L (Pack of 8) is currently the best affordable pick, with a 4.2-star rating and excellent value under $133 (500 SAR).
-
-Q: Are cheap grocery products on Amazon good quality?
-A: Yes, many affordable grocery products on Amazon have excellent quality. We only recommend products with 4.0+ star ratings and 100+ verified reviews, ensuring they have been tested by real customers.
-
 Q: Which electronics is best overall?
 A: The Amazon Basics AAA 1.5 Volt Performance Alkaline Batteries, 36-Pack(Appearance may vary) is the top-rated option with 4.6/5 stars from 1,941,951 verified buyers.
 
@@ -5645,3 +5636,21 @@ A: The CeraVe Moisturizing Cream (539g) is the top-rated option with 4.7/5 stars
 
 Q: What is the most affordable health option?
 A: The most affordable pick is the Cerave Foaming Cleanser for Normal to Oily Skin with Hyaluronic Acid.
+
+Q: Which office products is best overall?
+A: The Elmer's Disappearing Purple School Glue Sticks, Washable, 6 Grams, 12 Count is the top-rated option with 4.8/5 stars from 96,111 verified buyers.
+
+Q: What is the most affordable office products option?
+A: The most affordable pick is the Post-it Super Sticky Notes (24 Pads).
+
+Q: Which diy & tools is best overall?
+A: The Command Picture Large Hanging Strips | Holds 7.2 kg whole pack | White color | Organize | Decoration | No Tools | Holds Strongly | Damage-Free Hanging | 4 pairs/pack is the top-rated option with 4.3/5 stars from 94,577 verified buyers.
+
+Q: What is the most affordable diy & tools option?
+A: The most affordable pick is the Command Picture Medium Hanging Strips Value pack | Holds 5.4 kg whole pack| White color | Organize | Decoration | No Tools | Holds Strongly | Damage-Free Hanging | 12 pairs/pack.
+
+Q: Which sporting goods is best overall?
+A: The AmazonBasics Extra Thick Exercise Yoga Gym Floor Mat with Carrying Strap is the top-rated option with 4.4/5 stars from 108,421 verified buyers.
+
+Q: What is the most affordable sporting goods option?
+A: The most affordable pick is the DEGOL Skipping Rope with Ball Bearings Rapid Speed Adjustable Jump Rope Cable and 6” Memory Foam Handles Ideal for Aerobic Exercise Like Speed Training, Extreme Jumping, Endurance Training and Gym.
