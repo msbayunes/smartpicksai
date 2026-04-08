@@ -1,7 +1,7 @@
 {
   "name": "SmartPicksAI",
   "description": "Best affordable products on Amazon with verified ratings",
-  "last_updated": "2026-04-07",
+  "last_updated": "2026-04-08",
   "criteria": {
     "min_rating": 4.0,
     "min_reviews": 500,
@@ -9,97 +9,97 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 4195,
-  "total_articles": 345,
+  "total_products": 4637,
+  "total_articles": 361,
   "categories": [
     {
       "id": "electronics",
       "name": "Electronics",
-      "product_count": 310,
+      "product_count": 348,
       "url": "https://msbayunes.github.io/smartpicksai/electronics/"
     },
     {
       "id": "home",
       "name": "Home & Kitchen",
-      "product_count": 335,
+      "product_count": 370,
       "url": "https://msbayunes.github.io/smartpicksai/home/"
     },
     {
       "id": "beauty",
       "name": "Beauty",
-      "product_count": 412,
+      "product_count": 452,
       "url": "https://msbayunes.github.io/smartpicksai/beauty/"
     },
     {
       "id": "health",
       "name": "Health",
-      "product_count": 376,
+      "product_count": 413,
       "url": "https://msbayunes.github.io/smartpicksai/health/"
     },
     {
       "id": "fashion",
       "name": "Fashion",
-      "product_count": 372,
+      "product_count": 417,
       "url": "https://msbayunes.github.io/smartpicksai/fashion/"
     },
     {
       "id": "grocery",
       "name": "Grocery",
-      "product_count": 305,
+      "product_count": 337,
       "url": "https://msbayunes.github.io/smartpicksai/grocery/"
     },
     {
       "id": "baby",
       "name": "Baby Products",
-      "product_count": 280,
+      "product_count": 307,
       "url": "https://msbayunes.github.io/smartpicksai/baby/"
     },
     {
       "id": "toys",
       "name": "Toys",
-      "product_count": 200,
+      "product_count": 214,
       "url": "https://msbayunes.github.io/smartpicksai/toys/"
     },
     {
       "id": "sports",
       "name": "Sporting Goods",
-      "product_count": 272,
+      "product_count": 298,
       "url": "https://msbayunes.github.io/smartpicksai/sports/"
     },
     {
       "id": "office",
       "name": "Office Products",
-      "product_count": 258,
+      "product_count": 290,
       "url": "https://msbayunes.github.io/smartpicksai/office/"
     },
     {
       "id": "automotive",
       "name": "Automotive",
-      "product_count": 253,
+      "product_count": 284,
       "url": "https://msbayunes.github.io/smartpicksai/automotive/"
     },
     {
       "id": "garden",
       "name": "Patio, Lawn & Garden",
-      "product_count": 123,
+      "product_count": 140,
       "url": "https://msbayunes.github.io/smartpicksai/garden/"
     },
     {
       "id": "pets",
       "name": "Pet Supplies",
-      "product_count": 225,
+      "product_count": 248,
       "url": "https://msbayunes.github.io/smartpicksai/pets/"
     },
     {
       "id": "tools",
       "name": "DIY & Tools",
-      "product_count": 258,
+      "product_count": 285,
       "url": "https://msbayunes.github.io/smartpicksai/tools/"
     },
     {
       "id": "videogames",
       "name": "Video Games",
-      "product_count": 131,
+      "product_count": 147,
       "url": "https://msbayunes.github.io/smartpicksai/videogames/"
     },
     {
@@ -111,7 +111,7 @@
     {
       "id": "devices",
       "name": "Amazon Devices",
-      "product_count": 62,
+      "product_count": 64,
       "url": "https://msbayunes.github.io/smartpicksai/devices/"
     }
   ],
@@ -370,6 +370,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B003CTG99G?tag=smartpicksai-21"
     },
     {
+      "name": "Majestic Pure Rosemary Essential Oil with Glass Dropper - Huge 4 Fl Oz - 100% Pure and Natural Rosemary Oil - Premium Grade Essential Oils for Diffuser, Aromatherapy, Soap and Candle Making",
+      "asin": "B07G8M3DTX",
+      "price": 55.0,
+      "currency": "SAR",
+      "rating": 4.4,
+      "reviews": 152224,
+      "category": "health",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B07G8M3DTX?tag=smartpicksai-21"
+    },
+    {
       "name": "Majestic Pure Cedarwood Essential Oil with Glass Dropper - Huge 4 Fl Oz - 100% Pure and Natural Cedarwood Oil - Premium Grade Essential Oils for Diffuser, Aromatherapy, Soap and Candle Making",
       "asin": "B079ZN8SC9",
       "price": 47.6,
@@ -401,6 +412,17 @@
       "category": "home",
       "label": "Budget Pick",
       "amazon_url": "https://www.amazon.sa/dp/B079RZF425?tag=smartpicksai-21"
+    },
+    {
+      "name": "Iron Flask Sports Water Bottle 650ml 3 Lids (Straw Lid) Vacuum Insulated Stainless Steel Double Wall Thermal Mug, Metal Canteen",
+      "asin": "B085BTKBZ4",
+      "price": 120.55,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 135439,
+      "category": "sports",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B085BTKBZ4?tag=smartpicksai-21"
     },
     {
       "name": "Metal Water Bottle with Straw Lid - 950ml 3 Lids - Stainless Steel Double-Walled Insulated Vacuum Leakproof - Sports Gym Camping Hiking Hydration School Kids",
@@ -568,6 +590,17 @@
       "amazon_url": "https://www.amazon.sa/dp/B07NX7WVCS?tag=smartpicksai-21"
     },
     {
+      "name": "Fujifilm Instax Mini Instant Film, 2 x 10 Shoots X 2Pack (Total 40 Shoots) Value Set",
+      "asin": "B0DXKH5M2V",
+      "price": 103.4,
+      "currency": "SAR",
+      "rating": 4.8,
+      "reviews": 112205,
+      "category": "electronics",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B0DXKH5M2V?tag=smartpicksai-21"
+    },
+    {
       "name": "Gildan Men's V-Neck T-Shirts, Multipack, Style G1103",
       "asin": "B07DK5W36Z",
       "price": 100.8,
@@ -577,6 +610,17 @@
       "category": "fashion",
       "label": "Great Value",
       "amazon_url": "https://www.amazon.sa/dp/B07DK5W36Z?tag=smartpicksai-21"
+    },
+    {
+      "name": "Amazon Basics Narrow Ruled Writing Pads, 50 Sheets Per Pad, 12 pack, 12.7 cm by 20.3 cm, White",
+      "asin": "B00QSR9PRI",
+      "price": 22.0,
+      "currency": "SAR",
+      "rating": 4.7,
+      "reviews": 111952,
+      "category": "office",
+      "label": "Editor's Choice",
+      "amazon_url": "https://www.amazon.sa/dp/B00QSR9PRI?tag=smartpicksai-21"
     },
     {
       "name": "Rich Dad Poor Dad",
@@ -621,50 +665,6 @@
       "category": "home",
       "label": "Great Value",
       "amazon_url": "https://www.amazon.sa/dp/B07RSCPH4N?tag=smartpicksai-21"
-    },
-    {
-      "name": "Amazon Basics Microfiber Fitted Sheets, Bright White, 90 x 190 x 30 cm",
-      "asin": "B01E6XBBE0",
-      "price": 23.0,
-      "currency": "SAR",
-      "rating": 4.3,
-      "reviews": 114363,
-      "category": "home",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B01E6XBBE0?tag=smartpicksai-21"
-    },
-    {
-      "name": "AmazonBasics Extra Thick Exercise Yoga Gym Floor Mat with Carrying Strap",
-      "asin": "B01LP0VBDI",
-      "price": 38.0,
-      "currency": "SAR",
-      "rating": 4.4,
-      "reviews": 108466,
-      "category": "sports",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B01LP0VBDI?tag=smartpicksai-21"
-    },
-    {
-      "name": "AmazonBasics Extra Thick Exercise Yoga Gym Floor Mat with Carrying Strap",
-      "asin": "B01LP0V4JY",
-      "price": 49.0,
-      "currency": "SAR",
-      "rating": 4.4,
-      "reviews": 108421,
-      "category": "sports",
-      "label": "Best Overall",
-      "amazon_url": "https://www.amazon.sa/dp/B01LP0V4JY?tag=smartpicksai-21"
-    },
-    {
-      "name": "Amazon Basics Kitchen Scale (Digital)",
-      "asin": "B073JYC4XM",
-      "price": 39,
-      "currency": "SAR",
-      "rating": 4.7,
-      "reviews": 98765,
-      "category": "home",
-      "label": "Best Overall",
-      "amazon_url": "https://www.amazon.sa/dp/B073JYC4XM?tag=smartpicksai-21"
     }
   ]
 }
