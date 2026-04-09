@@ -1,7 +1,7 @@
 {
   "name": "SmartPicksAI",
   "description": "Best affordable products on Amazon with verified ratings",
-  "last_updated": "2026-04-08",
+  "last_updated": "2026-04-09",
   "criteria": {
     "min_rating": 4.0,
     "min_reviews": 500,
@@ -9,97 +9,97 @@
     "max_price_usd": 53,
     "prime_eligible": true
   },
-  "total_products": 4637,
-  "total_articles": 361,
+  "total_products": 5029,
+  "total_articles": 362,
   "categories": [
     {
       "id": "electronics",
       "name": "Electronics",
-      "product_count": 348,
+      "product_count": 381,
       "url": "https://msbayunes.github.io/smartpicksai/electronics/"
     },
     {
       "id": "home",
       "name": "Home & Kitchen",
-      "product_count": 370,
+      "product_count": 408,
       "url": "https://msbayunes.github.io/smartpicksai/home/"
     },
     {
       "id": "beauty",
       "name": "Beauty",
-      "product_count": 452,
+      "product_count": 484,
       "url": "https://msbayunes.github.io/smartpicksai/beauty/"
     },
     {
       "id": "health",
       "name": "Health",
-      "product_count": 413,
+      "product_count": 444,
       "url": "https://msbayunes.github.io/smartpicksai/health/"
     },
     {
       "id": "fashion",
       "name": "Fashion",
-      "product_count": 417,
+      "product_count": 467,
       "url": "https://msbayunes.github.io/smartpicksai/fashion/"
     },
     {
       "id": "grocery",
       "name": "Grocery",
-      "product_count": 337,
+      "product_count": 364,
       "url": "https://msbayunes.github.io/smartpicksai/grocery/"
     },
     {
       "id": "baby",
       "name": "Baby Products",
-      "product_count": 307,
+      "product_count": 333,
       "url": "https://msbayunes.github.io/smartpicksai/baby/"
     },
     {
       "id": "toys",
       "name": "Toys",
-      "product_count": 214,
+      "product_count": 240,
       "url": "https://msbayunes.github.io/smartpicksai/toys/"
     },
     {
       "id": "sports",
       "name": "Sporting Goods",
-      "product_count": 298,
+      "product_count": 316,
       "url": "https://msbayunes.github.io/smartpicksai/sports/"
     },
     {
       "id": "office",
       "name": "Office Products",
-      "product_count": 290,
+      "product_count": 315,
       "url": "https://msbayunes.github.io/smartpicksai/office/"
     },
     {
       "id": "automotive",
       "name": "Automotive",
-      "product_count": 284,
+      "product_count": 311,
       "url": "https://msbayunes.github.io/smartpicksai/automotive/"
     },
     {
       "id": "garden",
       "name": "Patio, Lawn & Garden",
-      "product_count": 140,
+      "product_count": 149,
       "url": "https://msbayunes.github.io/smartpicksai/garden/"
     },
     {
       "id": "pets",
       "name": "Pet Supplies",
-      "product_count": 248,
+      "product_count": 262,
       "url": "https://msbayunes.github.io/smartpicksai/pets/"
     },
     {
       "id": "tools",
       "name": "DIY & Tools",
-      "product_count": 285,
+      "product_count": 311,
       "url": "https://msbayunes.github.io/smartpicksai/tools/"
     },
     {
       "id": "videogames",
       "name": "Video Games",
-      "product_count": 147,
+      "product_count": 157,
       "url": "https://msbayunes.github.io/smartpicksai/videogames/"
     },
     {
@@ -337,6 +337,28 @@
       "amazon_url": "https://www.amazon.sa/dp/B00A0VCJPI?tag=smartpicksai-21"
     },
     {
+      "name": "KabelDirekt – 8K / 4K HDMI Cable – 0.25m & More HDMI Cables (0.15m–22.5m) – German-Engineered HDMI Lead – Supports 10K/8K@60Hz/4K@120Hz – HDMI Cable for HDTV, PC, PS5, Xbox, Switch",
+      "asin": "B09D1LB715",
+      "price": 74.92,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 163987,
+      "category": "electronics",
+      "label": "Best Overall",
+      "amazon_url": "https://www.amazon.sa/dp/B09D1LB715?tag=smartpicksai-21"
+    },
+    {
+      "name": "Beckham Hotel Collection Gel Pillow (2-Pack) - Luxury Plush Gel Pillow - Dust Mite Resistant & Hypoallergenic - Queen",
+      "asin": "B0DPN9MQVG",
+      "price": 105.0,
+      "currency": "SAR",
+      "rating": 4.1,
+      "reviews": 183654,
+      "category": "home",
+      "label": "Best Value",
+      "amazon_url": "https://www.amazon.sa/dp/B0DPN9MQVG?tag=smartpicksai-21"
+    },
+    {
       "name": "Atomic Habits",
       "asin": "B07TKMNY7S",
       "price": 49,
@@ -456,6 +478,17 @@
       "category": "sports",
       "label": "Great Value",
       "amazon_url": "https://www.amazon.sa/dp/B07Y8BW5QK?tag=smartpicksai-21"
+    },
+    {
+      "name": "Anker Soundcore 2 Portable Bluetooth Speaker with 12W Stereo Sound, Bluetooth 5, Bassup, IPX7 Waterproof, 24-Hour Playtime, Wireless Stereo Pairing, Speaker for Home, Outdoors, Travel",
+      "asin": "B0DBM2F3Y7",
+      "price": 149.0,
+      "currency": "SAR",
+      "rating": 4.6,
+      "reviews": 137562,
+      "category": "electronics",
+      "label": "Most Popular",
+      "amazon_url": "https://www.amazon.sa/dp/B0DBM2F3Y7?tag=smartpicksai-21"
     },
     {
       "name": "ThermoPro TP50 Digital Hygrometer Indoor Thermometer Room Thermometer and Humidity Gauge with Temperature Monitor",
@@ -632,39 +665,6 @@
       "category": "books",
       "label": "Editor's Choice",
       "amazon_url": "https://www.amazon.sa/dp/B07GP41P6V?tag=smartpicksai-21"
-    },
-    {
-      "name": "PlayStation 4 DualShock 4 Controller",
-      "asin": "B07PBQN3WR",
-      "price": 129,
-      "currency": "SAR",
-      "rating": 4.6,
-      "reviews": 112000,
-      "category": "videogames",
-      "label": "Best Value",
-      "amazon_url": "https://www.amazon.sa/dp/B07PBQN3WR?tag=smartpicksai-21"
-    },
-    {
-      "name": "Amazon Basics Vacuum Compression Storage Bags with Hand Pump, Multiple Pack of 12 (3 Jumbo, 3 Large, 3 Medium, 3 Small)",
-      "asin": "B07RSCK4XS",
-      "price": 58.0,
-      "currency": "SAR",
-      "rating": 4.4,
-      "reviews": 114823,
-      "category": "home",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B07RSCK4XS?tag=smartpicksai-21"
-    },
-    {
-      "name": "Amazon Basics Vacuum Compression Storage Bags with Hand Pump - Large, 5-Pack",
-      "asin": "B07RSCPH4N",
-      "price": 40.0,
-      "currency": "SAR",
-      "rating": 4.4,
-      "reviews": 114786,
-      "category": "home",
-      "label": "Great Value",
-      "amazon_url": "https://www.amazon.sa/dp/B07RSCPH4N?tag=smartpicksai-21"
     }
   ]
 }
